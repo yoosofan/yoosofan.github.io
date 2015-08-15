@@ -1,0 +1,103 @@
+.. title: DataBase
+.. slug: db
+.. date: 2015-08-14 15:30:35 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+`Web Based Relational Algebra interpreter </webrel/>`_
+=========================================================
+
+Books
+=====
+
+*  `Database System Concepts, 6/E(2011), by Abraham Silberschatz, Henry Korth, S. Sudarshan <http://www.db-book.com>`_
+*  An Introduction to Database Systems, 8/E(2003), by  C.J. Date
+*  An Introduction to Relational Database Theory, 4/E(2014)</a>by Hugh Darwen
+*  `<http://bookboon.com/en/an-introduction-to-relational-database-theory-ebook>`_
+*  `Database Management Systems, 3/E(2007), by  Raghu Ramakrishnan and Johannes Gehrke <http://pages.cs.wisc.edu/~dbbook/>`_
+*  `Exercises on Relational Database Theory, 2E(2014), by Hugh Darwen <http://bookboon.com/en/exercises-on-relational-database-theory-ebook>`_
+*  Database Systems: Design, Implementation, and Management , 9E(2011), by Carlos Coronel, Steven Morris, and Peter Rob
+
+*  ` اصول و طراحی پایگاه داده ها (مخصوص دانشجویان کاردانی و کارشناسی کامپیوتر) ، نویسندگان: احمد براآنی، محمدعلی نعمت بخش
+*   اصول و طراحی پایگاه داده ها (مخصوص دانشجویان کاردانی و کارشناسی کامپیوتر)، نویسنده: تالین ساهاکیان
+*  سیستم مدیریت پایگاه داده ها (مفاهیم و تکنیک ها) ، نویسنده: سید محمدتقی روحانی رانکوهی
+*  مفاهیم بنیادی پایگاه داده ها (با اصلاحات و افزوده ها)، نویسنده: سید محمدتقی روحانی رانکوهی
+
+Other resources
+----------------
+
+*  `The Third Manifesto <http://www.thethirdmanifesto.com>`_
+*  `C.J. Date <http://www.oreilly.com/pub/au/2136>`_
+
+-------------------------------------------------------
+
+DataBase Management Systems
+============================
+
+The most important free and open source (BSD based license) DBMS is 
+`PostgreSQL <http://www.postgresql.org>`_ which is very compatible with SQL standards.
+
+
+*  `PostgreSQL <http://www.postgresql.org>`_
+*  `MySQL <mysql.com>`_
+*  `MariaDB <http://mariadb.org>`_
+*  `SAP MaxDB <http://scn.sap.com/community/maxdb>`_
+*  `InterBase <http://www.embarcadero.com/products/interbase>`_
+*  `Oracle <http://www.oracle.com/us/products/database/overview/index.html>`_
+*  `Microsoft SQLserver <http://www.microsoft.com/sqlserver/>`_
+*  `IBM DB2 <http://www-01.ibm.com/software/data/db2/>`_
+*  `MemSQL <a href="http://www.memsql.com>`_
+*  `Interbase <http://www.embarcadero.com/products/interbase>`_
+*  `valentina-db <http://www.valentina-db.com>`_
+
+
+`SQLite <http://www.sqlite.org>`_
+----------------------------------
+
+SQLite tools
+^^^^^^^^^^^^^
+
+*  `SQLiteMan <http://www.sqliteman.com>`_ ,  `sqliteman-portable <http://portableapps.com/apps/development/sqliteman-portable>`_
+*  `SQLite Database Browser <http://sqlitebrowser.sourceforge.net>`_ , `sqlite_database_browser_portable <http://portableapps.com/apps/development/sqlite_database_browser_portable>`_
+*  `SQLite Manager <a href ="https://addons.mozilla.org/en-US/firefox/addon/5817>`_
+
+
+Java based DBMS
+----------------
+
+*  `H2 <http://www.h2database.com>`_
+*  `Derby <http://db.apache.org/derby/>`_
+*  `HSQLDB <http://hsqldb.org>`_
+
+
+Relational Algebra
+===================
+
+`Web Based Relational Algebra interpreter </webrel/>`_
+-------------------------------------------------------
+
+Ohter resources
+---------------
+
+`<http://www.dcs.warwick.ac.uk/~hugh/TTM/index.html>`_
+
+`<http://www.dcs.warwick.ac.uk/~hugh/TTM/td3grm.txt>`_
+
+`<http://c2.com/cgi/wiki?RelationalLanguage>`_
+
+`<http://www.dcs.warwick.ac.uk/~hugh/TTM/Projects.html>`_
+
+`<http://dbappbuilder.sourceforge.net/Rel.php>`_
+
+`<http://www.quicksort.co.uk>`_
+
+`<http://tclral.sourceforge.net>`_
+
+`<http://duro.sourceforge.net>`_
+
+`Hugh Darwen <http://www.dcs.warwick.ac.uk/~hugh/>`_
+
+`<http://www.thimbleware.com/projects/jrel>`_

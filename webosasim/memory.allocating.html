@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<head>
+  	<title>Memory Allocating</title>
+  	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  	<link rel="stylesheet" href="media/css/style.common.css" media="screen" />
+  	<link rel="stylesheet" href="media/css/style.gantt.css" media="screen" />
+  	<link rel="stylesheet" href="media/css/style.slide.css" media="screen" />
+  	<link rel="stylesheet" href="media/css/style.dataTables.css" media="screen" />
+  	<link rel="stylesheet" href="media/css/style.gantt.css" media="screen" />
+  	<link rel="stylesheet" href="media/css/style.gray.css" media="screen" />
+  	<link rel="shortcut icon" href="media/images/favicon.ico">
+	<script type="text/javascript" language="javascript" src="media/js/jquery.v1.8.2.js"></script>
+	<script type="text/javascript" language="javascript" src="media/js/jquery.slidingFunctions.js"></script>
+	<script type="text/javascript" language="javascript" src="media/js/jquery.memoryFunctions.js"></script>
+	<script type="text/javascript" language="javascript">
+		$(document).ready(function ()
+		{
+			MyNameSpace.ChoosePart("memory");
+		});
+	</script>
+	<script type="text/javascript" language="javascript" src="media/js/jquery.dataTables.js"></script>
+	<script type="text/javascript" language="javascript" src="media/js/jquery.dataTables.memory.js"></script>
+	<script type="text/javascript" language="javascript" src="media/js/jquery.jeditable.js"></script>
+	<script type="text/javascript" language="javascript" src ="media/js/Language.js"></script>
+    <script type="text/javascript" language="javascript" src="media/js/js.build.document.js"></script>
+	<script type="text/javascript" language="javascript" src="media/js/jquery.document.functions.js"></script>
+	<script type="text/javascript" language="javascript" src="media/js/jquery.fn.gantt.js"></script>
+</head>
+<body id="bod">
+	<div class="panel" id="algo"></div>
+	<a class="trigger" id="algoTrigger" href="#">&nbsp;</a>
+	<div class="panel" id="radio_set">
+		<div id="Language">
+			<div id="LangLable" class="setLable">زبان</div>
+			<div id="LangSelect" class="setContent">
+				<select id="selectLanguage" onchange= "if (this.selectedIndex) MyNameSpace.ChooseLanguage(this.selectedIndex);">
+					<option style="display:none;">&nbsp;</option>
+					<option value="persian" selected="true">&nbsp;فارسی</option>
+					<option value="english">&nbsp;English</option>
+					<option value="spanish">&nbsp;español</option>
+					<option value="arabic">&nbsp;عربی</option>
+				</select>
+			</div><!--/LangSelect-->
+		</div><!--/Language--><br/><br/><br/>
+		<div id="diagramType">
+			<div id="DiagramLable" class="setLable">&nbsp;نمایش با نمودار</div>
+			<div id="DiagramSelect" class="setContent">
+				<select id="selectDiagram" onchange= "if (this.selectedIndex) MyNameSpace.ChooseDiagram(this.selectedIndex);" >
+					<option style="display:none;">&nbsp;</option>
+					<option value="gantt" selected="true">&nbsp;گانت</option>
+					<!--<option value="timeline">&nbsp;جدول زمانی</option>-->
+				</select>
+			</div><!--/DiagramSelect-->
+		</div><!--/diagramType--><br/><br/><br/>
+		<div id="themes">
+			<div id="ThemeLable" class="setLable">نمایه نرم افزار</div>
+			<div id="ThemeSelect" class="setContent">
+				<select id="selectTheme" onchange= "if (this.selectedIndex) MyNameSpace.ChooseTheme(this.selectedIndex);">
+					<option style="display:none;">&nbsp;</option>
+					<option value="persian" selected="true">نمایه 1</option>
+					<!--<option value="persian">نمایه 2</option>-->
+				</select>
+			</div><!--/ThemeSelect-->
+		</div><!--/themes--><br/><br/><br/>
+		<label id="showqLabel" class="showqLabelRtl"><input type="checkbox" id="showQ" value="showQ" onclick="MyNameSpace.HandleCheckbox(this);"/>&nbsp;نمایش صف آماده اجرا</label>
+	</div>
+	<a class="trigger" id="settingTrigger" href="#">&nbsp;</a>
+	<a class="trigger" id="helpTrigger" href="help.htm" target="_blank">&nbsp;</a>
+    <div id="container" >
+    	<div id="mainContent">
+    		<img src="media/images/W.png" id="webosasim" width="160" height="160" style="margin: 30px auto 20px auto;"/>
+    		<!--<h1 style=";float:right;padding-top:135px;margin-right:80px;">Webosasim</h1>-->
+    		<div id="table" class="table">
+    			<p dir=rtl style="text-align:right;">
+					<br/>فرآیندهای شرکت کننده در شبیه سازی را مشخص کنید، الگوریتم مورد استفاده پردازنده را تعیین نمایید و دکمه Start را بزنید.
+				</p>
+				<table cellpadding="0" cellspacing="0" class="display" id="procTable" width="100%" style="">
+						<thead>
+							<tr>
+								<th class="procID">شناسه فرآیند</th>
+								<th class="procNAME">نام فرآیند</th>
+								<th class="procSTART">زمان ورود</th>
+								<th class="procEND">زمان پایان</th>
+								<th class="procMEMORY">اندازه فرآیند</th>
+								<th class="procLINK"></th>
+							</tr>
+						</thead>
+						<tbody></tbody>
+					</table>
+					
+					<a href="#" class="StButton" onclick="MyNameSpace.Start();">Start!</a>
+			</div>
+
+		</div><!--/mainContent-->
+	</div><!-- / container -->
+</body>
+</html>

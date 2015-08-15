@@ -1,0 +1,113 @@
+.. title: پایگاه داده
+.. slug: db
+.. date: 2015-08-14 15:30:35 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+`ابزاری برای اجرای دستورهای جبر رابطه‌ای  </webrel/>`_
+------------------------------------------------------------------------------------
+
+تعدادی از کتاب‌های مناسب برای درس پایگاه داده‌ها در ادامه گذاشته شده است.
+===========================================================================================
+
+*  `Database System Concepts, 6/E(2011), by Abraham Silberschatz, Henry Korth, S. Sudarshan <http://www.db-book.com>`_
+*  An Introduction to Database Systems, 8/E(2003), by  C.J. Date
+*  An Introduction to Relational Database Theory, 4/E(2014),by Hugh Darwen
+*  `<http://bookboon.com/en/an-introduction-to-relational-database-theory-ebook>`_
+*  `Database Management Systems, 3/E(2007), by  Raghu Ramakrishnan and Johannes Gehrke <http://pages.cs.wisc.edu/~dbbook/>`_
+*  `Exercises on Relational Database Theory, 2E(2014), by Hugh Darwen <http://bookboon.com/en/exercises-on-relational-database-theory-ebook>`_
+*  Database Systems: Design, Implementation, and Management , 9E(2011), by Carlos Coronel, Steven Morris, and Peter Rob
+
+*  ` اصول و طراحی پایگاه داده ها (مخصوص دانشجویان کاردانی و کارشناسی کامپیوتر) ، نویسندگان: احمد براآنی، محمدعلی نعمت بخش
+*   اصول و طراحی پایگاه داده ها (مخصوص دانشجویان کاردانی و کارشناسی کامپیوتر)، نویسنده: تالین ساهاکیان
+*  سیستم مدیریت پایگاه داده ها (مفاهیم و تکنیک ها) ، نویسنده: سید محمدتقی روحانی رانکوهی
+*  مفاهیم بنیادی پایگاه داده ها (با اصلاحات و افزوده ها)، نویسنده: سید محمدتقی روحانی رانکوهی
+
+دیگر منابع
+================
+
+*  `The Third Manifesto <http://www.thethirdmanifesto.com>`_
+*  `C.J. Date <http://www.oreilly.com/pub/au/2136>`_
+
+-------------------------------------------------------
+
+سامانه‌های مدیریت پایگاه داده DBMS
+==============================================
+
+در سال‌های گذشته به عنوان تمرین سامانه‌های مدیریت پایگاه داده‌ی گوناگونی به کار گرفته شد که مهم‌ترین آنها شاید
+`PostgreSQL <http://www.postgresql.org>`_
+از برخی جنبه‌ها باشد ولی بهتر است که سامانه‌های گوناگون بررسی شود. در ادامه تعدادی از سامانه‌های مدیریت پایگاه داده مهم گذاشته شده است.
+
+*  `PostgreSQL <http://www.postgresql.org>`_
+*  `MySQL <mysql.com>`_
+*  `MariaDB <http://mariadb.org>`_   پروژه‌ای متن باز و رایگاه موازی با MySQL	است که می‌کوشد مانند آن باشد و برخی از توانایی‌های متفاوت را نیز داشته باشد و همزمان متن باز و رایگان باقی بماند.
+*  `SAP MaxDB <http://scn.sap.com/community/maxdb>`_
+*  `InterBase <http://www.embarcadero.com/products/interbase>`_
+*  `Oracle <http://www.oracle.com/us/products/database/overview/index.html>`_
+*  `Microsoft SQLserver <http://www.microsoft.com/sqlserver/>`_
+*  `IBM DB2 <http://www-01.ibm.com/software/data/db2/>`_
+*  `MemSQL <http://www.memsql.com>`_
+*  `Interbase <http://www.embarcadero.com/products/interbase>`_
+*  `valentina-db <http://www.valentina-db.com>`_
+
+`SQLite <http://www.sqlite.org>`_
+---------------------------------------
+
+یک سامانه‌ی مدیریت پایگاه داده‌ی (DBMS) کامل نیست بلکه سودمندی مهم آن نیاز نداشتن به پیکربندی و نصب جداگانه آن است و البته بسیاری از سودمندی‌های سامانه‌های مدیریت پایگاه داده‌ها همچون مجوزها را ندارد.
+
+
+ابزارهایی برای کار ساده‌تر با 
+sqlite
+
+*  `SQLiteMan <http://www.sqliteman.com>`_ ,  `sqliteman-portable <http://portableapps.com/apps/development/sqliteman-portable>`_
+*  `SQLite Database Browser <http://sqlitebrowser.sourceforge.net>`_ , `sqlite_database_browser_portable <http://portableapps.com/apps/development/sqlite_database_browser_portable>`_
+*  `SQLite Manager <https://addons.mozilla.org/en-US/firefox/addon/5817>`_
+
+سامانه‌های مدیریت پایگاه داده به زبان java
+
+
+*  `H2 <http://www.h2database.com>`_
+*  `Derby <http://db.apache.org/derby/>`_
+*  `HSQLDB <http://hsqldb.org>`_
+
+جبر رابطه‌ای
+===============================
+
+`ابزاری برای اجرای دستورهای جبر رابطه‌ای  </webrel/>`_
+-------------------------------------------------------------------------
+
+منابع مرتبط
+------------------------
+
+`توضیحات کاملی در زمینه جبر رابطه‌ای و موضوع‌های در رابطه با آن در
+<http://www.dcs.warwick.ac.uk/~hugh/TTM/index.html>`_
+
+`فهرست کاملی از دستورهای زبان جبر رابطه‌ای
+<http://www.dcs.warwick.ac.uk/~hugh/TTM/td3grm.txt>`_
+
+`زبان‌های رابطه‌ای
+<http://c2.com/cgi/wiki?RelationalLanguage>`_
+
+`فهرستی از یپاده سازی‌های جبر رابطه‌ای در
+<http://www.dcs.warwick.ac.uk/~hugh/TTM/Projects.html>`_
+
+`پیاده سازی خوبی از جبر رابطه‌ای به کمک ربان java
+<http://dbappbuilder.sourceforge.net/Rel.php>`_
+
+`پیاده سازی به کمک زبان python
+<http://www.quicksort.co.uk>`_
+
+`پیاده سازی به زبان c و به کمک tcl
+<http://tclral.sourceforge.net>`_
+
+`یک پایگاه داده کاملا رابطه‌ای
+<http://duro.sourceforge.net>`_
+
+`Hugh Darwen <http://www.dcs.warwick.ac.uk/~hugh/>`_
+
+`فهرستی از تبدیل کننده‌های زبان جبر رابطه‌ای به زبان SQL
+<http://www.thimbleware.com/projects/jrel>`_
+

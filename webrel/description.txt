@@ -1,0 +1,3 @@
+
+
+This tool executes simple relational algebra expressions. It is useful for learning of Database course. Javascript and xhtml is used to develop this tool , so it can be run on any platform which have a web browser. It is so simple to use this tool and learn relational algebra. Relational algebra is a pure relational language which is taught is fundamental of Database.

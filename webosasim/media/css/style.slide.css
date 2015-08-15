@@ -1,0 +1,137 @@
+.panel {
+	position: fixed;
+	display: none;
+	-moz-border-radius-topright: 20px;
+	-webkit-border-top-right-radius: 20px;
+	-moz-border-radius-bottomright: 20px;
+	-webkit-border-bottom-right-radius: 20px;
+	min-width: 200px;
+	height: auto;
+	padding: 30px 30px 30px 130px;
+	z-index:5;
+	text-align:right;
+	direction:rtl;
+}
+div#algo
+{
+	top: 150px;
+	left: 0;
+}
+div#radio_set
+{
+	top: 240px;
+	left: 0;
+}
+.panel input {margin:0 5px 0 5px;}
+.panel p{
+	margin: 0 0 15px 0;
+	padding: 0;
+}
+a.trigger{
+	z-index:6;
+	position: fixed;
+	text-decoration: none;
+	left: 0;
+	font-size: 14 pt;
+	padding: 20px 40px 20px 15px;
+	font-weight: bold;
+	-moz-border-radius-topright: 20px;
+	-webkit-border-top-right-radius: 20px;
+	-moz-border-radius-bottomright: 20px;
+	-webkit-border-bottom-right-radius: 20px;
+	-moz-border-radius-bottomleft: 0px;
+	-webkit-border-bottom-left-radius: 0px;
+	display: block;
+	width:50px;
+}
+a#algoTrigger {top: 180px;}
+a#settingTrigger {top: 270px;}
+a#helpTrigger {top:360px;}
+a.trigger:hover{
+	position: fixed;
+	text-decoration: none;
+	font-size: 14 pt;
+	padding: 20px 40px 20px 20px;
+	font-weight: 700;
+	-moz-border-radius-topright: 20px;
+	-webkit-border-top-right-radius: 20px;
+	-moz-border-radius-bottomright: 20px;
+	-webkit-border-bottom-right-radius: 20px;
+	-moz-border-radius-bottomleft: 0px;
+	-webkit-border-bottom-left-radius: 0px;
+	display: block;
+}
+input#quanNum
+{
+	width:64px;
+	display:inline;
+	float:left;
+	border-radius:0px;
+	-webkit-border-radius: 0px;
+	height:18px;
+	margin:0px;
+}
+.setLable
+{
+	display:inline;
+	float:right;
+	margin: 0px 0 19px 0;
+}
+.setContent
+{
+	display:inline;
+	float:left;
+	margin: 0px 0 19px 0;
+}
+.setLableRtl
+{
+	display:inline;
+	float:right;
+	margin: 0px 0 19px 0;
+}
+.setContentRtl
+{
+	display:inline;
+	float:left;
+	margin: 0px 0 19px 0;
+}
+.setLableLtr
+{
+	display:inline;
+	float:left;
+	margin: 0px 0 19px 0;
+}
+.setContentLtr
+{
+	display:inline;
+	float:right;
+	margin: 0px 0 19px 0;
+}
+#showqLabel{display: inline;}
+.showqLabelRtl{
+	padding-left: 15px;
+}
+.showqLabelLtr{
+	padding-left: 15px;
+}
+#showQ
+{
+	vertical-align: bottom;
+	position:relative;
+	top: -1px;
+	*overflow: hidden;
+	width: 13px;
+	height: 13px;
+	padding: 0;
+	display:inline;
+}
+input#showQ.showQRtl
+{
+	float:right;
+	margin:0 0 0 10px;
+}
+input#showQ.showQLtr
+{
+	float:left;
+	margin:0 0 0 10px;
+}

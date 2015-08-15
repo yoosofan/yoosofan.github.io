@@ -1,0 +1,40 @@
+!   ' |\t' ;
+
+
+    '\('
+    '\)'
+    '[0-9]+'                        INT   [* %match = parseInt( %match ); *]
+    '[0-9]+\.[0-9]*|[0-9]*\.[0-9]+' FLOAT [* %match = parseFloat( %match ); *]
+    'for'                           FOR   [* %match = %match; *]
+    '[a-zA-Z_]+[a-zA-z_0-9]*'       ID    [* %match = %match; *]
+   '\+'
+   '\-'
+   '\*'
+   '/'
+   '='
+   ';'
+    ;
+
+##
+
+/~ --- Grammar specification --- ~/
+
+p:      K
+        ;
+K:      ID '=' e
+        | e
+        | FOR '\(' ID '=' e ';' e ';' e '\)' K
+        ;
+e:      e '+' T
+        | e '-' T
+        | T
+        ;
+T:      T '*' F
+        | T '/' F
+        | F
+        ;
+F:      /~ '-' e &'*'   | ~/ '(' e ')'    
+        | INT
+        | FLOAT
+        | ID
+        ;

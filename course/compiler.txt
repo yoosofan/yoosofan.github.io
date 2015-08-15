@@ -1,0 +1,83 @@
+.. title: کامپایلر
+.. slug: compiler
+.. date: 2015-08-13 09:40:35 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+برای گرفتن جدول
+LALR
+از
+`jscc <http://jscc.jmksf.com>`_
+در مرورگر
+firefox
+همه جدول را انتحاب کرده و کلیک راست کنید سپس گزینه
+view selection source
+ر ا برگزینید
+تا کد جدول ساخته شده نمایش داده شود
+
+`برنامه‌های نمونه به زبان lex
+<files/course/compiler/lex_sample.zip>`_
+
+
+در سایت‌های زیر ابزارهای خوبی برای کار با عبارت‌های منظم آماده شده است. برای فراگیری بهتر عبارت‌های منظم می‌توانید این ابزارها را به کار ببرید.
+
+.. class:: yoosofan-change-ltr
+
+  *  `<http://ddlsmurf.github.com/rxbuild/regex.html>`_
+  *  `<http://cuneytyilmaz.com/prog/jrx/>`_
+  *  `<http://regexpal.com>`_
+  *  `<http://www.regexbuddy.com>`_
+
+در سایت زیر ابزار شایسته‌ای برای درس کامپایلر آماده شده است. این ابزار بر روی انواع مروگرهای اجرا می‌شود. این ابزار کار تحلیل‌گر لغوی را انجام می‌دهد. همچنین بسته به گرامر ورودی جدول تجزیه‌ی LALR آن را نمایش می‌دهد.
+
+`jscc compiler tool <http://jscc.jmksf.com/jscc/jscc.html>`_
+
+`ماشین حساب ساده
+<files/course/compiler/jscc/simple_extended_calculator.txt>`_
+
+
+`زبان برنامه نویسی نمونه
+<files/course/compiler/jscc/simplified_program.txt>`_
+
+گذاشته شده است. در این برنامه تغییر یافته نیز کمترین نیاز به دانستن زبان javascript است و jscc به طور خودکار جدول LALR را می‌سازد. افزون بر این می‌توان به کمک این ابزار درخت تجزیه یک برنامه ساده را نیز ساخت. در
+
+`<files/course/compiler/jscc/sample_input_of_simplified_program.txt>`_
+
+یک کد ساده برنامه به زبان داده شده نوشته شده است که پس از اجرای آن درخت تجزیه ساخته شده نشان می‌دهد که تصمیم jscc برای برطرف کردن برخورد به خاطر else به درستی انجام شده است.
+
+بهتر است هنگام به کار گیری jscc کادر Show warnings را انتخاب نمایید تا اخطارها و برخوردهای یافت شده در دستور زبان به شما نشان داده شود.
+
+-----------
+
+ابزارهای دیگری برای انجام کارهای یک کامپایلر در زیر فهرست شده است.
+
+.. class:: yoosofan-change-ltr
+
+  *  `<http://www.dabeaz.com/ply/>`_
+  *  `<http://www.antlr.org>`_
+  *  `<http://compilers.pydata.org>`_
+  *  `<http://lrparsing.sourceforge.net>`_
+  *  `<https://github.com/liuxue1990/python-ll1-parser-generator>`_
+  *  `<http://www.gnu.org/software/bison/bison.html>`_
+  *  `<http://www.cocolab.com/en/demo.html>`_
+  *  `<https://wiki.python.org/moin/LanguageParsing>`_
+  *  `<http://pages.cpsc.ucalgary.ca/~aycock/spark>`_
+  *  `<http://theory.stanford.edu/~amitp/yapps/>`_
+  *  `<https://pypi.python.org/pypi/parsing/>`_
+  *  `<http://www.compilers.net/Dir/Free/Compilers/CCpp.htm>`_
+  *  `<http://grammatica.percederberg.net/download/index.html>`_
+  *  `<http://catalog.compilertools.net/kits.html>`_
+  *  `<http://irony.codeplex.com>`_
+  *  `<http://flex.sourceforge.net>`_
+  *  `<http://directory.fsf.org/project/yaccviso>`_
+  *  `<http://sourceforge.net/project/showfiles.php?group_id=70447>`_
+  *  `<http://plas2003.fit.qut.edu.au/gppg>`_
+  *  `<http://quex.sourceforge.net/quex-doc-draft.html>`_
+  *  `<http://www.boost.org/doc/libs/1_38_0/libs/spirit/classic/doc/introduction.html>`_
+  *  `<http://plas2003.fit.qut.edu.au/gplex/>`_
+  *  `<http://dinosaur.compilertools.net>`_
+

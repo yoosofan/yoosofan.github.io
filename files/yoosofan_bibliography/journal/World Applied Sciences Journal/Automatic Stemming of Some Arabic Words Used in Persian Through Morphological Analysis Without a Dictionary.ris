@@ -1,0 +1,17 @@
+﻿TY  - JOUR
+ID  - 4
+T1  - Automatic Stemming of Some Arabic Words Used in Persian Through Morphological Analysis Without a Dictionary
+JF  - World Applied Sciences Journal
+A1  - Yoosofan,Ahmad
+A1  - Rahimi,Ali
+A1  - Rastgoo,Mohammad
+A1  - Mojiri,Mohammad mahdi
+VL  - 8
+IS  - 9
+PY  - 2010///
+N2  - Persian language is teeming with Arabic words and there is a need for Iranians to have access to some instrument which helps them differentiate between the Persian and foreign words. One such instrument is stemmer. A good stemmer for Persian must detect and stem these words properly. Such stemmers are by no means free from problems. The basic problem for stemming these words, with respect to Arabic, is their development and the changes they go through. Morphologically, Arabic words have different derivational behavior as compared with those of Persian. Furthermore, some of these words in Persian have specific features which help us distinguish them from Arabic words. To achieve the proper results, we have restricted ourselves to the derivation of some regular triliteral roots. The findings of this research can be utilized in the areas of information retrieval, text categorization, text summarization, automatic detection of phrasal categories, translation studies, natural language processing, etc.
+SP  - 1078
+EP  - 1085
+SN  - 1818-4952
+ER  - 
+

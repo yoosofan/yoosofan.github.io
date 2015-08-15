@@ -1,0 +1,24 @@
+.. title: courses
+.. slug: index
+.. date: 2015-08-12 10:44:30 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+*  `Fundumental of Programming <fp.html>`_
+*  `Advanced Programming(C++) <cpp.html>`_
+*  `Advanced Programming(C#) <csharp.html>`_
+*  `Operating Systems <os.html>`_
+*  `Compilers <compiler.html>`_
+*  `Database <db.html>`_
+
+Old courses
+--------------
+
+*  `Internet Engineering <ie.html>`_
+*  `Operating Systems Laboratory <oslab.html>`_
+*  `Modeling and Perfomance Evaluation of Computer Systems <cpa.html>`_
+

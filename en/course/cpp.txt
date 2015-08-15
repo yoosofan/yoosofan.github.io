@@ -1,0 +1,163 @@
+.. title: C++
+.. slug: cpp
+.. date: 2015-08-12 10:55:52 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+Books
+=====
+
+  *  `C++ from the Ground Up   / Herbert Schildt / McGraw-Hill/Osborne (Third Edition 2003) <http://www.herbschildt.com>`_
+  *  `Programming principles and practice using C++ / Bjarne Stroustrup / Pearson education 2008) <http://www.pearsonhighered.com/educator/product/Programming-Principles-and-Practice-Using-C/9780321543721.page>`_
+  *  `The C++ Programming Language / Bjarne Stroustrup / Addison-Wesley (Third Edition 1997) <http://www2.research.att.com/~bs/3rd.html>`_
+  *  `Programming with Objects: A Comparative Presentation of Object-Oriented Programming with C++ and Java /  Avinash C. Kak  / John Wiley & Sons (2003 ) <http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471268526.html>`_
+  *  `Thinking in C++ / Bruce Eckel / Second edition 2000 <http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html>`_
+  *  `<http://www.cplusplus.com>`_
+
+
+Samples
+=======
+
+
+simple complex number class
+---------------------------
+
+.. code-block:: cpp
+
+  #include<iostream>
+  using namespace std;
+
+  struct ComplexCls{
+     double re, img;
+     void input(void){
+        cout<<"Enter real part of complex number: ";
+        cin>>re;
+        cout<<"Enter imaginary part of complex number: ";
+        cin>>img;
+     }
+     void display(void){
+        cout<<re<<" + i "<<img<<endl;
+     }
+     void init(double real, double imaginary){
+        re = real;
+        img= imaginary;
+     }
+     void Negation(void){
+        re = - re ;
+        img= - img;
+     }
+     ComplexCls Add(ComplexCls a){
+        ComplexCls b;
+        b.re = a.re + re ;
+        b.img= a.img+ img;
+        return b;
+     }
+  };
+
+  int main(){
+     ComplexCls x,y,z;
+     x.input();
+     x.display();
+     y.input();
+     y.display();
+     z=x.Add(y);
+     z.display();
+     return 0;
+  }
+
+
+simple matrix class
+-------------------
+
+.. code-block:: cpp
+
+  #include<iostream>
+  using namespace std;
+  const int n=4 , m=4;
+  void transpose(int a[][m]){
+     for(int i=0; i<n ; i++)
+        for(int j=0 ; j<i; j++)
+        {
+           int temp =  a[i][j];
+             a[i][j] = a[j][i];
+           a[j][i] = temp;
+        }
+
+  }
+  void show(int a[][m]){
+     for(int i = 0 ; i< n ; i++){
+        cout<<"\n";
+        for(int j=0 ; j<m ; j++)
+           cout<< a[i][j]<<'\t';
+     }
+  }
+
+  struct Matrix{
+     int a[n][m];
+    void transpose(){
+     for(int i=0; i<n ; i++)
+        for(int j=0 ; j<i; j++)
+        {
+           int temp =  a[i][j];
+             a[i][j] = a[j][i];
+           a[j][i] = temp;
+        }
+  }
+  void show(){
+     for(int i = 0 ; i< n ; i++){
+        cout<<"\n";
+        for(int j=0 ; j<m ; j++)
+           cout<< a[i][j]<<'\t';
+     }
+     cout<<endl;
+  }
+   void init(void){
+   for(int i =0 ;i<n; i++)
+    for(int j =0 ; j<m ; j++)
+       a[i][j] = i*10 +j;
+  }
+  void input(void){
+     cout<<"Enter data"<<endl;
+     for(int i = 0 ; i < n; i++)
+        for(int j=0 ; j<m ; j++){
+            cout<<"Enter A["<<i<<"]["<<j<<"] : ";
+            cin>>a[i][j];
+      }
+   }
+  };
+  int main(){
+   int a[n][m];
+   for(int i =0 ;i<n; i++)
+    for(int j =0 ; j<m ; j++)
+       a[i][j] = i*10 +j;
+   show(a);
+   transpose(a);
+   cout << endl;
+   show(a);
+   int b[n][m];
+   for(int i =0 ;i<n; i++)
+    for(int j =0 ; j<m ; j++)
+       b[i][j] = i*i +j;
+    show(b);
+    transpose(b);
+    show(b);
+
+
+    Matrix m1;
+    m1.init(); // m1.input();
+    m1.show();
+    m1.transpose();
+    m1.show();
+    cout<<endl;
+    Matrix m2;
+    m2.init(); // m2.input();
+    m2.show();
+    m2.transpose();
+    m2.show();
+
+   return 0;
+  }

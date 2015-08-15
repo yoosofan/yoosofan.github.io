@@ -1,0 +1,68 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+  	line-height: 150%;
+  	width: 100%;
+  	height:600px;
+  	min-width: 970px;
+  	color: black;
+  	font-family: tahoma;
+  	margin:20px 0 20px 0;
+  	font-size:8.5pt;
+  	text-align:center;
+  	background: #000;
+	color: #fff;
+	direction:rtl;
+	position:relative;
+}
+h1
+{
+	font-size: 9.5pt;
+	font-weight:bold;
+	text-align: right;
+	text-shadow: #000 1px 1px 2px;
+	margin-bottom: 5px;
+}
+a
+{
+	font-weight:bold;
+	text-decoration:none;
+	color: #fff;
+	margin-right:10px;
+}
+a:hover
+{
+	color: #fff;
+}
+p{margin: 5px 0 5px 0;}
+.content
+{
+	text-align:right;
+	width:1000px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom:20px;
+  	position:relative;
+}
+div.entry
+{
+	position:relative;
+	padding:10px;
+	color:white;
+	margin-bottom:20px;
+	/* Fallback for web browsers that doesn't support RGBa */
+	background: rgb(34, 34, 34) transparent;
+	/* RGBa with 0.6 opacity */
+	background: rgba(34, 34, 34, 0.6);
+	/* For IE 5.5 - 7*/
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+	/* For IE 8*/
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+}
+div.entry div.subEntry
+{
+	padding:20px 20px 0 0;
+}

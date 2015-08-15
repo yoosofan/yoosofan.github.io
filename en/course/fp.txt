@@ -1,0 +1,257 @@
+.. title: Fundamental of Programming
+.. slug: fp
+.. date: 2015-08-12 22:55:01 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+.. raw:: html
+
+  <div>
+  <ul>
+  <li>
+  <a href="#references">
+  کتاب‌ها و منابع
+  </a>
+  </li>
+  <li>
+  <a href="#examples">
+  برنامه‌های نمونه
+  </a>
+  </li>
+  <li>
+  <a href="#IDEs">
+  محیط‌های مجتمع اجرا
+  </a>
+  </li>
+  <li>
+  <a href="#compilers">
+  کامپایلرها و مفسرها
+  </a>
+  </li>
+  <li>
+  <a href="#editors">
+  ویرایشگرها
+  </a>
+  </li>
+  <li>
+  <a href="#special_processors">
+  پردازنده‌های ویژه
+  </a>
+  </li>
+  <li></li>
+  </ul>
+  </div><hr />
+  <div id="references">
+  <a href="#fp_algorithm_books">
+  کتاب‌های مبانی الگوریتم نویسی
+  </a><br />
+  <a href="#c_books">
+  کتاب‌های زبان C
+  </a><br />
+  <a href="#related_sites">
+  سایت‌هایی درباره‌ی زبان C
+  </a>
+
+  <div id="fp_algorithm_books">
+  کتاب‌های مبانی الگوریتم نویسی
+  <ul><li>
+  نخستین درس در علم كامپیوتر (جلد اول)
+  <br />
+
+  ناشر : مركز نشر دانشگاهی
+  <br />
+  مولف : فورسایت، كینان، اورگانیك، ستنبرگ
+  <br />
+  ترجمه : احمد توحیدی، محمد روغنی، ناصر قاسم آقایی، مصطفی كرمانی
+  <br />
+  ویراسته : عفت خضرائی، ابراهیم نقیب‌زاده مشایخ
+  <br />
+  تاریخ اولین چاپ : 1377
+  <br />
+  چاپ آخر : چاپ سوم - 1389
+  <br />
+  </li>
+  <li>
+   الگوریتم و فلوچارت
+  <br />
+  شهریار رسولی
+  <br />
+      نشر: ارکان دانش (30 مهر، 1390)
+  <br />
+  </li>
+  </ul>
+  </div><hr />
+  <div id="c_books">
+  کتاب‌های زبان C
+  <ul>
+  <li>
+  مبانی کامپیوتر و برنامه نویسی به زبان C
+  <br />   
+  محمد داورپناه جزی
+  <br />   
+      نشر: دانشگاه صنعتی اصفهان، دفتر انتشارات (21 دی، 1390)
+
+  </li>
+  </ul>
+  </div><hr />
+  <div id="related_sites"><h3>سایت‌هایی درباره‌ی زبان C</h3>
+  <ul>
+  <li>
+  <a href="http://barnamenevis.org/forumdisplay.php?80-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-C&s=9935445daf65608c61bf41df07e2bc21">
+  http://barnamenevis.org/forumdisplay.php?80-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-C&s=9935445daf65608c61bf41df07e2bc21
+  </a>
+  </li>
+  <li><a href="http://www.open-std.org/jtc1/sc22/wg14/">
+  استاندارد زبان C
+  </a></li>
+  <li><a href="http://www.lysator.liu.se/c/">
+  فهرستی از پیوندها به سایت‌های مربوط به زبان C
+  </a></li>
+  </div>
+  </div><hr />
+  <div id="examples"><h3>برنامه‌های نمونه</h3>
+  برنامه‌های نمونه
+  <br />
+  برنامه‌ی ضرب دو عدد به کمک ماتریس(این برنامه می‌تواند در فاکتوریل عددها به کار برده شود):
+  <a href="files/course/fp/examples/files/big_number_multiplication.c">
+  big_number_multiplication.c
+  </a><br />
+  برنامه‌ی جمع دو ماتریس ذخیره شده در یک پرونده‌ی متنی : 
+  <a href="files/course/fp/examples/files/add2matrixInFile.zip">
+  zip
+  </a><br />
+  راه حل دیگری برای جمع دو ماتریس ذخیره شده در یک پرونده‌ی متنی با کمک گرفتن از تعدادی از تابع‌های زبان c 
+  <a href="files/course/fp/examples/files/Add2matrixInFile_use_functions.rar">
+  در این پرونده
+  </a>
+  گذاشته شده است.
+  </div><hr />
+  <div id="IDEs">
+  <h3> 
+  محیط‌های یکپارچه‌ی اجرا (IDE)
+  </h3>
+  یکی از مشکل‌هایی که اغلب برنامه نویسان در مبانی برنامه نویسی با آن روبرو هستند به کار بردن ابزارهایی است که بتواند کار آنها را ساده‌تر نماید و به سادگی بتوانند پروژه‌های خود را انجام دهند. البته گزینه‌ی شخصی من برای نوشتن کدهای ساده به کار بردن ترکیب
+  <a href="#geany"> geany</a>
+   به عنوان ویرایشگر و کامپایلر
+  <a href="#gcc"> gcc </a>
+   است.
+  <br />
+   به هر حال چون بیشتر برنامه نویسان مبانی علاقه‌مند هستند که بتوانند تمرین‌ها و پروژه‌های خود را انجام دهند در این بخش پیشنهادهایی به آنها می‌شود که به سادگی بتوانند کار خود را انجام دهند.
+  <br />
+  یکی از مسأله‌هایی که دانشجویان به آن توجه ندارند این است که نوشتن برنامه‌ها با ابزارهایی که روی رایانه‌ی آنها نصب می‌شود و اغلب به کار می‌برند این است که شاید دیگران آن ابزارها را به کار نبرند و از سوی دیگر کسی که می‌خواهد برنامه‌ی آنها را تحویل بگیرد نتواند آنها اجرا کند زیرا استاندارد را رعایت نکرده‌اند. بنابراین پیشنهاد می‌شود به صورت استاندارد برنامه نویسی کنند تا برنامه‌ی آنها بتواند در هر جایی اجرا شود. همچنین به این توجه نمایند که در هنگام تحویل پروژه‌های‌شان بتوانند به سادگی برنامه‌ی خود را بر روی رایانه‌هایی تحویل دهند که نیاز است که کامپایلر روی آنها نیست و باید در همان زمان برنامه را روی آن رایانه تغییر دهند و تحویل دهند. بنابراین پیشنهادهایی که برای نوشتن کد به کمک محیط‌های مجتمع اجرا دارم به ترتیب به قرار زیر است.
+  <ol>
+  <li><a href="http://sourceforge.net/projects/orwelldevcpp/" id="orwelldevcpp">orwelldevcpp</a><br />
+  نسخه‌های تازه‌تری از 
+  <a href="#devcpp"> DevCpp </a> 
+  است. نسخه‌ی قابل حمل آن در
+  <a href="http://sourceforge.net/projects/orwelldevcpp/files/Portable%20Releases/"> Portable orwelldevcpp </a>
+  گذاشته شده است.
+  </li>
+
+  <li>
+  <a href="http://www.codeblocks.org" id="codeblocks"> codeblocks </a> <br />
+  این نرم افزار به خوبی بر روی سیستم عامل‌های گوناگون نصب می‌شود و می‌تواند کار خود را انجام دهد. در بخش 
+  <a href="http://www.codeblocks.org/downloads"> Downloads </a>
+  می‌توان نسخه‌‌های گوناگون آن را اجرا نمود. 
+  <br />
+  برای برنامه نویسانی که سیستم عامل ویندوز را به کار می‌برند خود یک نسخه‌ی ویژه به همراه کامپایلر دارد که از بخش 
+  <a href="http://www.codeblocks.org/downloads/26#windows"> Windows </a>
+  می‌توان را گرفت. در این بخش بهترین گزینه‌ نسخه‌ای است که هم به همراه کامپایلرها
+  <a href="#gcc"> gcc </a>
+  است و همچنین در حالت کاربر می‌تواند نصب شود و نیازی نیست admin باشید. آخرین نسخه‌ی آن اغلب به صورت
+  <a href="http://prdownload.berlios.de/codeblocks/codeblocks-12.11mingw-setup_user.exe"> 
+  codeblocks-MM.NNmingw-setup_user.exe </a>
+  است که به جای MM.NN شماره‌ی آخرین نسخه گذاشته می‌شود.
+  </li>
+  <li><a href="http://www.softintegration.com" id="ch"> Ch </a><br />
+  یکی از محیط‌های جالب یکپارچه برنامه نویسی است که شاید بهترین ویژگی آن مفسر بودن آن برای زبان C است که به خوبی مشکل‌های کار با اشاره‌گرها را گزارش می‌کند و البته بدی آن این است که پس از گزارش اخطار برای یک اشاره‌گر یا بیرون زدن از آرایه برای آن حافظه‌ای اختصاص می‌دهد تا برنامه کار خود را ادامه دهد و شاید برنامه نویس متوجه نشود که مشکلی برایش پیش آمده است.
+  <br />
+  این نرم افزار توانمند بر روی سیستم عامل‌های گوناگون اجرا می‌شود و دارای نسخه‌های گوناگونی است. نسخه‌ای که برای انجام کارهای آموزشی بسیار مناسب است ولی نمی‌توان آن را برای کارهای تجاری به کار برد نسخه‌ی 
+  <a href="http://www.softintegration.com/products/chstudent/"> student </a>
+  آن است که همراه ویرایشگر 
+  <a href="http://www.softintegration.com/docs/ch/chide/"> ChIDE </a>
+  است.
+  </li>
+  <li><a href="http://qt-project.org"> Qt Creator </a></li>
+  <li><a href="http://kdevelop.org"> kdevelop </a></li>
+  <li><a href="http://www.embarcadero.com/products/cbuilder"> cbuilder </a></li>
+  <li> <a href="http://www.bloodshed.net/devcpp.html" id="devcpp"> DevCpp </a><br />
+  یکی از محیط‌های اجرای یکپارچه مناسب دیگر 
+  <a href="http://www.bloodshed.net/devcpp.html"> DevCpp </a>
+  است. که می‌توان از این 
+  <a href="http://www.bloodshed.net/dev/devcpp.html"> 
+  بخش
+  </a>
+   آن را گرفت ولی چند سال است که به روز نشده است و البته مشکل‌هایی دارد. گمان می‌کنم پشتیبانی این نرم افزار از conio.h به دلیل استاندارد نبودن چندان خوب نیست.
+  </li>
+  <li><a href="http://www.microsoft.com/visualstudio/eng/products/visual-studio-express-products">Visual Studio Express </a><br />
+  فقط برای سیستم عامل ویندوز است و البته نرم افزار سنگینی است که روی رایانه‌های قدیمی نمی‌تواند اجرا شود. 
+  </li>
+  <li><a href="https://developer.apple.com/xcode/">xcode</a><br />
+  فقط برای سیستم عامل‌های شرکت مکینتاش است. 
+  </li>
+  </ol>
+  </div><hr />
+  <div id="compilers">
+  <h3>
+  کامپایلرها
+  </h3>
+  در این بخش فهرست تعدادی از کامپایلرهای مناسب برای انجام تمرین‌ها و پروژه‌های درسی آورده شده است. 
+  <ol>
+  <li><a href="http://gcc.gnu.org" id="#gcc"> gcc </a><br />
+  مشهورترین کامپایلر متن باز و رایگان است که بر روی سیستم عامل‌های گوناگون می‌تواند نصب شود و اغلب به صورت پیش فرض در انواع لینوکس‌ها نصب شده است. در 
+  <a href="#orwelldevcpp"> orwelldevcpp </a>
+  ، 
+  <a href="#codeblocks"> codeblocks </a>
+  و
+  <a href="#devcpp"> devcpp </a>
+  گذاشته شده است و به سادگی می‌توان با آن کار کرد.  
+  <br />
+  برای کار به صورت خط فرمان در ویندوز 
+  <a href="http://www.mingw.org" id="mingw"> mingw </a>
+  و 
+  <a href="http://cygwin.com" id="cygwin"> cygwin </a>
+  ساخته شده است. یکی از نسخه‌های قابل حمل(بدون نیاز به نصب) mingw در ویندوز 
+  <a href="http://sar3th.kicks-ass.net/downloads/PortableApps/MinGWPortable/?path=PortableApps/MinGWPortable"> MinGWPortable </a>
+  است.
+  </li>
+  <li><a href="http://www.digitalmars.com/download/freecompiler.html"> digitalmars </a></li>
+  <li><a href="http://www.delorie.com/djgpp/"> djgpp (for DOS) </a></li>
+  <li><a href="http://pcc.ludd.ltu.se">pcc</a></li>
+  <li><a href="http://www.openwatcom.org/index.php/Main_Page"> open watcom </a></li>
+  <li><a href="http://tack.sourceforge.net"> Amsterdam Compiler Kit</a></li>
+  <li><a href="http://www.open64.net"> open64 </a></li>
+  <li><a href="http://forms.embarcadero.com/forms/BCC32CompilerDownload"> Borland Cpp 5.5 </a></li>
+  </ol>
+  </div><hr />
+  <div id="editors"><h3>ویرایشگرها</h3>
+  <ol>
+  <li><a href="http://www.geany.org"> geany </a> <br />
+  نسخه‌ی قابل حمل آن در ویندوز 
+  <a href="http://portableapps.com/apps/development/geany_portable"> geany_portable </a>
+  است.
+  </li>
+  <li><a href="http://www.notepad-plus-plus.org/"> notepadpp </a><br />
+  این ویرایشگر فقط در ویندوز است ولی به دلیل این که از امکانات پایه‌ی ویندوز کمک گرفته است به سادگی می‌تواند در wine در لینوکس نیز اجرا شود. نسخه‌ی قابل حمل آن
+  <a href="http://portableapps.com/apps/development/notepadpp_portable"> notepadpp_portable </a>
+  است.
+  </li>
+  <li><a href="http://kate-editor.org"> kate </a>
+
+  </li>
+  </ol>
+  </div><hr />
+  <div id="special_processors"><h3> پردازنده‌های ویژه </h3>
+  در این بخش ابزارها و کامپایلرهایی گذاشته می‌شود که برای پردازنده‌ها و کنترلگرهای خاص به زبان C آماده شده‌اند.
+  <ul>
+  <li><a href="http://sdcc.sourceforge.net">SDCC </a></li>
+
+  </ul>
+  </div><hr />
+
+.. include:: files/files/course/fp/fp01.c
+   :code: c
+   :number-lines:
