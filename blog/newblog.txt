@@ -1,0 +1,10 @@
+.. title: سایت جدید
+.. slug: newblog
+.. date: 2015-08-15 19:42:13 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+سایت جدید راه اندازی شد.
