@@ -7,4 +7,8 @@
 .. description: 
 .. type: text
 
-Welcome to my new website! 
+Welcome to my new website!
+
+It is based in `Nikola`_
+
+.. _Nikola: https://getnikola.com

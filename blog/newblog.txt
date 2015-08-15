@@ -7,4 +7,6 @@
 .. description: 
 .. type: text
 
-سایت جدید راه اندازی شد.
+سایت جدید بر پایه‌ی `نیکولا` راه اندازی شد.
+
+.. _نیکولا:  .. _Nikola: https://getnikola.com
