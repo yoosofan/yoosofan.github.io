@@ -34,6 +34,7 @@
 ^^^^^^^^^^^^^^^^^^^^^^
 
 *  `تحت وب به کمک جاوااسکریپت <http://pooyak.com/p/persianjavascript/>`_
+*  `virtualkeyboard(برای زبان‌های گوناگون) <http://debugger.ru/demo/projects/virtualkeyboard/>`_ , ,  `سایت انگلیسی این ابزار <http://debugger.ru/en/projects/virtualkeyboard>`_
 *  `تحت وب به کمک جاواسکریپت و پی‌اچ‌پی <http://behdad.org/editor/>`_
 *  `فارسیدو: java <http://www.hoomanb.com/Farsido/english.htm>`_
 *  `یونی‌پد: ویرایشگر یونی‌کد تحت ویندوز <http://www.unipad.org/main/>`_

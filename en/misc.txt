@@ -34,6 +34,7 @@ Writing Persian
 ^^^^^^^^^^^^^^^
 
 *  `Web based using Javascript <http://pooyak.com/p/persianjavascript/>`_
+*  `virtualkeyboard(for several different languages) <http://debugger.ru/demo/projects/virtualkeyboard/>`_ ,  `English website <http://debugger.ru/en/projects/virtualkeyboard>`_
 *  `Web based using Javascript and PHP <http://behdad.org/editor/>`_
 *  `FarsiDo java based <http://www.hoomanb.com/Farsido/english.htm>`_
 *  `Unipad: windows application <http://www.unipad.org/main/>`_
