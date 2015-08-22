@@ -30,7 +30,7 @@ if (file_exists($file1)){
     //header('Expires: 0');
     //header('Cache-Control:  public, must-revalidate');
     //header('Pragma: no-cache');
-    ob_clean();
+    //ob_clean();
     flush();
     readfile($file1);
 //    exit;
