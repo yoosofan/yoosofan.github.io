@@ -1,0 +1,74 @@
+.. title: links
+.. slug: links
+.. date: 2015-08-25 22:13:33 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+..  contents:: فهرست مطالب
+
+آینه‌های این سایت
+==============================================
+
+*  `<http://yoosofan.kashanu.ac.ir>`_
+*  `<http://yoosofan.github.io>`_
+
+
+سایت‌های قدیمی‌ام
+=====================================
+
+*  `<http://yoosofan.kashanu.ac.ir/files/old.website/>`_
+*  `<http://ce.kashanu.ac.ir/yoosofan/>`_
+*  `<http://ce.kashanu.ac.ir/usofan/>`_
+
+
+اعضای هیأت علمی دانشکده‌ی مهندسی برق و کامپیوتر
+=========================================================================
+
+*  `<http://elecomp.kashanu.ac.ir/fa/faculty/اسامی.اعضای.هیئت.علمی.html#مهندسی کامپیوتر>`_
+
+فارسی در رایانه
+=============================================
+
+امروزه با گذشت زمان مشکلات مربوط به کار با فارسی در سیستم‌های عامل به شدت کاهش یافته است ولی در گذشته‌ای نه چندان دور مشکلات گوناگونی برای آن وجود داشت و البته هنوز ویندوز صفحه‌ی کلید استاندارد ایران را پشتیبانی نمی‌کند گرچه در نسخه‌های ۸ و ۸٫۱ مقداری از این مشکل‌ها کمتر شده است.
+
+در این بخش به برخی از ابزارها برای کار فارسی می‌پردازم.
+
+تقویم فارسی
+-------------------------------------
+
+*  `تقویم متن باز و رایگان فارسی به جاوااسکریپت <https://github.com/farhadi/JalaliJSCalendar>`_
+*  `Taghvim <http://www.taghvim.org>`_
+*  `تقویم فارسی همراه با مناسبت‌ها <http://www.time.ir>`_
+
+
+نوشتن فارسی
+-----------------------------------------------
+
+*  `تحت وب به کمک جاوااسکریپت <http://pooyak.com/p/persianjavascript/>`_
+*  `virtualkeyboard(برای زبان‌های گوناگون) <http://debugger.ru/demo/projects/virtualkeyboard/>`_ , ,  `سایت انگلیسی این ابزار <http://debugger.ru/en/projects/virtualkeyboard>`_
+*  `تحت وب به کمک جاواسکریپت و پی‌اچ‌پی <http://behdad.org/editor/>`_
+*  `فارسیدو: java <http://www.hoomanb.com/Farsido/english.htm>`_
+*  `یونی‌پد: ویرایشگر یونی‌کد تحت ویندوز <http://www.unipad.org/main/>`_
+*  `Simredo (Java based) <http://www012.upp.so-net.ne.jp/klivo/simredo/simeng.htm>`_
+
+----------------------------------------
+
+سایت‌های آموزشی
+===========================
+
+*  `مکتب خونه <http://maktabkhooneh.org>`_
+*  `coursera <https://www.coursera.org>`_
+*  `edx <https://www.edx.org>`_
+*  `<http://www.darsa.ir>`_
+*  `<https://cgscholar.com>`_
+*  `<http://www.onlinecourses.com/>`_
+*  `<https://www.coursehero.com/>`_
+*  `<http://online.stanford.edu/>`_
+*  `<https://novoed.com/>`_
+*  `<http://videolectures.net>`_
+*  `<http://ocw.mit.edu/index.htm>`_
+*  `<http://video.mit.edu/channel/opencourseware/>`_
+  

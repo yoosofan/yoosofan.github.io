@@ -1,42 +1,35 @@
-.. title: miscellaneous
-.. slug: misc
-.. date: 2015-08-14 19:04:08 UTC+04:30
+.. title: links
+.. slug: links
+.. date: 2015-08-25 22:13:47 UTC+04:30
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 
-
-Miscellaneous will be added to this page.
-
 ..  contents:: Table of Contents
 
 
-
-Links
-=====
-
 Website mirrors
-----------------------
+==========================
 
 *  `<http://yoosofan.kashanu.ac.ir>`_
 *  `<http://yoosofan.github.io>`_
 
 
 My old website
------------------------------
+========================
 
 *  `<http://yoosofan.kashanu.ac.ir/files/old.website/>`_
 
 
 Persian(Farsi) in computer
-------------------------------
+==============================
 
 Not long time ago, using Persian in computer was a problem. Even reading or writing Persian was problematic. Some companies developed some useful software to deal with this problem. Today, most linux distrubutions support Persian very well. 
 
 Persian(Jalali) Calendar
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------
 
 *  `Open source javascript based <https://github.com/farhadi/JalaliJSCalendar>`_
 *  `Taghvim <http://www.taghvim.org>`_
@@ -44,7 +37,7 @@ Persian(Jalali) Calendar
 
 
 Writing Persian
-^^^^^^^^^^^^^^^
+--------------------------------
 
 *  `Web based using Javascript <http://pooyak.com/p/persianjavascript/>`_
 *  `virtualkeyboard(for several different languages) <http://debugger.ru/demo/projects/virtualkeyboard/>`_ ,  `English website <http://debugger.ru/en/projects/virtualkeyboard>`_
@@ -71,12 +64,4 @@ Educational websites
 *  `<http://ocw.mit.edu/index.htm>`_
 *  `<http://video.mit.edu/channel/opencourseware/>`_
 
-----------------------------------
 
-Some of Computer Department minutes related to students
-========================================================
-
-I am head of computer engineering department of the university of Kashan since 2007. I would like to share most of our department opinion with students and colleagues. These minutes are in Persian. You can see some of them in Persian(فارسی) translation of this page if you would like.
-
-
-..  This a comment "..  contents:: فهرست مطالب"
