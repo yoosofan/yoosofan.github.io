@@ -25,8 +25,11 @@
 `صفحه‌ی آخرین تغییرات برنامه‌ی درسی
 </semester/941.html>`_
 
-`نسخه‌ی یکم برنامه نیمسال یکم ۱۳۹۴
+`نسخه‌ی یکم 
 <https://app.box.com/s/cbbie0sgxrz45qigaegw0tsncaydk0k1>`_
+
+`نسخه‌ی دوم
+<https://app.box.com/s/uh9ubs69p12wd9ln67ujwkpdk2bllx76>`_
 
 `پیوند به آخرین نسخه‌ی در حال تغییر
 <http://yoosofan.kashanu.ac.ir/yooscripts/php/sendTimeTable.php>`_

@@ -1,7 +1,7 @@
 .. title: برنامه‌ی درسی و توضیح‌های نیمسال یکم ۱۳۹۴
 .. slug: 941
 .. date: 2015-08-21 11:40:10 UTC+04:30
-.. tags: 
+.. tags: دانشگاه کاشان, دانشکده برق و کامپیوتر, گروه مهندسی کامپیوتر, مدیر گروه, برنامه نیمسال, ۱۳۹۴
 .. category: 
 .. link: 
 .. description: 
@@ -14,6 +14,15 @@
 
 `پیوند دائمی برای این نیمسال
 </files/semester/time_table_941.odt>`_
+
+`نسخه‌ی یکم 
+<https://app.box.com/s/cbbie0sgxrz45qigaegw0tsncaydk0k1>`_
+
+`نسخه‌ی دوم
+<https://app.box.com/s/uh9ubs69p12wd9ln67ujwkpdk2bllx76>`_
+
+`نسخه‌ی سوم
+<https://app.box.com/s/alqitgqhi2td0ggrj99a62svkhtos3wt>`_
 
 
 
