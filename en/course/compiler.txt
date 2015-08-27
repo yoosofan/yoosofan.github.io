@@ -20,29 +20,23 @@ Regular Expression
 
 `lex samples <files/course/compiler/lex_sample.zip>`_
 
-JSCC
-=====
-
-`jscc compiler tool <http://jscc.jmksf.com/jscc/jscc.html>`_
-
-`simple calculator <files/course/compiler/jscc/simple_extended_calculator.txt>`_
-
-`simple programming language <files/course/compiler/jscc/simplified_program.txt>`_
-
-`input of simple programming language <files/course/compiler/jscc/sample_input_of_simplified_program.txt>`_
-
 -----------
 
 Tools
 ======
 
-  *  `<http://www.dabeaz.com/ply/>`_
-  *  `<http://www.antlr.org>`_
+  *  `PLY (Python based) <http://www.dabeaz.com/ply/>`_
+  *  `JS/CC <http://jscc.phorward-software.com/>`_
+  *  `jison (javascript based) <http://zaach.github.io/jison/>`_
+  *  `antlr (java based) <http://www.antlr.org>`_
+  *  `Quex (c/c++) <http://quex.sourceforge.net/>`_  
+  *  `<http://pegjs.majda.cz/>`_
   *  `<http://compilers.pydata.org>`_
   *  `<http://lrparsing.sourceforge.net>`_
   *  `<https://github.com/liuxue1990/python-ll1-parser-generator>`_
   *  `<http://www.gnu.org/software/bison/bison.html>`_
-  *  `<http://www.cocolab.com/en/demo.html>`_
+  *  `<http://www.cocolab.com>`_
+  *  `LISA <http://labraj.feri.um.si/lisa/>`_
   *  `<https://wiki.python.org/moin/LanguageParsing>`_
   *  `<http://pages.cpsc.ucalgary.ca/~aycock/spark>`_
   *  `<http://theory.stanford.edu/~amitp/yapps/>`_
@@ -54,9 +48,24 @@ Tools
   *  `<http://flex.sourceforge.net>`_
   *  `<http://directory.fsf.org/project/yaccviso>`_
   *  `<http://sourceforge.net/project/showfiles.php?group_id=70447>`_
-  *  `<http://plas2003.fit.qut.edu.au/gppg>`_
-  *  `<http://quex.sourceforge.net/quex-doc-draft.html>`_
   *  `<http://www.boost.org/doc/libs/1_38_0/libs/spirit/classic/doc/introduction.html>`_
-  *  `<http://plas2003.fit.qut.edu.au/gplex/>`_
+  *  `<https://gplex.codeplex.com/>`_
   *  `<http://dinosaur.compilertools.net>`_
+
+Jison
+======
+
+`jison_try <http://zaach.github.io/jison/try/usf/index.html>`_ creates LL(1), LR(0), LALR(1), LR(1) from a context free grammar.
+
+
+JSCC
+=====
+
+`jscc compiler tool <http://jscc.phorward-software.com/>`_
+
+`simple calculator <files/course/compiler/jscc/simple_extended_calculator.txt>`_
+
+`simple programming language <files/course/compiler/jscc/simplified_program.txt>`_
+
+`input of simple programming language <files/course/compiler/jscc/sample_input_of_simplified_program.txt>`_
 
