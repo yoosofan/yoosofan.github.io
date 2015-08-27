@@ -1,0 +1,41 @@
+.bgmain{background-color:#E3EBFE;font-size: 10px}
+.bgfooter{background-color:#2846AC;font-size: 8pt; color:#FFFFFF}
+.bgselect{background-color:#E3EBFE;font-size: 10px}
+.bglogin{background-color:#7087DD;font-size: 10px}
+.bgover{background-color:#7087DD; color:#FFFFFF}
+.buttonset{background: #D6E7EF;border-bottom: 1px solid #104A7B;border-right: 1px solid #104A7B;border-left: 1px solid #AFC4D5;border-top:1px solid #AFC4D5;color:#000066;height:25px;text-decoration:none;cursor: hand}
+.HeaderOfTable
+{
+		background-color: #7087DD; font-family:Tahoma; font-size:10pt; color:#FFFFFF 
+}
+.FooterOfTable
+{
+		background-color: #7087DD; 
+}
+.EvenRow
+{
+		background-color: #efefef; 
+}
+.OddRow
+{
+		background-color: #ffffff; 
+}
+
+.FormTable
+{
+	border: 1px solid #40638E;
+	width: 95%;
+	align=center;
+	cellpadding: 5;
+	cellspacing: 0; color:#FFFFFF; padding-left:1em; padding-right:0.8em; padding-top:0; padding-bottom:0.65em; background-color:#7087DD
+}
+
+.ListTable
+{
+	border: 1px solid #40638e;
+	padding: 0 0.8em 0.65em 1em; 
+	width: 95%;
+	align=center;
+	cellpadding: 5;
+	cellspacing: 0;
+}
