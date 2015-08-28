@@ -1,6 +1,6 @@
 .. title: برنامه‌ی درسی و توضیح‌های نیمسال یکم ۱۳۹۴
 .. slug: 941
-.. date: 2015-08-21 11:40:10 UTC+04:30
+.. date: 2015-08-28 14:38:53 UTC+04:30
 .. tags: دانشگاه کاشان, دانشکده برق و کامپیوتر, گروه مهندسی کامپیوتر, مدیر گروه, برنامه نیمسال, ۱۳۹۴
 .. category: 
 .. link: 
@@ -8,21 +8,24 @@
 .. type: text
 
 
-`آخرین تغییرات برنامه درسی
-<http://yoosofan.kashanu.ac.ir/yooscripts/php/sendTimeTable.php>`_
-
-
-`پیوند دائمی برای این نیمسال
-</files/semester/time_table_941.odt>`_
-
-`نسخه‌ی یکم 
-<https://app.box.com/s/cbbie0sgxrz45qigaegw0tsncaydk0k1>`_
-
-`نسخه‌ی دوم
-<https://app.box.com/s/uh9ubs69p12wd9ln67ujwkpdk2bllx76>`_
+`نسخه‌ی چهارم (زمان آزمون‌ها)
+<https://github.com/yoosofan/yoosofan.github.io/raw/4fa0131ed8d617164466858d975b97e559a1fb3c/files/semester/time_table_941.odt>`_
 
 `نسخه‌ی سوم
 <https://app.box.com/s/alqitgqhi2td0ggrj99a62svkhtos3wt>`_
 
+`نسخه‌ی دوم
+<https://app.box.com/s/uh9ubs69p12wd9ln67ujwkpdk2bllx76>`_
+
+`نسخه‌ی یکم برنامه نیمسال یکم ۱۳۹۴
+<https://app.box.com/s/cbbie0sgxrz45qigaegw0tsncaydk0k1>`_
+
+
+`پیوند دائمی برای برنامه‌ی درسی این نیمسال
+</files/semester/time_table_941.odt>`_  
+(این پیوند شاید آخرین نسخه را نشان ندهد زیرا سرویس دهنده‌های اینترنت پرونده‌ها را گاهی تا چند روز در خود ذخیره می‌کنند و به 
+جای این که از وب‌گاه اصلی گرفته شود که به روز شده است نسخه‌ی قدیمی‌تر را نشان دهند. البته پس از این که برنامه 
+وارد سامانه‌ی آموزش شد و این  پرونده تغییر نکرد همین پرونده آخرین نسخه خواهد شد.)
+ 
 
 
