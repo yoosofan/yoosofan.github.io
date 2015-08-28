@@ -24,10 +24,14 @@
 *  `<http://ce.kashanu.ac.ir/usofan/>`_
 
 
-اعضای هیأت علمی دانشکده‌ی مهندسی برق و کامپیوتر
+دانشکده‌ی مهندسی برق و کامپیوتر
 =========================================================================
 
-*  `<http://elecomp.kashanu.ac.ir/fa/faculty/اسامی.اعضای.هیئت.علمی.html#مهندسی کامپیوتر>`_
+*  `سایت دانشکده <http://elecomp.kashanu.ac.ir/fa>`_
+*  `اعضای هیأت علمی دانشکده‌ی مهندسی برق و کامپیوتر <http://elecomp.kashanu.ac.ir/fa/faculty/اسامی.اعضای.هیئت.علمی.html#مهندسی کامپیوتر>`_
+*  `کارکنان دانشکده <http://elecomp.kashanu.ac.ir/fa/employer/%D9%84%DB%8C%D8%B3%D8%AA.%D8%A7%D8%B3%D8%A7%D9%85%DB%8C.%DA%A9%D8%A7%D8%B1%DA%A9%D9%86%D8%A7%D9%86.html>`_
+*  `کارشناسان آموزشی دانشکده <http://elecomp.kashanu.ac.ir/fa/contents/Afrad/amuzesh/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%D9%86.%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C.html>`_
+*  `فرم‌ها و آیین نامه‌ها <http://elecomp.kashanu.ac.ir/fa/contents/forms/%D9%81%D8%B1%D9%85%E2%80%8C%D9%87%D8%A7%D8%8C.%D8%A2%D8%A6%DB%8C%D9%86%E2%80%8C%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%87%D8%A7....html>`_
 
 فارسی در رایانه
 =============================================
