@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. keywords: research, پژوهش, computer, کامپیوتر, رایانه
 
 
 ..  raw:: html
@@ -173,7 +174,7 @@
   </li>
 
   <li>
-  <a href="files/research/rexx/yooosfan_rexx.zip">
-          پروژه کارشناسی: طراحی و پیاده سازی مفسر برای زبان برنامه نویسی REXX ، زیر نظر دکتر توحیدی ، دانشگاه شیراز
+  <a href="files/research/rexx/yoosofan_rexx.zip">
+          پروژه کارشناسی: طراحی و پیاده سازی مفسر برای زبان برنامه نویسی REXX تحت سیستم عامل DOS، زیر نظر دکتر توحیدی ، دانشگاه شیراز
   </a>
   </ol></div>
