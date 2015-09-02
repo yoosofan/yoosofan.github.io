@@ -2,17 +2,17 @@
 <html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " dir="rtl" lang="fa">
 <head>
 <meta charset="utf-8">
-<base href="http://yoosofan.github.io/course/csharp.html">
+<base href="http://yoosofan.kashanu.ac.ir/course/csharp.html">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CSharp | احمد یوسفان</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../en/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (fa)" href="../rss.xml">
-<link rel="canonical" href="http://yoosofan.github.io/course/csharp.html">
+<link rel="canonical" href="http://yoosofan.kashanu.ac.ir/course/csharp.html">
 <!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="احمد یوسفان">
 <meta property="og:site_name" content="احمد یوسفان">
 <meta property="og:title" content="CSharp">
-<meta property="og:url" content="http://yoosofan.github.io/course/csharp.html">
+<meta property="og:url" content="http://yoosofan.kashanu.ac.ir/course/csharp.html">
 <meta property="og:description" content="فهرست کتاب‌های پیشنهادی برای #C
 
 C# 4.0: The Complete Reference/Herbert Schildt/McGraw-Hill Osborne Media; 1 edition (April 27, 2010)
@@ -36,7 +36,7 @@ Begin">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="http://yoosofan.github.io/">
+            <a class="navbar-brand" href="http://yoosofan.kashanu.ac.ir/">
 
                 <span id="blog-title">احمد یوسفان</span>
             </a>
@@ -80,7 +80,7 @@ Begin">
             </li>
 </ul>
 <!-- DuckDuckGo custom search --><form method="get" id="search" action="//duckduckgo.com/" class="navbar-form pull-left">
-<input type="hidden" name="sites" value="http://yoosofan.github.io/"><input type="hidden" name="k8" value="#444444"><input type="hidden" name="k9" value="#D51920"><input type="hidden" name="kt" value="h"><input type="text" name="q" maxlength="255" placeholder="Search…" class="span2" style="margin-top: 4px;"><input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+<input type="hidden" name="sites" value="http://yoosofan.kashanu.ac.ir/"><input type="hidden" name="k8" value="#444444"><input type="hidden" name="k9" value="#D51920"><input type="hidden" name="kt" value="h"><input type="text" name="q" maxlength="255" placeholder="Search…" class="span2" style="margin-top: 4px;"><input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
 </form>
 <!-- End of custom search -->
 
@@ -88,7 +88,7 @@ Begin">
             <ul class="nav navbar-nav navbar-right">
 <li>
             </li>
-<li><a href="http://yoosofan.github.io/en/" rel="alternate" hreflang="en">English</a></li>
+<li><a href="http://yoosofan.kashanu.ac.ir/en/" rel="alternate" hreflang="en">English</a></li>
 
                 
                     
@@ -138,13 +138,13 @@ Begin">
 <a class="reference external" href="http://mono-project.com/">mono</a>
 را نصب کنید. mono یک پیاده سازی متن باز از CSharp است که بر روی چندین سیستم عامل امکان کامپایل و اجرای برنامه‌ای CSharp  را فراهم می‌کند.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
-<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_713c69553df74526bbe3600741708315-1"></a><span class="nv">$ </span>gmcs  test.cs
-<a name="rest_code_713c69553df74526bbe3600741708315-2"></a>mono  test.exe
+<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_a5f0389b67ae4a08b84254bca73411bd-1"></a><span class="nv">$ </span>gmcs  test.cs
+<a name="rest_code_a5f0389b67ae4a08b84254bca73411bd-2"></a>mono  test.exe
 </pre></div>
 <p><a class="reference external" href="../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شماره‌ی خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
-<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_a9aec62134064784b19a87a71bbb7c08-1"></a>gmcs -debug  test.cs
-<a name="rest_code_a9aec62134064784b19a87a71bbb7c08-2"></a>mono  --debug test.exe
+<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_0b879f3a31b74081a1d3dcfd24411b04-1"></a>gmcs -debug  test.cs
+<a name="rest_code_0b879f3a31b74081a1d3dcfd24411b04-2"></a>mono  --debug test.exe
 </pre></div>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>
 محیط یکپارچه‌ی اجرا برای کامپایل و اجرای این زبان فراهم می‌کند.</p>
