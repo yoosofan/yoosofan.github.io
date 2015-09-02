@@ -9,6 +9,12 @@
 
 
 
+`نسخه‌ی هفتم
+<https://github.com/yoosofan/yoosofan.github.io/raw/ac3f792af2584524491df00eafb98b8a9a743439/files/semester/time_table_941.odt>`_
+
+برنامه در آموزش وارد شده است لطفا بررسی کنید تا مشکلی وجود نداشته باشد و جدول یکم (درس‌ها) و جدول آخر (آزمون‌ها) با آنچه در سامانه‌ی آموزش است همخوانی داشته باشد. جدول مناسب برای آموزش احتمالا ناهماهنگی‌هایی با برنامه‌ی وارد شده دارد که مهم نیست. فقط جدول‌های اول و آخر مهم است.
+
+
 `نسخه‌ی ششم
 <https://github.com/yoosofan/yoosofan.github.io/raw/a12fdfbf586d8810b077af41ab61c0d68edce1b3/files/semester/time_table_941.odt>`_
 
