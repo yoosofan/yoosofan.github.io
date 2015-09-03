@@ -1,2 +1,2 @@
-Sitemap: http://yoosofan.kashanu.ac.ir/sitemapindex.xml
+Sitemap: http://yoosofan.github.io/sitemapindex.xml
 
