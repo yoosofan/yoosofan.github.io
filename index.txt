@@ -40,6 +40,8 @@
 `فهرست درس‌های مهندسی کامپیوتر در سامانه‌ی آموزش دانشگاه
 </files/course/rules/Table_Entries.html>`_
 
+`فهرست همه‌ی درس‌های دانشگاه تا تاریخ ۹۴۰۶۱۵
+</files/course/rules/rules.tar.bz2>`_
 
 `سرفصل درس‌های کارشناسی مهندسی کامپیوتر بازنگری شده‌ی وزارت علوم برای ورودی ۹۳ و پس از آن 
 <https://www.dropbox.com/s/lu9s3ohg9d5vekx/computer92.pdf?dl=0>`_
