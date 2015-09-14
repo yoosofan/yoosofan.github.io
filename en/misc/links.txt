@@ -45,6 +45,13 @@ Writing Persian
 *  `FarsiDo java based <http://www.hoomanb.com/Farsido/english.htm>`_
 *  `Unipad: windows application <http://www.unipad.org/main/>`_
 *  `Simredo (Java based) <http://www012.upp.so-net.ne.jp/klivo/simredo/simeng.htm>`_
+*  `<http://vkboard.com/virtual-farsi-keyboard/>`_
+*  `<http://www.omniglot.com/writing/persian.htm>`_
+
+Other Persian related websites
+-----------------------------------------------
+
+*  `<http://persian.nmelrc.org/>`_
 
 ----------------------------------------
 

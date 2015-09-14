@@ -57,6 +57,13 @@
 *  `فارسیدو: java <http://www.hoomanb.com/Farsido/english.htm>`_
 *  `یونی‌پد: ویرایشگر یونی‌کد تحت ویندوز <http://www.unipad.org/main/>`_
 *  `Simredo (Java based) <http://www012.upp.so-net.ne.jp/klivo/simredo/simeng.htm>`_
+*  `<http://vkboard.com/virtual-farsi-keyboard/>`_
+*  `<http://www.omniglot.com/writing/persian.htm>`_
+
+دیگر سایت‌های مرتبط با زبان فارسی
+-----------------------------------------------
+
+*  `<http://persian.nmelrc.org/>`_
 
 ----------------------------------------
 
