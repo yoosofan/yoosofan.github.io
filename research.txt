@@ -11,7 +11,7 @@
 برخی از ابزارهای تولید شده
 ======================================================================
 
-*  `WebRel </webrel/index.htm>`_
+*  `WebRel </webrel/index.htm>`_ , `<http://sourceforge.net/projects/webrel/>`_
 
 مقاله
 ======================================================================
@@ -177,6 +177,6 @@
   </div><div>
           پروژه کارشناسی: طراحی و پیاده سازی مفسر برای زبان برنامه نویسی REXX تحت سیستم عامل DOS، زیر نظر دکتر توحیدی ، دانشگاه شیراز
   <br />
-  <a href="files/research/rexx/yoosofan_rexx.zip" rel="nofollow" title="Zip" target=""><span class="yoosofan_research_actionbutton">Zip</span></a></span> , <a href="" rel="nofollow" title="github" target=""><span class="yoosofan_research_actionbutton">github</span></a></span>
+  <a href="files/research/rexx/yoosofan_rexx.zip" rel="nofollow" title="Zip" target=""><span class="yoosofan_research_actionbutton">Zip</span></a></span> , <a href="https://github.com/yoosofan/REXX" rel="nofollow" title="github" target=""><span class="yoosofan_research_actionbutton">github</span></a></span>
   </div>
 
