@@ -8,17 +8,23 @@
 .. type: text
 .. keywords: research, computer
 
+Some created tools
+======================================================================
+
+*  `WebRel </webrel/index.htm>`_
+
+Publication
+======================================================================
+
 ..  raw:: html
 
   <!-- <li> <form method="post" action="php/ris.php" > <span dir="ltr"> <input type="radio" name="group1" value="ecity_880304.bib"> BibTeX<br /> <input type="radio" name="group1" value="ecity_880304.ris" checked> RIS<br> <input type ="submit" value ="Export" / > </span> </form> </div> -->
-  <div>
-  برخی از ابزارهای تولید شده
-  <ul>
-  <li><a href="webrel/index.htm">webrel</a></li>
-  </ul>
-  </div> <hr />
-
   <div><ol><li>
+  Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015.
+  <br /> <a href="http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640" rel="nofollow" title="Paper Link" ><span class="yoosofan_research_actionbutton">Paper Link</span></a>
+  </li><li>
+  حاجی رضایی،علی؛ یوسفان، احمد. «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایه‌ی تصاویر پانوراما». چهارمین همایش موزه‌ی علوم و فناوری. موزه علوم و فناوری ایران: آبان ۱۳۹۳.
+  </li><li>
   منعمی بیدگلی،عطیه؛ یوسفان، احمد؛ خدمتی، ابوالفضل؛ «داده کاوی بر روی پایگاه داده‌ی آموزش دانشگاه کاشان به کمک روش GRI و تحلیل نتیجه‌ها». هفتمین کنفرانس داده کاوی ایران. دانشگاه تهران: ۹۲/۰۹/۱۹ تا ۹۲/۰۹/۲۰.
   <br /><span> <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
@@ -154,26 +160,23 @@
 
   </li>
 
-  <li> <a href="files/research/p2116.pdf">
+  <li>
    ا. یوسفان, م. ذوالقدری, و م. احمدی,  “روش خودکار شناسایی وازه‌های پربسامد در زبان فارسی,”  IKT2005,  تهران ، امیرکبیر: 1384.
-  </a>
   <br /><span> <a href="/files/yoosofan_bibliography/ikt2005.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/ikt2005.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li></ol>
   </div><hr />
-  <div><ol>
-  <li>
-  ا. یوسفان, “يك سيستم بازيابي اطلاعات متني براي زبان فارسي بر پايه نمايه گذاري معاني پنهان,” دانشگاه شیراز, 1382، زیر نظر دکتر ذوالقدری جهرمی و دکتر اقبالی
+  <div>
+  پایان نامه کارشناسی ارشد؛ یوسفان، احمد. « يك سيستم بازيابي اطلاعات متني براي زبان فارسي بر پايه نمايه گذاري معاني پنهان » دانشگاه شیراز, 1382، زیر نظر دکتر ذوالقدری جهرمی و دکتر اقبالی
   <br /><span>
   <a href="files/research/ahmad.yoosofan.msThesis.doc" rel="nofollow" title="Doc" target=""><span class="yoosofan_research_actionbutton">Doc</span></a> </span> 
   <a href="files/research/ahmad.yoosofan.msThesis.zip" rel="nofollow" title="zip" target=""><span class="yoosofan_research_actionbutton">zip</span></a> </span>
   <a href="files/research/ahmad.yoosofan.msThesis.pdf" rel="nofollow" title="PDF" target=""><span class="yoosofan_research_actionbutton">PDF</span></a> </span> 
    <a href="/files/yoosofan_bibliography/yoosofan_ms_thesis.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/yoosofan_ms_thesis.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
-  </li>
-
-  <li>
-  <a href="files/research/rexx/yoosofan_rexx.zip">
+  </div><div>
           پروژه کارشناسی: طراحی و پیاده سازی مفسر برای زبان برنامه نویسی REXX تحت سیستم عامل DOS، زیر نظر دکتر توحیدی ، دانشگاه شیراز
-  </a>
-  </ol></div>
+  <br />
+  <a href="files/research/rexx/yoosofan_rexx.zip" rel="nofollow" title="Zip" target=""><span class="yoosofan_research_actionbutton">Zip</span></a></span> , <a href="" rel="nofollow" title="github" target=""><span class="yoosofan_research_actionbutton">github</span></a></span>
+  </div>
+
