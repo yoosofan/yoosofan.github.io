@@ -11,7 +11,9 @@
 برخی از ابزارهای تولید شده
 ======================================================================
 
-*  `WebRel </webrel/index.htm>`_ , `<http://sourceforge.net/projects/webrel/>`_
+*  `WebRel </webrel/index.htm>`_ 
+
+   *  `<http://sourceforge.net/projects/webrel/>`_
 
 مقاله
 ======================================================================
@@ -21,7 +23,7 @@
   <!-- <li> <form method="post" action="php/ris.php" > <span dir="ltr"> <input type="radio" name="group1" value="ecity_880304.bib"> BibTeX<br /> <input type="radio" name="group1" value="ecity_880304.ris" checked> RIS<br> <input type ="submit" value ="Export" / > </span> </form> </div> -->
   <div><ol><li>
   Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015.
-  <br /> <a href="http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640" rel="nofollow" title="Paper Link" ><span class="yoosofan_research_actionbutton">Paper Link</span></a>
+  <br /> <a href="http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640" rel="nofollow" title="Paper Page" ><span class="yoosofan_research_actionbutton">Paper Page</span></a>
   </li><li>
   حاجی رضایی،علی؛ یوسفان، احمد. «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایه‌ی تصاویر پانوراما». چهارمین همایش موزه‌ی علوم و فناوری. موزه علوم و فناوری ایران: آبان ۱۳۹۳.
   </li><li>

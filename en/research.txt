@@ -11,7 +11,9 @@
 Some created tools
 ======================================================================
 
-*  `WebRel </webrel/index.htm>`_ , `<http://sourceforge.net/projects/webrel/>`_
+*  `WebRel </webrel/index.htm>`_ 
+
+   *  `<http://sourceforge.net/projects/webrel/>`_
 
 Publication
 ======================================================================
