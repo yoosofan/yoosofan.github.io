@@ -150,7 +150,7 @@
   </li>
 
   <li><span dir="ltr">
-  A. yoosofan and A. Ashrafi, “Calculation of Wiener index  for some single-wall carbon nanohorn,” The 2nd conference and workshop on mathematical chemistry (SCWMC 09),  Kahann , Iran: 2009.
+  A. yoosofan and A. Ashrafi, “Calculation of Wiener index  for some single-wall carbon nanohorn,” The 2nd conference and workshop on mathematical chemistry (SCWMC 09),  Kashann , Iran: 2009.
   <br /><span> <a href="/files/yoosofan_bibliography/scwmc09.ris" rel="nofollow" title="Export as RIS"><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/scwmc09.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </span></li>

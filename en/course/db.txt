@@ -101,3 +101,18 @@ Ohter resources
 `Hugh Darwen <http://www.dcs.warwick.ac.uk/~hugh/>`_
 
 `<http://www.thimbleware.com/projects/jrel>`_
+
+
+Web-based SQL commands emulator
+============================================================
+
+*  `<http://sqlfiddle.com>`_
+*  `<http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all>`_
+*  `<https://github.com/agershun/alasql>`_
+*  `<https://github.com/maciakl/jQuery-SQL-Emulator>`_
+
+Web-based Graphical SQL Designer
+=============================================================
+
+*  `<http://ondras.zarovi.cz/sql/demo/?keyword=default>`_
+*  `<https://github.com/ondras/wwwsqldesigner>`_

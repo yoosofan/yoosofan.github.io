@@ -111,3 +111,17 @@ sqlite
 `فهرستی از تبدیل کننده‌های زبان جبر رابطه‌ای به زبان SQL
 <http://www.thimbleware.com/projects/jrel>`_
 
+
+ابزارهای برخط اجرای دستورهای SQL
+============================================================
+
+*  `<http://sqlfiddle.com>`_
+*  `<http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all>`_
+*  `<https://github.com/agershun/alasql>`_
+*  `<https://github.com/maciakl/jQuery-SQL-Emulator>`_
+
+ابزار ساخت گرافیکی جدول‌ها تحت وب
+=============================================================
+
+*  `<http://ondras.zarovi.cz/sql/demo/?keyword=default>`_
+*  `<https://github.com/ondras/wwwsqldesigner>`_
