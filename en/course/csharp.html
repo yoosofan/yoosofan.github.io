@@ -6,6 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CSharp | Ahmad Yoosofan</title>
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<meta content="#5670d4" name="theme-color">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (fa)" href="../../rss.xml">
 <link rel="canonical" href="http://yoosofan.github.io/en/course/csharp.html">
@@ -27,7 +28,7 @@ Beginning Visual C# 2010 /Karli">
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-default navbar-static-top"><div class="container">
+<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
 <!-- This keeps the margins nice -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
@@ -134,12 +135,12 @@ Beginning Visual C# 2010 /Karli">
 <p>First, Download and install <a class="reference external" href="http://mono-project.com/">mono</a> . This is an open source and free implementation
 of .Net for several platforms.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
-<pre class="code sh"><a name="rest_code_4861825b84414810a4b5f815d2337fcf-1"></a><span class="nv">$ </span>gmcs  test.cs
-<a name="rest_code_4861825b84414810a4b5f815d2337fcf-2"></a>mono  test.exe
+<pre class="code sh"><a name="rest_code_8a819957a19242c7969eb97c1fd5ddcb-1"></a><span class="nv">$ </span>gmcs  test.cs
+<a name="rest_code_8a819957a19242c7969eb97c1fd5ddcb-2"></a>mono  test.exe
 </pre>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شماره‌ی خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
-<pre class="code sh"><a name="rest_code_068b9a97ba61456dbff53499679159f1-1"></a>gmcs -debug  test.cs
-<a name="rest_code_068b9a97ba61456dbff53499679159f1-2"></a>mono  --debug test.exe
+<pre class="code sh"><a name="rest_code_b016899432364a579755c0facf1e312b-1"></a>gmcs -debug  test.cs
+<a name="rest_code_b016899432364a579755c0facf1e312b-2"></a>mono  --debug test.exe
 </pre>
 <p><a class="reference external" href="../../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>
@@ -168,7 +169,7 @@ of .Net for several platforms.</p>
 
 
             <script src="../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
-    moment.locale("");
+    moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates -->
 </body>
