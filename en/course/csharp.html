@@ -28,7 +28,7 @@ Beginning Visual C# 2010 /Karli">
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
+<nav class="navbar navbar-default navbar-static-top"><div class="container">
 <!-- This keeps the margins nice -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
@@ -135,12 +135,12 @@ Beginning Visual C# 2010 /Karli">
 <p>First, Download and install <a class="reference external" href="http://mono-project.com/">mono</a> . This is an open source and free implementation
 of .Net for several platforms.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
-<pre class="code sh"><a name="rest_code_a015fd0a53594bf8a14b4c6b6210fadd-1"></a><span class="nv">$ </span>gmcs  test.cs
-<a name="rest_code_a015fd0a53594bf8a14b4c6b6210fadd-2"></a>mono  test.exe
+<pre class="code sh"><a name="rest_code_1f2fd2ffb4404c8fbc588b854f7e2f48-1"></a><span class="nv">$ </span>gmcs  test.cs
+<a name="rest_code_1f2fd2ffb4404c8fbc588b854f7e2f48-2"></a>mono  test.exe
 </pre>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شماره‌ی خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
-<pre class="code sh"><a name="rest_code_6e38eef0024c4115ad7484bf70f42f57-1"></a>gmcs -debug  test.cs
-<a name="rest_code_6e38eef0024c4115ad7484bf70f42f57-2"></a>mono  --debug test.exe
+<pre class="code sh"><a name="rest_code_1755942c527b47c7b4c3918ce78e7b99-1"></a>gmcs -debug  test.cs
+<a name="rest_code_1755942c527b47c7b4c3918ce78e7b99-2"></a>mono  --debug test.exe
 </pre>
 <p><a class="reference external" href="../../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>
