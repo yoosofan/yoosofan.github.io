@@ -7,6 +7,14 @@
 .. description: 
 .. type: text
 
+
+برنامه ریزی نیمسال دوم سال تحصیلی ۱۳۹۴ - ۱۳۹۵ (۹۴۲) را آقای مهندس گلی با شرایطی پذیرفتند انجام دهند. بنابراین لطفا اگر هر گونه پرسشی در این زمینه یا پیشنهادی دارید با ایشان در میان بگذارید. رایانامه‌ی ایشان در ادامه گذاشته شده است.
+
+.. class:: yoosofan-change-ltr
+
+    "salmangoli" <salmangoli@kashanu.ac.ir>; "salmangoli" <salmangoli@gmail.com>; "salman goli" <salmangoli@yahoo.com>
+
+
 `نیمسال یکم سال تحصیلی ۱۳۹۴ - ۱۳۹۵ (۹۴۱)
 <941.html>`_
 
