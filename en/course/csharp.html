@@ -135,12 +135,12 @@ Beginning Visual C# 2010 /Karli">
 <p>First, Download and install <a class="reference external" href="http://mono-project.com/">mono</a> . This is an open source and free implementation
 of .Net for several platforms.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
-<pre class="code sh"><a name="rest_code_d7c5086312d348458a896cde85021e5a-1"></a><span class="nv">$ </span>gmcs  test.cs
-<a name="rest_code_d7c5086312d348458a896cde85021e5a-2"></a>mono  test.exe
+<pre class="code sh"><a name="rest_code_b92d726509c74ee69c9eb61ee01e486a-1"></a><span class="nv">$ </span>gmcs  test.cs
+<a name="rest_code_b92d726509c74ee69c9eb61ee01e486a-2"></a>mono  test.exe
 </pre>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شماره‌ی خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
-<pre class="code sh"><a name="rest_code_d2bca0fddbcc47789701f6a3261a361a-1"></a>gmcs -debug  test.cs
-<a name="rest_code_d2bca0fddbcc47789701f6a3261a361a-2"></a>mono  --debug test.exe
+<pre class="code sh"><a name="rest_code_166a087ea9da450b85f88a2283d2cd1b-1"></a>gmcs -debug  test.cs
+<a name="rest_code_166a087ea9da450b85f88a2283d2cd1b-2"></a>mono  --debug test.exe
 </pre>
 <p><a class="reference external" href="../../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>
