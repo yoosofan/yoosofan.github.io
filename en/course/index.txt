@@ -10,7 +10,6 @@
 
 *  `Fundumental of Programming <fp.html>`_
 *  `Advanced Programming(C++) <cpp.html>`_
-*  `Advanced Programming(C#) <csharp.html>`_
 *  `Operating Systems <os.html>`_
 *  `Compilers <compiler.html>`_
 *  `Database <db.html>`_
@@ -21,4 +20,4 @@ Old courses
 *  `Internet Engineering <ie.html>`_
 *  `Operating Systems Laboratory <oslab.html>`_
 *  `Modeling and Perfomance Evaluation of Computer Systems <cpa.html>`_
-
+*  `Advanced Programming(C#) <csharp.html>`_
