@@ -30,7 +30,7 @@
 |                                                                                                                          |                                                          |    
 | University of Kashan,  Kashan, I.R.Iran  , Postal Code: 87317-51167 ,                                                    |                                                          |
 |                                                                                                                          |                                                          |
-| Telephone : 0098-315-5912495,                                                                                            |  ..image:: /galleries/images/yoosofan_gray3.jpg          |
+| Telephone : 0098-315-5912495,                                                                                            |  .. image:: /galleries/images/yoosofan_gray3.jpg         |
 |                                                                                                                          |      :align: center                                      |
 |                                                                                                                          |      :width: 581                                         |
 |                                                                                                                          |      :height: 125                                        |
