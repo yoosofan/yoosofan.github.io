@@ -111,6 +111,8 @@
 *  `برنامه نویس <http://barnamenevis.org/forumdisplay.php?80-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-C&s=9935445daf65608c61bf41df07e2bc21>`_
 *  `استاندارد زبان C <http://www.open-std.org/jtc1/sc22/wg14/>`_
 *  `فهرستی از پیوندها به سایت‌های مربوط به زبان C <http://www.lysator.liu.se/c/>`_
+*  `<cprogramming.com>`_
+*  `<http://stackoverflow.com/questions/tagged/c>`_
 *  `standard library <http://www.tutorialspoint.com/c_standard_library/index.htm>`_
 *  `gnu c manual <http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html>`_
 *  `c programming <http://www.programiz.com/c-programming>`_

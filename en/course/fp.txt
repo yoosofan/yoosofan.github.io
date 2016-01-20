@@ -110,6 +110,8 @@ Links
 *  `<http://www.csitschools.com/c-programming-language/>`_
 *  `standard C <http://www.open-std.org/jtc1/sc22/wg14/>`_
 *  `C Links <http://www.lysator.liu.se/c/>`_
+*  `<cprogramming.com>`_
+*  `<http://stackoverflow.com/questions/tagged/c>`_
 *  `standard library <http://www.tutorialspoint.com/c_standard_library/index.htm>`_
 *  `gnu c manual <http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html>`_
 *  `c programming <http://www.programiz.com/c-programming>`_
