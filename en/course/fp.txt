@@ -7,25 +7,33 @@
 .. description: 
 .. type: text
 
-کتاب‌های مبانی الگوریتم نویسی
+Fundamental of Programming books
 ==============================================================================
 
 *  نخستین درس در علم كامپیوتر (جلد اول)؛ ناشر : مركز نشر دانشگاهی، نویسندگان: فورسایت، كینان، اورگانیك، ستنبرگ؛   ترجمه : احمد توحیدی، محمد روغنی، ناصر قاسم آقایی، مصطفی كرمانی؛ ویراسته : عفت خضرائی، ابراهیم نقیب‌زاده مشایخ؛ تاریخ اولین چاپ : 1377؛ چاپ آخر : چاپ سوم - 1389.
 *  الگوریتم و فلوچارت؛ شهریار رسولی؛ نشر: ارکان دانش (30 مهر، 1390).
 
-کتاب‌های زبان C
+C books
 ==============================================================================
 
 *  مبانی کامپیوتر و برنامه نویسی به زبان C؛ محمد داورپناه جزی؛ نشر: دانشگاه صنعتی اصفهان، دفتر انتشارات (21 دی، 1390).
 
 
-کامپایل و اجرای برخط
+Compile and Execute C Online 
 ==============================================================================
 
 *  `<http://www.tutorialspoint.com/compile_c_online.php>`_
+*  `<http://cpp.sh/>`_
+*  `<http://codepad.org/>`_
+*  `<https://www.jdoodle.com/c-online-compiler>`_
+*  `<http://ideone.com>`_
+*  `<https://www.codechef.com/ide>`_
+*  `<http://webcompiler.cloudapp.net/>`_
+*  `<https://codepad.remoteinterview.io/GladnessUrgentCactusCostume>`_
+*  `<http://www.onlinecompiler.net/>`_
+*  `<http://getprogramcode.com/compiler/compile-c-programs-online.html>`_
 
-
-محیط‌های یکپارچه‌ی اجرا (IDE)
+Integrated Development Environments (IDEs)
 ==============================================================================
 
 یکی از مشکل‌هایی که اغلب برنامه نویسان در مبانی برنامه نویسی با آن روبرو هستند به کار بردن ابزارهایی است که بتواند کار آنها را ساده‌تر نماید و به سادگی بتوانند پروژه‌های خود را انجام دهند. البته گزینه‌ی شخصی من برای نوشتن کدهای ساده به کار بردن ترکیب `geany`_ به عنوان ویرایشگر و کامپایلر `gcc`_ است.
@@ -44,7 +52,7 @@
 *  `Visual Studio Express <http://www.microsoft.com/visualstudio/eng/products/visual-studio-express-products>`_ :  فقط برای سیستم عامل ویندوز است و البته نرم افزار سنگینی است که روی رایانه‌های قدیمی نمی‌تواند اجرا شود. 
 *  `xcode <https://developer.apple.com/xcode/>`_ :  فقط برای سیستم عامل‌های شرکت مکینتاش است.
 
-کامپایلرها
+Compilers
 ==============================================================================
 
 در این بخش فهرست تعدادی از کامپایلرهای مناسب برای انجام تمرین‌ها و پروژه‌های درسی آورده شده است.
@@ -58,21 +66,21 @@
 *  `open64 <http://www.open64.net>`_
 *  `Borland Cpp 5.5 <http://forms.embarcadero.com/forms/BCC32CompilerDownload>`_
 
-ویرایشگرها
+Editors
 ==============================================================================
 
 *  `geany <http://www.geany.org>`_ : `نسخه‌ی قابل حمل آن در ویندوز <http://portableapps.com/apps/development/geany_portable>`_
 *  `notepadpp <http://www.notepad-plus-plus.org/>`_ :  این ویرایشگر فقط در ویندوز است ولی به دلیل این که از امکانات پایه‌ی ویندوز کمک گرفته است به سادگی می‌تواند در wine در لینوکس نیز اجرا شود. نسخه‌ی قابل حمل آن `notepadpp_portable <http://portableapps.com/apps/development/notepadpp_portable>`_ است.
 *  `kate <http://kate-editor.org>`_
 
-پردازنده‌های ویژه
+Especial microcontroller
 ==============================================================================
 
 در این بخش ابزارها و کامپایلرهایی گذاشته می‌شود که برای پردازنده‌ها و کنترلگرهای خاص به زبان C آماده شده‌اند.
 
 *  `SDCC <http://sdcc.sourceforge.net>`_
 
-برنامه‌های نمونه
+Sample codes
 ==============================================================================
 
 *  `برنامه‌ی ضرب دو عدد به کمک ماتریس(این برنامه می‌تواند در فاکتوریل عددها به کار برده شود)  </files/course/fp/big_number_multiplication.c>`_
@@ -86,7 +94,7 @@
      :code: c
      :number-lines:
 
-کامپایلر C و C++ به جاوااسکریپت
+C and C++ compiler to javascript
 ==============================================================================
 
 *  `Emscripten <http://kripken.github.io/emscripten-site/>`_ : با این ابزار بسادگی می‌توانید برنامه‌های به زبان C را به زبان جاوااسکریپت تبدیل کنید.
@@ -94,16 +102,17 @@
 
 
 
-سایت‌هایی درباره‌ی زبان C
+Links
 ==============================================================================
 
-*  `برنامه نویس <http://barnamenevis.org/forumdisplay.php?80-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-C&s=9935445daf65608c61bf41df07e2bc21>`_
-*  `استاندارد زبان C <http://www.open-std.org/jtc1/sc22/wg14/>`_
-*  `فهرستی از پیوندها به سایت‌های مربوط به زبان C <http://www.lysator.liu.se/c/>`_
+*  `<http://www.cquestions.com/>`_
+*  `<http://www.programiz.com/c-programming>`_
+*  `<http://www.csitschools.com/c-programming-language/>`_
+*  `standard C <http://www.open-std.org/jtc1/sc22/wg14/>`_
+*  `C Links <http://www.lysator.liu.se/c/>`_
 *  `standard library <http://www.tutorialspoint.com/c_standard_library/index.htm>`_
 *  `gnu c manual <http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html>`_
 *  `c programming <http://www.programiz.com/c-programming>`_
 *  `c programming tutorials <http://www.mycplus.com/tutorials/c-programming-tutorials/>`_
 *  `C programming language <https://en.wikipedia.org/wiki/C_%28programming_language%29>`_
 *  `IEEE-754 (IEEE rounding double numbers standard) <http://babbage.cs.qc.cuny.edu/IEEE-754/>`_
-
