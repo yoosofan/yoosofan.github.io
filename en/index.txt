@@ -32,8 +32,6 @@
 |                                                                                                                          |                                                          |
 | Telephone : 0098-315-5912495,                                                                                            |  .. image:: /galleries/images/yoosofan_gray3.jpg         |
 |                                                                                                                          |      :align: center                                      |
-|                                                                                                                          |      :width: 581                                         |
-|                                                                                                                          |      :height: 125                                        |
 |                                                                                                                          |      :alt: Ahmad Yoosofan's picture                      |
 | Fax No: 0098-315-5912930                                                                                                 |                                                          |
 |                                                                                                                          |                                                          |
