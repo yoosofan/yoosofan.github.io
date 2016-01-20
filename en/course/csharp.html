@@ -135,12 +135,21 @@ Beginning Visual C# 2010 /Karli">
 <p>First, Download and install <a class="reference external" href="http://mono-project.com/">mono</a> . This is an open source and free implementation
 of .Net for several platforms.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
+<<<<<<< HEAD
 <pre class="code sh"><a name="rest_code_ce6118f3e466477aba8200fe5c299249-1"></a><span class="nv">$ </span>gmcs  test.cs
 <a name="rest_code_ce6118f3e466477aba8200fe5c299249-2"></a>mono  test.exe
 </pre>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شماره‌ی خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
 <pre class="code sh"><a name="rest_code_65a91576bb9641438f1447131baab861-1"></a>gmcs -debug  test.cs
 <a name="rest_code_65a91576bb9641438f1447131baab861-2"></a>mono  --debug test.exe
+=======
+<pre class="code sh"><a name="rest_code_8f9199f5774e4215aa94ea28feb6de9e-1"></a><span class="nv">$ </span>gmcs  test.cs
+<a name="rest_code_8f9199f5774e4215aa94ea28feb6de9e-2"></a>mono  test.exe
+</pre>
+<p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شماره‌ی خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
+<pre class="code sh"><a name="rest_code_cc6ffdefcfd947de9ba2a6961e1764a1-1"></a>gmcs -debug  test.cs
+<a name="rest_code_cc6ffdefcfd947de9ba2a6961e1764a1-2"></a>mono  --debug test.exe
+>>>>>>> e7fdb1ac80ea0265e51aeeef7cc4c1ef85fd8582
 </pre>
 <p><a class="reference external" href="../../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>
