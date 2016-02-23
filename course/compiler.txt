@@ -8,11 +8,12 @@
 .. type: text
 
 
+
 کتاب اصلی درس
 ===========================================================================================
 
-Compilers: Principles, Techniques, and Tools (2nd Edition). 
-Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman. Addison Wesley, (August 2006)
+*  `Compilers: Principles, Techniques, and Tools (2nd Edition). Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman. Addison Wesley, (August 2006) <http://dragonbook.stanford.edu/>`_
+
 
 
 `برنامه‌های نمونه به زبان lex
