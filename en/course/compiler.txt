@@ -8,6 +8,14 @@
 .. type: text
 
 
+Book
+=====
+
+Compilers: Principles, Techniques, and Tools (2nd Edition). 
+Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman. Addison Wesley, (August 2006)
+
+
+
 Regular Expression
 ===================
 

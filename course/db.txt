@@ -62,8 +62,8 @@
 ابزارهایی برای کار ساده‌تر با 
 sqlite
 
-*  `SQLiteMan <http://www.sqliteman.com>`_ ,  `sqliteman-portable <http://portableapps.com/apps/development/sqliteman-portable>`_
 *  `SQLite Database Browser <http://sqlitebrowser.sourceforge.net>`_ , `sqlite_database_browser_portable <http://portableapps.com/apps/development/sqlite_database_browser_portable>`_
+*  `SQLiteMan <http://www.sqliteman.com>`_ ,  `sqliteman-portable <http://portableapps.com/apps/development/sqliteman-portable>`_
 *  `SQLite Manager <https://addons.mozilla.org/en-US/firefox/addon/5817>`_
 
 سامانه‌های مدیریت پایگاه داده به زبان java

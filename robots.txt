@@ -1,4 +1,2 @@
 Sitemap: http://yoosofan.github.io/sitemapindex.xml
 
-User-Agent: *
-Host: yoosofan.github.io
