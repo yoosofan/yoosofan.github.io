@@ -58,7 +58,7 @@ The most important free and open source (BSD based license) DBMS is
 ----------------------------------
 
 SQLite tools
-^^^^^^^^^^^^^
+
 
 *  `SQLite Database Browser <http://sqlitebrowser.sourceforge.net>`_ , `sqlite_database_browser_portable <http://portableapps.com/apps/development/sqlite_database_browser_portable>`_
 *  `SQLiteMan <http://www.sqliteman.com>`_ ,  `sqliteman-portable <http://portableapps.com/apps/development/sqliteman-portable>`_

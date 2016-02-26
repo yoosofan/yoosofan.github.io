@@ -1,4 +1,4 @@
-.. title: ACM-book
+.. title: کتاب مقدمه‌ای بر مسابقات برنامه‌نویسی
 .. slug: acm-book
 .. date: 2016-02-26 18:46:54 UTC+03:30
 .. tags: 
