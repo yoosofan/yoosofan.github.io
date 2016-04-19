@@ -561,7 +561,7 @@ article.post-micro {
 }
 
 .metadata p:before,
-.postlist .listdate:before {
+.postlist .listdate:after {
     content: " — ";
 }
 
