@@ -15,20 +15,20 @@ Some linux programs
 ==============================
 
 *  unnamed pipes
-   *  `unnamed pipes sample code <files/course/osLab/programs/unnamed_pipe.cpp>`_
+   *  `unnamed pipes sample code </files/course/osLab/programs/unnamed_pipe.cpp>`_
 
 *  named pipes
-   *  `header file for named pipes <files/course/osLab/programs/named_pipe_local.h>`_
-   *  `Client code <files/course/osLab/programs/named_pipe_client.cpp>`_
-   *  `Server code <files/course/osLab/programs/named_pipe_server.cpp>`_    
+   *  `header file for named pipes </files/course/osLab/programs/named_pipe_local.h>`_
+   *  `Client code </files/course/osLab/programs/named_pipe_client.cpp>`_
+   *  `Server code </files/course/osLab/programs/named_pipe_server.cpp>`_    
 
 *  shared memory
-   *  `header file for shared memory <files/course/osLab/programs/Shared_mem.h>`_
-   *  `Sample code for shared memory <files/course/osLab/programs/Shared_mem_sample.cpp>`_  
+   *  `header file for shared memory </files/course/osLab/programs/Shared_mem.h>`_
+   *  `Sample code for shared memory </files/course/osLab/programs/Shared_mem_sample.cpp>`_  
 
 *  Semaphores
-   *  `header file for Semaphores <files/course/osLab/programs/SSemaphore.h>`_
-   *  `Sample code for Semaphores <files/course/osLab/programs/SSemaphore.cpp>`_
+   *  `header file for Semaphores </files/course/osLab/programs/SSemaphore.h>`_
+   *  `Sample code for Semaphores </files/course/osLab/programs/SSemaphore.cpp>`_
 
 ---------------------------------
 

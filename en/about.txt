@@ -8,7 +8,7 @@
 .. type: text
 
 
-My name is Ahmad Yoosofan. Head of Department of Computer Engineering, Faculty of Computer and Electrical Engineering, University of Kashan,  Kashan, I.R.Iran
+My name is Ahmad Yoosofan. Faculty of Computer and Electrical Engineering, University of Kashan,  Kashan, I.R.Iran
 
 -------------------------------------
 

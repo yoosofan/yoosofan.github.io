@@ -16,20 +16,20 @@
 ================================================================================
 
 *  لوله‌های بدون نام برای ارتباط میان فرآیندها
-      *  `برنامه‌ی نمونه برای لوله‌های بدون نام <files/course/osLab/programs/unnamed_pipe.cpp>`_
+      *  `برنامه‌ی نمونه برای لوله‌های بدون نام  </files/course/osLab/programs/unnamed_pipe.cpp>`_
 
 *  لوله‌های با نام برای ارتباط میان فرآیندها
-    *  `پرونده‌ی سرآیند برای لوله با نام <files/course/osLab/programs/named_pipe_local.h>`_
-    *  `برنامه‌ی مشتری <files/course/osLab/programs/named_pipe_client.cpp>`_
-    *  `برنامه‌ی کارگزار <files/course/osLab/programs/named_pipe_server.cpp>`_    
+    *  `پرونده‌ی سرآیند برای لوله با نام  </files/course/osLab/programs/named_pipe_local.h>`_
+    *  `برنامه‌ی مشتری  </files/course/osLab/programs/named_pipe_client.cpp>`_
+    *  `برنامه‌ی کارگزار  </files/course/osLab/programs/named_pipe_server.cpp>`_    
 
 *  حافظه‌ی مشترک
-    *  `پرونده‌ی سرآیند حافظه‌ی مشترک <files/course/osLab/programs/Shared_mem.h>`_
-    *  `برنامه‌ی نمونه‌ برای حافظه‌ی مشترک <files/course/osLab/programs/Shared_mem_sample.cpp>`_  
+    *  `پرونده‌ی سرآیند حافظه‌ی مشترک  </files/course/osLab/programs/Shared_mem.h>`_
+    *  `برنامه‌ی نمونه‌ برای حافظه‌ی مشترک  </files/course/osLab/programs/Shared_mem_sample.cpp>`_  
 
 *  راهنماها (semaphore)
-    *  `پرونده‌ی سرآیند برای راهنما <files/course/osLab/programs/SSemaphore.h>`_
-    *  `برنامه‌ی نمونه برای حافظه‌ی مشترک <files/course/osLab/programs/SSemaphore.cpp>`_
+    *  `پرونده‌ی سرآیند برای راهنما  </files/course/osLab/programs/SSemaphore.h>`_
+    *  `برنامه‌ی نمونه برای حافظه‌ی مشترک  </files/course/osLab/programs/SSemaphore.cpp>`_
 
 ---------------------------------
 
