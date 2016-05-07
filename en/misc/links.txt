@@ -13,8 +13,8 @@
 Website mirrors
 ==========================
 
-*  `<http://yoosofan.kashanu.ac.ir>`_
-*  `<http://yoosofan.github.io>`_
+*  `<http://yoosofan.kashanu.ac.ir/en/>`_
+*  `<http://yoosofan.github.io/en/>`_
 
 
 My old website
