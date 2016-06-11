@@ -1,0 +1,12 @@
+.. title: فهرست درس‌های مهندسی کامپیوتر به همراه شماره‌های آنها
+.. slug: computer_courses
+.. date: 2015-08-27 14:10:17 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+`فهرست درس‌ها و شماٰره
+</files/course/rules/Table_Entries.html>`_
+

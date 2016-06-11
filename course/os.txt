@@ -1,0 +1,46 @@
+.. title: سیستم عامل
+.. slug: os
+.. date: 2015-08-13 09:20:36 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+کتاب
+==========
+
+.. class:: yoosofan-change-ltr
+
+  *  `Operating System Concepts, by Silberschatz, Galvin and Gagne, 9/E(2012) <http://www.os-book.com>`_
+  *  `Operating Systems: Internals and Design, 8/E(2011), by William Stallings <http://williamstallings.com/OperatingSystems/>`_
+  *  `Modern Operating Systems, 4/E(2014), by  Andrew S. Tanenbaum and Herbert Bos <http://www.pearsonhighered.com/educator/product/Modern-Operating-Systems/9780133591620.page>`_
+  *  `Schaum's outline of operating systems(2002), by J Archer Harris <http://www.goodreads.com/book/show/664165.Schaum_s_Outline_of_Operating_Systems>`_
+
+دیگر منابع
+=================
+
+.. class:: yoosofan-change-ltr
+
+  *  `some resources for getting started in operating system development <http://stackoverflow.com/questions/43180/what-are-some-resources-for-getting-started-in-operating-system-development>`_
+  *  `Operating System Design <http://en.wikibooks.org/wiki/Operating_System_Design>`_
+  *  `Operating System Concepts <http://codex.cs.yale.edu/avi/os-book/OS9/index.html>`_
+
+
+`شبیه ساز الگوریتم‌های زمان‌بندی سیستم عامل به کمک 
+javascript
+</webosasim/scheduling.html>`_
+
+`نمونه‌ها و نمودارهایی از درس
+<https://www.dropbox.com/s/sw59vcbs6hi09se/print_for_class.odt?dl=0>`_
+
+`بخش‌هایی از درس
+<https://www.dropbox.com/s/odxe49la4prinf1/os_print.rar?dl=0>`_
+
+`فقط بخش‌های فارسی
+<https://www.dropbox.com/s/o3kz684s3fu291r/os_print_Farsi.rar?dl=0>`_
+
+`فقط بخش‌های انگلیسی
+<https://www.dropbox.com/s/hco5qfpw2ob28t8/os_print_English.rar?dl=0>`_
+

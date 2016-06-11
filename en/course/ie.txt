@@ -1,0 +1,187 @@
+.. title: Internet Engineering (not updated since 2009)
+.. slug: ie
+.. date: 2015-08-14 16:53:48 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+..  raw:: html
+
+  <div>
+  فهرست برخی از مراجع
+  </h4>
+  <table>
+  <tr> <td>
+  منابعی برای پیشگفتار (پیش درآمدها ، بحث‌های کلی اولیه)
+  </td></tr>
+  <tr><td>
+  <a href="http://www.informit.com/store/product.aspx?isbn=0789736268" >How the Internet Works, 8th Edition </a>
+  </td>
+  <td>
+  <a href="http://my.safaribooksonline.com/0789736268" > <img src="http://www.informit.com/ShowCover.aspx?isbn=0789736268&type=f" width="100px" /> </a>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0764574159.html" >The Internet GigaBook For Dummies </a>
+  </td>
+  <td>
+  <a href="http://www.dummies.com/store/product/The-Internet-GigaBook-For-Dummies.productCd-0764574159.html"> <img src="http://media.wiley.com/product_data/coverImage/59/07645741/0764574159.jpg" width="100px" /> </a>
+  </td>
+  </tr>
+  <tr> <td>
+  کتاب به نسب کاملی برای چندین بخش
+  <br />
+  <a href="http://vig.pearsoned.com/store/product/1,1207,store-12521_isbn-0131752421,00.html"> Internet & World Wide Web How to Program </a>
+  </td><td>
+  <a href="http://www.deitel.com/Books/InternetWebScripting/InternetWorldWideWebHowtoProgram4e/tabid/2048/Default.aspx" > <img src="http://www.deitel.com/bookresources/iw3htp4_200h.jpg" width="100px" /> </a>
+
+  </td> </tr>
+  <tr> <td>
+  برای بخش xhtml و css شاید بهترین و خود آموزترین کتاب ،
+  <a href="http://www.cookwood.com/"> این کتاب </a>
+  باشد آدرس آخرین ویرایش آن تا کنون
+  <a href="http://www.cookwood.com/html6ed/" >
+  در این سایت
+  </a>
+  گذاشته شده است.
+  </td>
+  <td><a href="http://www.cookwood.com/html6ed/" >
+  <img src="files/course/ie/img/html6ecover.gif" width="50%" hieght="50%" /> </a>
+  </td>
+  </tr>
+  <tr> <td>
+  کتاب‌های معرفی شده برای php به قرار زیر است.
+  </td></tr><tr > <td>
+  <a href="http://ir.php.net/download-docs.php"> php manual </a>
+  </td><td><a href="http://ir.php.net/images/echm/shot1.png"> <img src="http://ir.php.net/images/echm/shot1.png" width="150px" />
+  </td></tr><tr> <td>
+   <a href="http://www.dummies.com/store/product/PHP-5-For-Dummies.productCd-0764541668.html" > PHP 5 For Dummies </a> <br />
+  </td>
+  <td>  <a href="http://books.google.com/books?id=Q9OP0ClTTvIC&dq=PHP5+For+Dummies&printsec=frontcover&source=bl&ots=1D3zmnOz7O&sig=9WKqQEdc0a109H1YK-vLyn0T0F8&hl=en&ei=-PMUSr2GKIGE_AayqMGEDQ&sa=X&oi=book_result&ct=result&resnum=1#PPP8,M1" >
+  <img src="files/course/ie/img/php5forDummies.jpg" width="90px" hieght="95px" /> </a>
+  </td></tr><tr><td>
+  <a href="http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf"   > PHP5 Power Programming
+  </a> </td><td>
+  <a href="http://www.acrobatplanet.com/ebooks/computer/php5_power_programming.pdf"> <img src="files/course/ie/img/php5_power_programming.jpeg" width="100px" /></a>
+  </td><td>
+  <a href="http://www.mindview.net/Books/" >
+  کتاب‌های دیگری از نویسنده این کتاب
+  </a>
+  </td></tr><tr><td>
+  کتاب‌های معرفی شده برای javascript
+  </td> </tr><tr><td>
+  <a href="http://oreilly.com/catalog/9780596101992/?CMP=AFC-ak_book&ATT=JavaScript%3A+The+Definitive+Guide%2c+Fifth+Edition%2c"> JavaScript The Definitive Guide
+  </a></td><td>
+  <a href="http://examples.oreilly.com/jscript5/js5examples.zip"> <img src="files/course/ie/img/javascript_the_definitive_guide.gif" width="100px" >
+  </a></td></tr><tr> <td>
+  کتاب‌های معرفی شده مهندسی وب
+  </td></tr><tr> <td>
+  <a href="http://www.igi-pub.com/books/details.asp?id=4654"> Web Engineering: Introduction and Perspectives </a>
+  </td><td>
+  <a href="http://books.google.com/books?id=MPQhKGjI6tUC" > <img src="http://www.igi-pub.com/downloads/images/1591404320Suhthumbnail.jpg" /> </a>
+  </td></tr><tr><td>
+  <a href="http://www.rspa.com/about/webe.html"> Web Engineering:
+  A Practitioner's Approach </a>
+  </td><td>
+  <a href="http://www.rspa.com/spi/webe-process.html" > <img src="http://www.rspa.com/about/cover.jpg" width="120px" /> </a>
+  </td></tr><tr><td>
+  کتاب‌های معرفی شده برای وب معنایی
+  <br /> <a href="http://www.w3.org/2001/sw/" >
+  منبع اصلی برای وب معنایی
+  </a>
+  </td></tr><tr><td>
+  <a href="http://www.authorsden.com/visit/viewwork.asp?id=26105"> Thinking on the Web:Berners-Lee, Godel and Turinng </a>
+  </td><td>
+  <a href="http://www.google.com/products/catalog?q=0471768146&cid=13848087420920990839&sa=title#ps-sellers"> <img src="http://www.authorsden.com/WorksCover/26105.jpg" width="120px" /> </a>
+  </td></tr><tr><td>
+  <a href="http://books.google.com/books?id=SThetVflcxwC&dq=Enabling+Semantic+Web+Services+The+Web+Service+Modeling+Ontology&printsec=frontcover&source=bn&hl=en&ei=Kg0VSpuHFYqfsgbE_9W1Cg&sa=X&oi=book_result&ct=result&resnum=4" > Enabling Semantic Web Services The Web Service Modeling Ontology </a>
+  </td> <td>
+  <a href="http://www.wsmo.org/"  > <img src="http://bks8.books.google.com/books?id=SThetVflcxwC&printsec=frontcover&img=1&zoom=1&sig=ACfU3U3N_IxmHJiS-cn1VaeL99sav6PtkQ" width="100px" /> </a>
+  <td></tr><tr><td>
+  <a href="http://www.cs.vu.nl/~pmika/social.html" >Social Networks and the Semantic Web  </a>
+  </td> <td>
+  <a href="http://www.springer.com/computer/database+management+&+information+retrieval/book/978-0-387-71000-6" > <img src="http://bks2.books.google.com/books?id=tcYJ8a32nFUC&printsec=frontcover&img=1&zoom=1&sig=ACfU3U1B0AvV5z3lEYsph9dANM70VNq9HQ" width="100px" /> </a>
+  </td></tr></table><br />
+  <h4>
+  قانون‌هایی که باید رعایت کنید
+  </h4>
+  ۱ـ‌ همه‌ی سایت‌هایی که طراحی می‌کنید  یا نامه‌هایی که برایم می‌فرستید باید به زبان فارسی و کدگذاری آن یونی‌کد باشد
+  <br />
+  ۲ـ همه صفحه‌ها باید برگشت به صفحه پیش از خود را داشته باشند تا بتوان به راحتی به عقب برگشت و همواره پیوندی به صفحه نخست نیز باید در همه صفحه‌ها باشد تا بتوان به صفحه نخست بازگشت.
+  <br />
+  ۳ـ باید نام و مشخصات دیگری از خود شما روی سایت‌هایی که می‌سازید وجود داشته باشد.
+
+  </div>
+  <div id="ie872Tools">
+  <h4>
+  ابزارهایی که در این درس به کار گرفته می‌شود.
+  </h4>
+  <h5>
+  بسته‌های آماده برای کارگزار وب و سامانه‌ی پایگاه داده
+  </h5>
+  <ul>
+  <li> <a href="http://www.apachefriends.org/en/xampp.html"> xampp </a></li>
+  <li> <a href="http://www.wampserver.com/en/"> wamp </a> </li>
+  <li> <a href="http://apache2triad.net/" > apache2triad </a> </li>
+  <li> <a href="http://bitnami.org/article/apache-php-and-postgresql-all-in-one" > wappstack </a></li>
+  <li> <a href="http://www.vmware.com/appliances/directory/637">  DAMP </a> </li>
+  </ul>
+  همچنین می‌توانید بسته‌های درون
+  <a href="http://en.wikipedia.org/wiki/List_of_AMP_Packages">
+  این سایت
+  </a>
+  را ببینید.
+  <br />
+  برای مقایسه‌ی این بسته‌ها
+  <a href="http://en.wikipedia.org/wiki/Comparison_of_WAMPs" >
+  این سایت
+  </a>
+  را ببینید.
+  </div>
+  <div id="ie872exercises" >
+  <h4>
+  تمرین‌های درس مهندسی (مربوط به سال ۱۳۸۷)
+  </h4>
+  برای عنوان صفحه‌ی اصلی نام و نام خانوادگی و شماره دانشجویی خود را به فارسی بگذارید.
+  <br />
+  متن همه‌ی صفحه‌هایی که برای تمرین‌ها و پروژه‌ها به کار می‌برید باید فارسی باشد
+  <br />
+  <p>
+  ۱ـ سایتی با دست کم سه صفحه طراحی شود که باید درون آن تصویر و رنگ پس زمینه و رنگ متن و جدول و امکانات ساده‌ی html را داشته باشد. این نباید از هیچ نرم افزار آماده سازی صفحه‌های وب کمک گرفته شود. سپس یک سایت میزبان رایگان (free host) برگزینید و در آن ثبت نام نمایید و صفحه‌های خود را درون آن بگذارید. سپس آدرس سایت را برایم با نامه بفرستید. آخرین زمان تحویل دوشنبه ۲۸ بهمن ۱۳۸۷
+  </p><p>
+  ۲ـ به کمک
+  <a href="http://www.apachefriends.org/en/xampp.html" > xampp </a>
+  یک کارگزار وب (web server) محلی راه اندازی نمایید و سپس یک سامانه‌ی مدیریت محتوای (cms) متن باز (open source ) برگزینید و آن را روی کارگزار خود نصب کنید و با آن سایت ساده‌ای را بسازید و طرز کار با آن را یاد بگیرید.
+  زمان تحویل شنبه ۳ بهمن ۱۳۸۷ درون مرکز کامپیوتر
+  </p>
+  تعدادی از سامانه‌های مدیریت محتوای متن باز
+  <ul>
+  <li> <a href="http://www.mamboserver.com/" > mambo </a></li>
+  <li> <a href="http://www.joomla.org/" > joomla </a> </li>
+  <li> <a href="http://www.opencms.org/en/" > open cms </a> </li>
+  <li> <a href="http://phpnuke.org/" > php nuke </a> </li>
+  <li> <a href="http://sourceforge.net/projects/xoops/"> xoops </a> </li>
+  <li> <a href="http://drupal.org/"> drupal </a></li>
+  <li> <a href="http://ez.no/" > ez </a> </li>
+  <li> <a href="http://typo3.com/" > typo3 </a> </li>
+  </ul>
+  <br />
+  برای یافتن فهرستی از این سامانه‌ها به
+  <a href="http://www.cmsreview.com/OpenSource/directory.html">
+  این سایت
+  </a>
+   و یا
+  <a href="http://downloadpedia.org/Open_Source_Content_Management_Systems">
+  سایت
+
+  </a>
+  و یا
+  <a href="http://en.wikipedia.org/wiki/List_of_content_management_systems">
+  سایت
+  </a>
+  مراجعه نمایید.
+  </div>
+

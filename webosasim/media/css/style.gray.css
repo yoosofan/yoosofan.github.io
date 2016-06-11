@@ -1,0 +1,96 @@
+body
+{
+	color: #fff;
+	/* IE10 Consumer Preview */ 
+	background-image: -ms-radial-gradient(center, ellipse closest-corner, #1F1F1F 0%, #000000 100%);
+	/* Mozilla Firefox */ 
+	background-image: -moz-radial-gradient(center, ellipse closest-corner, #1F1F1F 0%, #000000 100%);
+	/* Opera */ 
+	background-image: -o-radial-gradient(center, ellipse closest-corner, #1F1F1F 0%, #000000 100%);
+	/* Webkit (Safari/Chrome 10) */ 
+	background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #1F1F1F), color-stop(1, #000000));
+	/* Webkit (Chrome 11+) */ 
+	background-image: -webkit-radial-gradient(center, ellipse closest-corner, #1F1F1F 0%, #000000 100%);
+	/* W3C Markup, IE10 Release Preview */ 
+	background-image: radial-gradient(ellipse closest-corner at center, #1F1F1F 0%, #000000 100%);
+}
+a{color:#C6C6C6;}
+a:hover {color: #00CCFF;}
+.highlight {background-color:#FF9D9D;}
+input:not([type='radio']){
+	background:#545454;
+	color:white;
+}
+select{
+	background:#545454;
+	color:white;
+}
+#mainContent div#about h1 {color: #ffcc00;}
+table.dataTable {color:#C6C6C6;}
+table.dataTable thead th {color:white;}
+table.dataTable a{color:#C6C6C6;}
+table.dataTable tbody tr {background-color: #525252;}
+table.dataTable tbody td {border-bottom: 1px solid black;border-top: 1px solid black;}
+table.dataTable tbody tr:hover{background-color: #000000;}
+.paginate_disabled_previous,.paginate_enabled_previous,.paginate_disabled_next,.paginate_enabled_next {color: #FFFFFF !important;}
+.paginate_disabled_previous,.paginate_disabled_next {color: #666 !important;}
+.paging_full_numbers a.paginate_button,.paging_full_numbers a.paginate_active {color: #333 !important;}
+.paging_full_numbers a.paginate_button {background-color: #ddd;}
+.paging_full_numbers a.paginate_button:hover {background-color: #ccc;}
+.paging_full_numbers a.paginate_active {background-color: #99B3FF;}
+.dataTables_processing {
+	border: 1px solid #ddd;
+	color: #999;
+	background-color: white;
+}
+.toolbar div.control a {color: #15ADFF;}
+.toolbar div.control a:hover {color: #ffcc00;}
+#mainContent div.ganttContainer {color:black;}
+#mainContent div.resultBox {
+	border: 1px solid #edc332;
+	background-color: #fff5d4;
+	color:black;
+}
+#mainContent div.ganttContainer div.gantt {
+    color:black;
+    background:white;
+}
+.fn-gantt .leftPanel .id, .fn-gantt .leftPanel .name {
+	background-color: #f6f6f6;
+	border-bottom: 1px solid #DDD;
+}
+.fn-gantt .spacer {
+	border-bottom: 1px solid #DDD;
+	background-color: #f6f6f6;
+}
+.fn-gantt .day {
+	border-left: 1px solid #DDD;
+	border-bottom: 1px solid #DDD;
+}
+.fn-gantt-hint {
+	border: 1px solid #edc332;
+	background-color: #fff5d4;
+	color:black;
+}
+.fn-gantt .bar {background-color: #89c5f8;}
+.fn-gantt .ganttRed {background-color: #8F0000;}
+.fn-gantt .ganttGreen {background-color: #b3cf6f;}
+.fn-gantt .ganttOrange {background-color: #ff7e24;}
+.fn-gantt .bottom {background-color: #f6f6f6;}
+.fn-gantt .navigate .page-number span {color: #666666;}
+.panel {
+	background: #000000;
+	border:1px solid #111111;
+}
+.panel p {color: #cccccc;}
+a.trigger {
+	color:#fff;
+	background:#333333 url(../images/plus.png) 85% 55% no-repeat;
+	border:1px solid #444444;
+}
+a.trigger:hover{
+	color:#fff;
+	background:#222222 url(../images/plus.png) 85% 55% no-repeat;
+	border:1px solid #444444;
+}
+a.active.trigger {background:#222222 url(../images/minus.png) 85% 55% no-repeat;}

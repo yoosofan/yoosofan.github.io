@@ -1,0 +1,55 @@
+.. title: CSharp
+.. slug: csharp
+.. date: 2015-08-12 21:49:01 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+Books
+=====
+
+*  `C# 4.0: The Complete Reference/Herbert Schildt/McGraw-Hill Osborne Media; 1 edition (April 27, 2010) <http://www.herbschildt.com>`_
+*  Essential C# 4.0 / Mark Michaelis. /  2010 Pearson Education
+*  Beginning Visual C# 2010 /Karli Watson , Christian Nagel , Jacob Hammer Pedersen , Jon Reid , Morgan Skinner / Wiley Publishing, Inc.
+*  C# 4.0 in a Nutshell, Fourth Edition / Joseph Albahari and Ben Albahari / O’Reilly
+*  Visual C# 2010 Recipes: A Problem-Solution Approach / Allen Jones and Adam Freeman / Apress
+*  Accelerated C# 2010 / Trey Nash / Apress
+*  CLR via C#  Third Edition/ Jeffrey Richter / Microsoft Press
+*  ECMA-335 4th Edition  June 2006 Common Language Infrastructure (CLI) Partitions I to VI / 
+  
+----------------
+
+C# in linux
+===========
+
+First, Download and install `mono <http://mono-project.com/>`_ . This is an open source and free implementation
+of .Net for several platforms.
+
+برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است. 
+
+.. code-block:: sh
+
+  $ gmcs  test.cs
+  mono  test.exe
+
+
+برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شماره‌ی خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.
+
+.. code-block:: sh
+
+  gmcs -debug  test.cs
+  mono  --debug test.exe
+
+`sample codes </files/course/csharp/my_mono_csharp_samples.zip>`_
+
+`monodevelp <http://monodevelop.com>`_
+محیط یکپارچه‌ی اجرا برای کامپایل و اجرای این زبان فراهم می‌کند. 
+
+Educational site
+================
+
+*  `<http://www.csharp-station.com/Tutorial.aspx>`_
+

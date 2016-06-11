@@ -1,0 +1,74 @@
+.. title: links
+.. slug: links
+.. date: 2015-08-25 22:13:47 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+..  contents:: Table of Contents
+
+
+Website mirrors
+==========================
+
+*  `<http://yoosofan.kashanu.ac.ir/en/>`_
+*  `<http://yoosofan.github.io/en/>`_
+
+
+My old website
+========================
+
+*  `<http://yoosofan.kashanu.ac.ir/files/old.website/>`_
+
+
+Persian(Farsi) in computer
+==============================
+
+Not long time ago, using Persian in computer was a problem. Even reading or writing Persian was problematic. Some companies developed some useful software to deal with this problem. Today, most linux distrubutions support Persian very well. 
+
+Persian(Jalali) Calendar
+----------------------------------------
+
+*  `Open source javascript based <https://github.com/farhadi/JalaliJSCalendar>`_
+*  `Taghvim <http://www.taghvim.org>`_
+*  `Calendar with official government holidays <http://www.time.ir>`_
+
+
+Writing Persian
+--------------------------------
+
+*  `Web based using Javascript <http://pooyak.com/p/persianjavascript/>`_
+*  `virtualkeyboard(for several different languages) <http://debugger.ru/demo/projects/virtualkeyboard/>`_ ,  `English website <http://debugger.ru/en/projects/virtualkeyboard>`_
+*  `Web based using Javascript and PHP <http://behdad.org/editor/>`_
+*  `FarsiDo java based <http://www.hoomanb.com/Farsido/english.htm>`_
+*  `Unipad: windows application <http://www.unipad.org/main/>`_
+*  `Simredo (Java based) <http://www012.upp.so-net.ne.jp/klivo/simredo/simeng.htm>`_
+*  `<http://vkboard.com/virtual-farsi-keyboard/>`_
+*  `<http://www.omniglot.com/writing/persian.htm>`_
+
+Other Persian related websites
+-----------------------------------------------
+
+*  `<http://persian.nmelrc.org/>`_
+
+----------------------------------------
+
+Educational websites
+===========================
+
+*  `Maktabkhooneh <http://maktabkhooneh.org>`_
+*  `coursera <https://www.coursera.org>`_
+*  `edx <https://www.edx.org>`_
+*  `<http://www.darsa.ir>`_
+*  `<https://cgscholar.com>`_
+*  `<http://www.onlinecourses.com/>`_
+*  `<https://www.coursehero.com/>`_
+*  `<http://online.stanford.edu/>`_
+*  `<https://novoed.com/>`_
+*  `<http://videolectures.net>`_
+*  `<http://ocw.mit.edu/index.htm>`_
+*  `<http://video.mit.edu/channel/opencourseware/>`_
+
+

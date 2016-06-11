@@ -1,0 +1,493 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!--
+     webrel - Version 1.0
+    This file is part of webrel.
+
+    Copyright (C) 2010, Ahmad Yoosofan.  
+    Thanks to 
+  		Sara Izadi (former co-developer)
+
+    This software is distributed
+    under the terms of the GNU General Public License.
+
+    webrel is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    webrel is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with webrel.  If not, see <http://www.gnu.org/licenses/>.
+
+-->
+<head>
+<title>DataBase_Relation Algebra, Ahmad yoosofan</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+<script language="javascript">
+//_______________________Add_jsFiles_________________________________
+</script>
+<script language="javascript" src="src/initi.js"></script>
+<script language="javascript" src="src/token.js"></script>
+<script language="javascript" src="src/lexic.js"></script>
+<script language="javascript" src="src/relation.js"></script>
+<script language="javascript" src="src/syntax.js"></script>
+<script language="javascript" src="src/type.js"></script>
+<script language="javascript" src="src/value_table.js"></script>
+<script language="javascript" src="src/stack.js"></script>
+<script language="javascript" src="src/table.js"></script>
+<script language="javascript" src="src/coloredtable.js"></script>
+<script language="javascript" src="src/shift_reduce.js"></script>
+<script language="javascript" src="DB/bookDB.js"></script>
+<script language="javascript" src="DB/med.js"></script>
+<script language="javascript" src="DB/spno.js"></script>
+<script language="javascript">
+//___________________________________________________________________
+</script>
+
+
+<script language="javascript">
+//_______________________Data_Declaration____________________________
+   var action_table_data=new Array(70);
+   for(var i=0;i<70;i++)
+      action_table_data[i]=new Array(308);
+   var goto_table_schema=new Array(82);
+   var action_table_schema=new Array(90);
+   var goto_table_data=new Array(90);
+   for(var i=0;i<90;i++)
+      goto_table_data[i]=new Array(310);
+   var flag=1;
+   var text="";
+   var text1="";
+   var text2="";
+   MainTable=new value_table(30);
+   var mtp=0;
+   var sd_flag=false;
+   var debug_flag=false;
+   var debug_str="";
+//_______________________Lexic_Data___________________________________
+   t=new Token(100);
+   var str=""
+   var first=0
+   var last=0
+   var type="s"
+   var counter=0
+   var lex_err_flag=0
+//_______________________Syntax_Data__________________________________
+   stack=new Stack(70);
+   var sp=0;
+   var tp=0;
+   var syn_err_flag=0;
+   var not=false;
+   //________________________________
+   var temp,target_name,output_value,simple_exp_index,attrib_name,value,scalar,type,index,index1,index2,opr,a_type;
+   var output,relation,relation1,relation2;
+   var attrib_array,output_array,r_array;
+   var attrib_array2d,output_array2d,attrib_array2;
+   var t_value;
+   var eap=0;
+   var tep=0;
+   var tcp=0;
+   var cap=0;
+   var save_mtp=0;
+   var flag_error=false;
+   var extend_error=false;
+   var where_error=false;
+   var r_index=0;
+   var att_name=true;
+   var tup_exp=true;
+   var tup_att=true;
+   var ext_co=true;
+   var ren_co=true;
+   var sum_ad=true;
+    //________________________________
+   var extend_array=new Array(20);
+   for(var d=0;d<20;d++)
+      extend_array[d]=new Token(3);
+   var temp_extend=new Array(20);
+   for(var c=0;c<20;c++)
+      temp_extend[c]=new Token(3);
+
+   var condition_array=new Array(30);
+   for(var d=0;d<30;d++)
+      condition_array[d]=new Token(3);
+   var temp_condition=new Array(30);
+   for(var c=0;c<30;c++)
+      temp_condition[c]=new Token(3);
+   //________________________________
+   var book_col=5;
+   var book_row=6;
+   var members_col=3;
+   var members_row=3;
+   var borrow_row=2;
+   var borrow_col=2;
+   var s_col=4;
+   var s_row=5;
+   var p_col=5;
+   var p_row=6;
+   var j_row=7;
+   var j_col=3;
+   var sp_col=3;
+   var sp_row=12;
+   var spj_row=24;
+   var spj_col=4;
+   var i=0;
+   dend=new Relation(5,1);
+   dor=new Relation(6,1);
+   med=new Relation(12,2);
+
+   var dend_array=new Array(6);
+   for(var da=0;da<6;da++)
+      dend_array[da]=new Array();
+   var dor_array=new Array(10);
+   for(var da=0;da<10;da++)
+      dor_array[da]=new Array();
+   var med_array=new Array(13);
+   for(var da=0;da<13;da++)
+      med_array[da]=new Array();
+   var book=new Array(book_row);
+   for(i=0;i<=book_row;i++)
+      book[i]=new Array();
+   var members=new Array(members_row);
+   for(i=0;i<=members_row;i++)
+      members[i]=new Array();
+   var borrow=new Array(borrow_row);
+   for(i=0;i<=borrow_row;i++)
+      borrow[i]=new Array();
+
+   var j_array=new Array(10);
+   for(var da=0;da<10;da++)
+      j_array[da]=new Array();
+   var p_array=new Array(13);
+   for(var da=0;da<13;da++)
+      p_array[da]=new Array();
+   var s_array=new Array(s_row);
+   for(i=0;i<=s_row;i++)
+      s_array[i]=new Array();
+   var sp_array=new Array(sp_row);
+   for(i=0;i<=sp_row;i++)
+      sp_array[i]=new Array();
+   var spj_array=new Array(spj_row);
+   for(i=0;i<=spj_row;i++)
+      spj_array[i]=new Array();
+
+   spno_make();
+   MainTable.setname(mtp,"s");
+   MainTable.setrelation(mtp,s_relation);
+   mtp++;
+   MainTable.setname(mtp,"p");
+   MainTable.setrelation(mtp,p_relation);
+   mtp++;
+   MainTable.setname(mtp,"j");
+   MainTable.setrelation(mtp,j_relation);
+   mtp++;
+   MainTable.setname(mtp,"sp");
+   MainTable.setrelation(mtp,sp_relation);
+   mtp++;
+   MainTable.setname(mtp,"spj");
+   MainTable.setrelation(mtp,spj_relation);
+   mtp++;
+   var s_mtp=mtp;
+   var m_mtp=mtp;
+//____________________________________________________________________
+function reset_code()
+{
+   document.frmmain.code.value="Please enter your code here!";
+}
+//_____________________________________________
+function init_load()
+{
+   first=0
+   last=0
+   type="s"
+   counter=0
+   var eap=0;
+   var tep=0;
+   var tcp=0;
+   var cap=0;
+
+   sp=0;
+   stack.pushs("number",0,"null");
+   tp=0;
+   flag_error=false;
+}
+//______________________________________________
+function main_init()
+{
+   lex_err_flag=0;
+   syn_err_flag=0;
+   //ifrmtable.document.value="";
+   var output;
+}
+//______________________________________________
+function execute()
+{
+   var theDiv = document.getElementById("answer_d");
+   theDiv.innerHTML = "";
+   main_init();
+   var i=0;
+   var s_i=0;
+   var main_str="";
+   var end_str="$";
+   debug_str="";
+   main_str=main_str.concat(document.frmmain.code.value)
+   while(true)
+   {
+      if(window.document.frmmain.checkbox.checked==true)
+         debug_flag=true;
+      else
+         debug_flag=false;
+      init_load()
+      str=""
+      var temp=""
+      if(i>=main_str.length)
+         break;
+      while(main_str.charAt(i)!=';'&&i<main_str.length)
+      {
+            temp=temp.concat(main_str.charAt(i));
+            i++;
+      }
+      temp=temp.concat(main_str.charAt(i))
+      i++
+      str=temp
+      str=str.concat(end_str);
+      lexic()
+      if(lex_err_flag==0)
+         syntax()
+      if((syn_err_flag==1)||(lex_err_flag==1))
+         break;
+   }
+      if(lex_err_flag==1)
+      alert("lexical error!")
+   else if(syn_err_flag==1)
+      alert("syntax error!")
+   if(debug_flag)
+   {
+      var theDiv = document.getElementById("answer_d");
+      theDiv.innerHTML = debug_str;
+   }
+}
+//************************
+function loading()
+{
+   mtp=0;
+   if(document.frmmain.DBSelect.options[document.frmmain.DBSelect.options.selectedIndex].value==1)
+   {
+      spno_make();
+      MainTable.setname(mtp,"s");
+      MainTable.setrelation(mtp,s_relation);
+      mtp++;
+      MainTable.setname(mtp,"p");
+      MainTable.setrelation(mtp,p_relation);
+      mtp++;
+      MainTable.setname(mtp,"j");
+      MainTable.setrelation(mtp,j_relation);
+      mtp++;
+      MainTable.setname(mtp,"sp");
+      MainTable.setrelation(mtp,sp_relation);
+      mtp++;
+      MainTable.setname(mtp,"spj");
+      MainTable.setrelation(mtp,spj_relation);
+      mtp++;
+   }
+   else if(document.frmmain.DBSelect.options[document.frmmain.DBSelect.options.selectedIndex].value==2)
+   {
+      make_relation();
+      MainTable.setname(mtp,"book");
+      MainTable.setrelation(mtp,book_relation);
+      mtp++;
+      MainTable.setname(mtp,"members");
+      MainTable.setrelation(mtp,members_relation);
+      mtp++;
+      MainTable.setname(mtp,"borrow");
+      MainTable.setrelation(mtp,borrow_relation);
+      mtp++;
+   }
+   else if(document.frmmain.DBSelect.options[document.frmmain.DBSelect.options.selectedIndex].value==3)
+   {
+      med_make();
+      MainTable.setname(mtp,"med");
+      MainTable.setrelation(mtp,med);
+      mtp++;
+      MainTable.setname(mtp,"dor");
+      MainTable.setrelation(mtp,dor);
+      mtp++;
+      MainTable.setname(mtp,"dend");
+      MainTable.setrelation(mtp,dend);
+      mtp++;
+   }
+   s_mtp=mtp;
+   m_mtp=mtp;
+}
+//*************************
+function showing()
+{
+   sd_flag=true;
+   s_mtp=m_mtp;
+   if(mtp>m_mtp)
+      show_table_drop(MainTable.getrelation(s_mtp),MainTable.getrelation(s_mtp).getrow()+1,MainTable.getrelation(s_mtp).getcolumn());
+   else
+      alert("There is no new table!...");
+}
+//*************************
+function droping()
+{
+   if(sd_flag)
+   {
+      if(s_mtp<mtp-1)
+      {
+         MainTable.setname(s_mtp,MainTable.getname(mtp-1));
+         MainTable.setrelation(s_mtp,MainTable.getrelation(mtp-1));
+         mtp--;
+         s_mtp--;
+         next();
+      }
+      else
+      {
+         mtp--;
+         alert("There is no more table!...");
+         var theDiv = document.getElementById("drop_d");
+         theDiv.innerHTML = "";
+      }
+   }
+}
+//*************************
+function next()
+{
+   if(sd_flag)
+   {
+      if(s_mtp<mtp-1)
+      {
+         s_mtp++;
+         show_table_drop(MainTable.getrelation(s_mtp),MainTable.getrelation(s_mtp).getrow()+1,MainTable.getrelation(s_mtp).getcolumn());
+      }
+      else
+         alert("There is no more table!...")
+   }
+}
+//*************************
+function previouse()
+{
+   if(sd_flag)
+   {
+      if(s_mtp>m_mtp)
+      {
+         s_mtp--;
+         show_table_drop(MainTable.getrelation(s_mtp),MainTable.getrelation(s_mtp).getrow()+1,MainTable.getrelation(s_mtp).getcolumn());
+      }
+      else
+         alert("There is no more table!...")
+   }
+}
+//*************************
+function cancel()
+{
+   if(sd_flag)
+   {
+      s_mtp=m_mtp;
+      var theDiv = document.getElementById("drop_d");
+      theDiv.innerHTML = "Select Show & drop!";
+      sd_flag=false;
+   }
+}
+//*************************
+
+</script>
+
+</head>
+
+<body>
+<form action="" method="post" enctype="multipart/form-data" name="frmmain">
+  <table width="100%" border="0">
+<!--    <tr>
+      <td colspan="4"><table width="100%" border="1" bordercolor="666666">
+        <tr>
+          <td align="center"><img src="img/logo1.jpg" width="331" height="116"></td>
+          </tr>
+      </table></td>
+    </tr>
+-->
+    <tr>
+      <td height="59" colspan="4"><table width="95%"  border="0">
+        <tr>
+          <!-- <td width="10%"><span class="style2">Data base: </span></td> -->
+          <td width="15%">Data base:</td>
+          <td width="25%"><select name="DBSelect" size="1" id="DBSelect" style="width: 100%">
+            <option value="1">Suppliers_parts_projects</option>
+            <option value="2">Library</option>
+            <option value="3">Divide_example</option>
+          </select></td>
+          <td width="10%"><input name="Loadbtn" type="button" id="Loadbtn2" value="Load" style="width: 100% " onClick="loading()"></td>
+          <!-- <td width="5%">&nbsp;</td>  -->
+          <td width="30%">
+			  <table>
+				  <tr>  <td width="40%">Ahmad Yoosofan, احمد یوسفان</td>      </tr>
+				  <tr>  <td width="40%">Sara Izadi, سارا ایزدی</td>      </tr>
+			  </table>
+			  
+		 </td>
+          <td  width="10%"><a href="help/help.html" target="_blank" > راهنمایی </a></td>
+        </tr>
+         
+      </table>
+        <label></label>           </td>
+    </tr>
+    <tr>
+      <td colspan="4"><textarea name="code" cols="255" rows="2" id="textarea" style="width: 80%;">Please enter your code here!</textarea></td>
+    </tr>
+    <tr>
+      <td width="50%"><input type="checkbox" name="checkbox" value="checkbox">
+        Debug</td>
+      <td width="7%"><input name="showbtn" type="button" id="showbtn" value="Show & Drop" style="width: 100% " onClick="showing()"></td>
+      <td width="7%"><input name="resetbtn" type="button" id="resetbtn" value="Reset" style="width: 80% " onClick="reset_code()"></td>
+      <td width="7%"><input name="runbtn" type="button" id="runbtn" style="width:80%" value="Run" width="20%" onclick="execute()"></td>
+    </tr>
+    <tr>
+      <td colspan="4"><img src="img/result.gif" width="100%" height="100%" style="width:100% "></td>
+    </tr>
+    <tr>
+      <td colspan="4"><table width="100%"  border="1">
+        <tr>
+          <td><div id="answer_d"></div>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4"><img src="img/show_drop.gif" width="100%" height="100%"></td>
+    </tr>
+    <tr>
+      <td colspan="4"><table width="100%"  border="1">
+        <tr>
+          <td><div id="drop_d">Select Show & Drop! </div>
+            <p>&nbsp;</p>
+         </td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td colspan="4"><table width="100%"  border="0">
+        <tr>
+            <td width="109">&nbsp;</td>
+         <td width="7%"><input name="dropbtn" type="button" id="dropbtn" value="Drop" style="width: 100% " onClick="droping()"></td>
+         <td width="7%"><input name="prebtn" type="button" id="prebtn" value="Previouse" style="width: 100% " onClick="previouse()"></td>
+         <td width="7%"><input name="nextbtn" type="button" id="nextbtn" value="Next" style="width: 100% " onClick="next()"></td>
+            <td width="7%"><input name="cancelbtn" type="button" id="cancelbtn" style="width:100%" value="Cancel" width="20" onclick="cancel()"></td>
+        </tr>
+      </table></td>
+    </tr>
+  </table>
+</form>
+<script language="javascript">
+init_tables();
+</script>
+</body>
+</html>
