@@ -75,8 +75,14 @@
                 
             </li>
 </ul>
-<!-- DuckDuckGo custom search --><form method="get" id="search" action="//duckduckgo.com/" class="navbar-form pull-left">
-<input type="hidden" name="sites" value="http://yoosofan.github.io/"><input type="hidden" name="k8" value="#444444"><input type="hidden" name="k9" value="#D51920"><input type="hidden" name="kt" value="h"><input type="text" name="q" maxlength="255" placeholder="Search…" class="span2" style="margin-top: 4px;"><input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+<!-- Google custom search --><form method="get" action="http://www.google.com/search" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Search">
+</div>
+<button type="submit" class="btn btn-primary">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<input type="hidden" name="sitesearch" value="http://yoosofan.github.io/">
 </form>
 <!-- End of custom search -->
 
@@ -206,28 +212,28 @@
 <li><a class="reference external" href="../../files/course/fp/Add2matrixInFile_use_functions.zip">راه حل دیگری برای جمع دو ماتریس ذخیره شده در یک پرونده‌ی متنی با کمک گرفتن از تعدادی از تابع‌های زبان c</a></li>
 </ul>
 <div class="yoosofan-change-ltr"><table class="codetable"><tr>
-<td class="linenos"><div class="linenodiv"><pre><a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-1"> 1</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-2"> 2</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-3"> 3</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-4"> 4</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-5"> 5</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-6"> 6</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-7"> 7</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-8"> 8</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-9"> 9</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-10">10</a>
-<a href="fp.html#rest_code_e72899e90a174c2ab32112f7334570fb-11">11</a></pre></div></td>
-<td class="code"><pre class="code c"><a name="rest_code_e72899e90a174c2ab32112f7334570fb-1"></a><span class="cp">#include</span><span class="cpf">&lt;stdio.h&gt;</span><span class="cp"></span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-2"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-3"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-4"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-5"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-6"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-7"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-8"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-9"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-10"></a>  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<a name="rest_code_e72899e90a174c2ab32112f7334570fb-11"></a><span class="p">}</span>
+<td class="linenos"><div class="linenodiv"><pre><a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-1"> 1</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-2"> 2</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-3"> 3</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-4"> 4</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-5"> 5</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-6"> 6</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-7"> 7</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-8"> 8</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-9"> 9</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-10">10</a>
+<a href="fp.html#rest_code_9fbbed06feb348439efb16c6ec66b543-11">11</a></pre></div></td>
+<td class="code"><pre class="code c"><a name="rest_code_9fbbed06feb348439efb16c6ec66b543-1"></a><span class="cp">#include</span><span class="cpf">&lt;stdio.h&gt;</span><span class="cp"></span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-2"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-3"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-4"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-5"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-6"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-7"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-8"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-9"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-10"></a>  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<a name="rest_code_9fbbed06feb348439efb16c6ec66b543-11"></a><span class="p">}</span>
 </pre></td>
 </tr></table></div>
 </div>
