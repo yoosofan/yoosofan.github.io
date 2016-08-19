@@ -44,7 +44,7 @@
 یا در وب‌گاه
 `yahoo <https://calendar.yahoo.com/yoosofan@ymail.com/be6f79b49821070df5e9bea359ed3188?od=131>`_
 یا 
-`ics  <https://calendar.yahoo.com/yoosofan@ymail.com/c4a110ace0d020e426cea69a2a873a19/ycal.ics?id=131>`_
+`ics(yahoo)  <https://calendar.yahoo.com/yoosofan@ymail.com/c4a110ace0d020e426cea69a2a873a19/ycal.ics?id=131>`_
 
 برنامه درسی و توضیح‌های نیمسال یکم ۱۳۹۴ در
 `این صفحه
