@@ -105,6 +105,9 @@ C and C++ compiler to javascript
 Links
 ==============================================================================
 
+*  `<http://en.cppreference.com/w/c>`_
+*  `<http://www.tutorialspoint.com/cprogramming/>`_
+*  `<http://www.tutorialspoint.com/learn_c_by_examples/>`_
 *  `<http://www.cquestions.com/>`_
 *  `<http://www.programiz.com/c-programming>`_
 *  `<http://www.csitschools.com/c-programming-language/>`_

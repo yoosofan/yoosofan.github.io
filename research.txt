@@ -1,17 +1,17 @@
 .. title: پژوهش
 .. slug: research
 .. date: 2015-08-12 15:03:46 UTC+04:30
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 .. keywords: research, پژوهش, computer, کامپیوتر, رایانه
 
 برخی از ابزارهای تولید شده
 ======================================================================
 
-*  `WebRel </webrel/index.htm>`_ 
+*  `WebRel </webrel/index.htm>`_
 
    *  `<http://sourceforge.net/projects/webrel/>`_
 
@@ -22,159 +22,190 @@
 ..  raw:: html
 
   <!-- <li> <form method="post" action="php/ris.php" > <span dir="ltr"> <input type="radio" name="group1" value="ecity_880304.bib"> BibTeX<br /> <input type="radio" name="group1" value="ecity_880304.ris" checked> RIS<br> <input type ="submit" value ="Export" / > </span> </form> </div> -->
+
   <div><ol><li>
-  Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015.
-  <br /> <a href="http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640" rel="nofollow" title="Paper Page" ><span class="yoosofan_research_actionbutton">Paper Page</span></a>
+  رواخواه، ایمان؛ یوسفان، احمد. «حذف نوفه تصاویر آسمانی برای تشخیص بهتر شب اول ماه». اولین همایش ملی کامپیوتر، فناوری اطلاعات و ارتباطات اسلامی ایران. تهران: مهر ۱۳۹۴
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13940708.Image_Processing.denoising.IC10104100395_3_150926221144.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  </span></li><li>
+  یوسفان، احمد. «بررسی برخی از نشانه‌های تمرکز گرايی در فناوری اطلاعات ايران». اولین همایش ملی کامپیوتر، فناوری اطلاعات و ارتباطات اسلامی ایران. تهران: مهر ۱۳۹۴.
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13940708.Centralisation.r_369_150925153640.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  </span>
   </li><li>
-  حاجی رضایی،علی؛ یوسفان، احمد. «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایه‌ی تصاویر پانوراما». چهارمین همایش موزه‌ی علوم و فناوری. موزه علوم و فناوری ایران: آبان ۱۳۹۳.
+  Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015.
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/journal/139406.DataMining_pharmacy_IIM_7_5_2015091614303950.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640" rel="nofollow" title="Paper Page" ><span class="yoosofan_research_actionbutton">Paper Page</span></a>
+  </span>
+  </li><li>
+  حاجی رضایی،علی؛ یوسفان، احمد. «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایه‌ی تصاویر پانوراما». چهارمین همایش موزه‌ی علوم و فناوری. موزه علوم و فناوری ایران، تهران:  آبان ۱۳۹۳.
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13930827.Virtual_tour.museums.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  </span>
   </li><li>
   منعمی بیدگلی،عطیه؛ یوسفان، احمد؛ خدمتی، ابوالفضل؛ «داده کاوی بر روی پایگاه داده‌ی آموزش دانشگاه کاشان به کمک روش GRI و تحلیل نتیجه‌ها». هفتمین کنفرانس داده کاوی ایران. دانشگاه تهران: ۹۲/۰۹/۱۹ تا ۹۲/۰۹/۲۰.
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13920919.Datamining.Educational_date.Iran_datamining_conference.final DM-paper.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li><li>
   یوسفان، احمد؛ قوانلو قاجار، فاطمه؛ حمیدی، سمیه؛ آیت، سیما؛ «شناسایی قانون‌های وابستگی میان داروها در نسخه‌های یک داروخانه به کمک روش Apriori». پنجمین کنفرانس ملی مهندسی برق و کامپیوتر. دانشگاه آزاد گناباد: ۹۲/۰۵/۲۹ تا ۹۲/۰۵/۳۱.
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13920529.Datamining.Pharmacy.Gonabad_337.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li>
-
   <li>
   یوسفان, احمد, الهام یوسفیان. "خوشه‌بندي استان‌هاي ايران بر پاية معيارهاي شکاف ديجيتال به کمک روش K-MEANS." مجله محاسبات نرم ۱ (۱۳۹۱): ۳۲–۴۵.
-  <br /><span> <a href="/files/yoosofan_bibliography/journal/kashanu_softcomputing/clustering_1391.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/journal/139104.Centralisation.scj.1_1_p32.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/journal/kashanu_softcomputing/clustering_1391.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/journal/kashanu_softcomputing/clustering_1391.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a>
   <a href="http://scj.kashanu.ac.ir/browse.php?a_id=21&slc_lang=en&sid=1&ftxt=1" rel="nofollow" title="Paper link" ><span class="yoosofan_research_actionbutton">Paper link</span></a>
-
-   
-
   </span></li>
-
   <li>
   یوسفان، احمد؛ طباطبایی، صدیقه؛ «پیاده سازی یک غلط یاب املایی فارسی تحت وب». نخستین کنفرانس بین المللی پردازش خط و زبان فارسی. دانشگاه سمنان: ۹۱/۶/۱۵ تا ۹۱/۶/۱۶.
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1391/ICPLP2012_spell_checker.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13910615.Persian_processing.ICPLP2012_60.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1391/ICPLP2012_spell_checker.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1391/ICPLP2012_spell_checker.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
-
   </li>
-
   <li>
   میرزایی، فائزه؛ بیگلری، محسن؛ یوسفان، احمد؛ بیات، عماد؛ «طراحی و پیاده سازی یک سامانه ترجمه فارسی به انگلیسی». نخستین کنفرانس بین المللی پردازش خط و زبان فارسی. دانشگاه سمنان: ۹۱/۶/۱۵ تا ۹۱/۶/۱۶.
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1391/ICPLP2012_translator.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13910615.Persian_processing.ICPLP2012_12.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1391/ICPLP2012_translator.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1391/ICPLP2012_translator.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
-
   </li>
-
   <li><span dir="ltr">
-  Yoosofan, Ahmad; Moghadasian, Masoud; Babaee, Reza; "Comparison results of selecting different field combinations in IDS based on decision tree algorithm". IKT2012. دانشگاه صنعتی بابل : ۱۳۹۱/۳/۲ تا ۱۳۹۱/۳/۴	
-
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1391/IKT2012.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
-  <a href="/files/yoosofan_bibliography/conference/1391/IKT2012.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
-
-  </span></li>
-
+  Yoosofan, Ahmad; Moghadasian, Masoud; Babaee, Reza; "Comparison results of selecting different field combinations in IDS based on decision tree algorithm". IKT2012. دانشگاه صنعتی بابل : ۱۳۹۱/۳/۲ تا ۱۳۹۱/۳/۴
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13910302.Intrustionh_detection.IKT2012.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1391/IKT2012.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1391/IKT2012.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a>
+  </span>
+  </span>
+  </li>
   <li><span dir="ltr">
   Yoosofan, Ahmad; Namazi-Fard, Mostafa; "Automatic Graph Construction of Periodic Open Tubulene((5,6,7)3) and computation of its Wiener, PI, and Szeged indices". IJMC (Iranian Journal of Mathematical Chemistry). Vol 3, No 1. February 2012.
-
-  <br /><span> <a href="/files/yoosofan_bibliography/journal/ijmc/ijmc2012.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/journal/139011.Nano_Graph.ijmc.3_1_Yoosofan_81_94.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/journal/ijmc/ijmc2012.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/journal/ijmc/ijmc2012.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a>
   <a href="http://ijmc.kashanu.ac.ir/article_5221_853.html" rel="nofollow" title="Paper link" ><span class="yoosofan_research_actionbutton">Paper link</span></a>
-
-   </span>
-
-  </span></li>
-
+  </span>
+  </span>
+  </li>
   <li>
   یوسفان، احمد. «بررسی توجیه های تمرکزگرایی در فناوری اطلاعات ایران». اولین کنفرانس ملی محاسبات نرم و فناوری اطلاعات. دانشگاه آزاد ماهشهر: ۱۳۸۹/۱۲/۱۲.
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1389/ncscit2011.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
-  <a href="/files/yoosofan_bibliography/conference/1389/ncscit2011.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
-
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13891212.Centralisation.Mahshahr_NCSCIT_378.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1389/ncscit2011.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1389/ncscit2011.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a>
+  </span>
   </li>
-
   <li>
   یوسفان، احمد؛ ایزدی، سارا. «ساخت مفسر زبان و محیط یکپارچه توسعه برای زبان جبر رابطه ای نمادگذاری کتاب C.J.Date  به زبان javascript». اولین همایش منطقه ای پژوهش در مهندسی برق. دانشگاه آزاد نجف آباد: ۱۳۸۹/۰۹/۳۰
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1389/rcre.iaun.ac.ir_1389.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
-  <a href="/files/yoosofan_bibliography/conference/1389/rcre.iaun.ac.ir_1389.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
-
-
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13890930.Relational_Algebra_interpreter.NajafAbad.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1389/rcre.iaun.ac.ir_1389.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1389/rcre.iaun.ac.ir_1389.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a>
+  </span>
   </li>
-
   <li>
   یوسفان, احمد. “بررسي تعدادي از عامل‌هاي تشديد کننده تمرکز گرايي در فناوري اطلاعات.”  اولین همایش متخصصین برق و کامپیوتر. دانشگاه شهرکرد ، ایران: مهر ۱۳۸۹.
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1389/iaeee_chb1389.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13890707.Centralisation.ShahreKord.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1389/iaeee_chb1389.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1389/iaeee_chb1389.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li>
-
-  <li><span  dir="ltr">
+  <li>
+  <span  dir="ltr">
   Yoosofan, Ahmad, and Ali Rahimi, ‘An Implementation of an Interactive Virtual Classroom Based on Flash Media Server’, in Proceedings of INTED2010 Conference. presented at the INTED2010 (International Technology, Education and Development Conference), Valencia , Spain, 2010.
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1389/inted2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
-  <a href="/files/yoosofan_bibliography/conference/1389/inted2010.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
-
-  </span></li>
-
+  <br />
+  <span>
+  <a href="/files/yoosofan_bibliography/conference/13881217.Virtual_Classroom.spain.inted2010_1074.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
+  <a href="/files/yoosofan_bibliography/conference/1389/inted2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1389/inted2010.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a>
+  </span>
+  </span>
+  </li>
   <li>
   یوسفان, ا., بررسی رابطه‌ی میان تمرکزگرایی در فناوری اطلاعات ایران و ساخت پارک‌های فناوری مجازی. In همایش ملی نقش پارک‌های فناوری مجازی در توسعه پایدار با رویکرد حفاظت محیط زیست.  تهران ، ایران: اسفند ۱۳۸۸
-
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1388/sde2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13881212.Centralisation.sde.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
+  <a href="/files/yoosofan_bibliography/conference/1388/sde2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1388/sde2010.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li>
-
   <li>
   یوسفان, ا., جعفری, خ. و بیگلری, م., تبدیل خودکار کلمه‌های لغت نامه دهخدا به قالب آوایی IPA. In دومین کنفرانس ملی مهندسی برق ایران. دومین کنفرانس ملی مهندسی برق ایران.  دانشگاه آزاد اسلامی واحد نجف آباد ، ایران: اسفند ۱‍۳۸۸
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1388/neec2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
-  <a href="/files/yoosofan_bibliography/conference/1388/neec2010.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13881205.Persian_processing_words_and_iPA_extraction_154.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
+  <a href="/files/yoosofan_bibliography/conference/1388/neec2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1388/neec2010.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> 
+  </span>
   </li>
-
   <li>
   یوسفان, احمد, مجتبی انعامی, و محسن بیگلری. “پیاده سازی کلاس مجازی بر پایه‌ی وب به کمک flash media server.” In پانزدهمین کنفرانس سالانه انجمن کامپیوتر ایران. تهران ، ایران: اسفند ۱۳۸۸
-  <br /><span> <a href="/files/yoosofan_bibliography/conference/1388/csicc2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13881201.Virtual_Classroom.CSICC2010_881110.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/conference/1388/csicc2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1388/csicc2010.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
-
   </li>
-
   <li><span dir ="ltr">
   Yoosofan, Ahmad, Ali Rahimi, Mohammad Rastgoo, and Mohammad mahdi Mojiri. "Automatic Stemming of Some Arabic Words Used in Persian Through Morphological Analysis Without a Dictionary." World Applied Sciences Journal 8, no. 9 (2010): 1078-1085.
-  <br /><span> <a href="/files/yoosofan_bibliography/journal/World Applied Sciences Journal/Automatic Stemming of Some Arabic Words Used in Persian Through Morphological Analysis Without a Dictionary.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/journal/138904.Persian_Processing.wasj.8_9_7.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
+  <a href="/files/yoosofan_bibliography/journal/World Applied Sciences Journal/Automatic Stemming of Some Arabic Words Used in Persian Through Morphological Analysis Without a Dictionary.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/journal/World Applied Sciences Journal/Automatic Stemming of Some Arabic Words Used in Persian Through Morphological Analysis Without a Dictionary.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a>
   <a href="http://www.idosi.org/wasj/wasj8(9)2010.htm" rel="nofollow" title="Issue link" ><span class="yoosofan_research_actionbutton">Issue link</span></a>
   <a href="http://www.idosi.org/wasj/wasj8(9)/7.pdf" rel="nofollow" title="Paper link" ><span class="yoosofan_research_actionbutton">Paper link</span></a>
   </span></span></li>
-
   <li><span dir ="ltr">
   Yoosofan, ahmad, and alireza Ashrafi. “Automatic generation of adjacency matrix of single-wall carbon nanohorn.” OPTOELECTRONICS AND ADVANCED MATERIALS – RAPID COMMUNICATIONS 4, no. 6 (June 2010): 900-901.
-  <br /><span> <a href="/files/yoosofan_bibliography/journal/OPTOELECTRONICS AND ADVANCED MATERIALS – RAPID COMMUNICATIONS/Automatic generation of adjacency matrix of single-wall carbon nanohorn.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/journal/138903.Nani_Graph.OPTOELECTRONICS.4_6_632YOOSOFAN_a[1].pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="/files/yoosofan_bibliography/journal/OPTOELECTRONICS AND ADVANCED MATERIALS – RAPID COMMUNICATIONS/Automatic generation of adjacency matrix of single-wall carbon nanohorn.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/journal/OPTOELECTRONICS AND ADVANCED MATERIALS – RAPID COMMUNICATIONS/Automatic generation of adjacency matrix of single-wall carbon nanohorn.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a>
   <a href="http://oam-rc.inoe.ro/index.php?option=magazine&op=list&revid=51" rel="nofollow" title="Issue link" ><span class="yoosofan_research_actionbutton">Issue link</span></a>
   <a href="http://oam-rc.inoe.ro/index.php?option=magazine&op=view&idu=1127&catid=51" rel="nofollow" title="Abstract link" ><span class="yoosofan_research_actionbutton">Abstract link</span></a>
   </span></span></li>
-
   <li>
   ا. یوسفان, ح. علیزاده و م. اعرابی, “پياده سازي سامانه‌ي يكپارچه رأي گيري الكترونيكي و كنفرانس مطبوعاتي برخط نامزدها در شهر الكترونيكي به كمك flash media server  	,” دومین کنفرانس شهر الکترونیکی,  تهران ، ایران: 1388.
-  <br /><span> <a href="/files/yoosofan_bibliography/ecity_880304.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13880303.Virtual_Election.evoting.ICEC02.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
+  <a href="/files/yoosofan_bibliography/ecity_880304.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/ecity_880304.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li>
-
   <li><span dir="ltr">
   A. yoosofan and A. Ashrafi, “Calculation of Wiener index  for some single-wall carbon nanohorn,” The 2nd conference and workshop on mathematical chemistry (SCWMC 09),  Kashann , Iran: 2009.
-  <br /><span> <a href="/files/yoosofan_bibliography/scwmc09.ris" rel="nofollow" title="Export as RIS"><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13880127.Nano.Kashan.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
+  <a href="/files/yoosofan_bibliography/scwmc09.ris" rel="nofollow" title="Export as RIS"><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/scwmc09.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </span></li>
-
   <li>
   ا. یوسفان, س. صالحی, و ب. مینایی بیدگلی, “دشواری‌های ریشه‌یابی فارسی و روشی برای  ریشه‌یابی فعل‌های ساده فارسی,” دومین کارگاه پژوهشی زبان فارسی و رایانه,  تهران ، دانشگاه تهران: 1385.
-  <br /><span> <a href="/files/yoosofan_bibliography/computer_farsi_workshop.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13850306.Persian_Processing.a_1_24.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
+  <a href="/files/yoosofan_bibliography/computer_farsi_workshop.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/computer_farsi_workshop.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
-
   </li>
-
   <li>
    ا. یوسفان, م. ذوالقدری, و م. احمدی,  “روش خودکار شناسایی وازه‌های پربسامد در زبان فارسی,”  IKT2005,  تهران ، امیرکبیر: 1384.
-  <br /><span> <a href="/files/yoosofan_bibliography/ikt2005.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/13840303.Persian_Processing.ikt2005.p2116.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
+  <a href="/files/yoosofan_bibliography/ikt2005.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/ikt2005.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li></ol>
   </div><hr />
   <div>
   پایان نامه کارشناسی ارشد؛ یوسفان، احمد. « يك سيستم بازيابي اطلاعات متني براي زبان فارسي بر پايه نمايه گذاري معاني پنهان » دانشگاه شیراز, 1382، زیر نظر دکتر ذوالقدری جهرمی و دکتر اقبالی
   <br /><span>
-  <a href="files/research/ahmad.yoosofan.msThesis.doc" rel="nofollow" title="Doc" target=""><span class="yoosofan_research_actionbutton">Doc</span></a> </span> 
+  <a href="files/research/ahmad.yoosofan.msThesis.doc" rel="nofollow" title="Doc" target=""><span class="yoosofan_research_actionbutton">Doc</span></a> </span>
   <a href="files/research/ahmad.yoosofan.msThesis.zip" rel="nofollow" title="zip" target=""><span class="yoosofan_research_actionbutton">zip</span></a> </span>
-  <a href="files/research/ahmad.yoosofan.msThesis.pdf" rel="nofollow" title="PDF" target=""><span class="yoosofan_research_actionbutton">PDF</span></a> </span> 
+  <a href="files/research/ahmad.yoosofan.msThesis.pdf" rel="nofollow" title="PDF" target=""><span class="yoosofan_research_actionbutton">PDF</span></a> </span>
    <a href="/files/yoosofan_bibliography/yoosofan_ms_thesis.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/yoosofan_ms_thesis.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </div><div>
@@ -208,8 +239,9 @@
 *  «پیاده سازی یک غلط یاب املایی فارسی تحت وب». احمد یوسفان، صدیقه طباطبایی
 *  «طراحی و پیاده‌سازی یک زبان برنامه نویسی کاملاً فارسی». طرح پژوهشی دانشگاه کاشان از تاریخ ۱۳۸۹/۱۲/۲۴ تا ۱۳۹۰/۶/۸
 *  «طراحی و پیاده سازی یک مفسر برای زبان برنامه نویسی فارسی ParsPL». طرح پژوهشی دانشگاه کاشان از تاریخ ۹۰/۱۲/۱ تا ۹۱/۱۲/۱
-*  «طراحي و پياده سازي سايت صورت وضعيت پيمانكاران شركت توزيع برق قم» طرح پژوهشی خارجی برای شركت توزيع برق قم با همکاری مهدی چهرقانی از تاریخ ۹۱/۱۲/۱ تا ۹۳/۰۶/۲۶ 
+*  «طراحي و پياده سازي سايت صورت وضعيت پيمانكاران شركت توزيع برق قم» طرح پژوهشی ارتباط با صنعت برای شركت توزيع برق قم با همکاری مهدی چهرقانی از تاریخ ۹۱/۱۲/۱ تا ۹۳/۰۶/۲۶
 *  «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایه تصاویر پانوراما». علی حاجی رضایی، احمد یوسفان
-*  «طراحي وب سايت شركت همگام صنعت صدر سپاهان» طرح پژوهشی خارجی برای شرکت همگام صنعت صدر سپاهان با همکاری مجتبی هاشمی دزکی، محسن سلیمانی شیخ آبادی و سعید کاظمی‌پور اسفرجانی از تاریخ ۱۳۹۳/۰۴/۰۱ تا ۱۳۹۳/۱۰/۰۶ 
+*  «طراحي وب سايت شركت همگام صنعت صدر سپاهان» طرح پژوهشی ارتباط با صنعت برای شرکت همگام صنعت صدر سپاهان با همکاری مجتبی هاشمی دزکی، محسن سلیمانی شیخ آبادی و سعید کاظمی‌پور اسفرجانی از تاریخ ۱۳۹۳/۰۴/۰۱ تا ۱۳۹۳/۱۰/۰۶
 *  مشاوره‌های رایانه‌ای به شرکت‌ها و اداره‌های گوناگون و بخش‌های گوناگون دانشگاه کاشان(مرکز رایانه، مرکز رشد و برخی همکاران)
+*  «طراحي و برنامه نويسي پياده سازي و پشتيباني فني نرم افزار سيستم كنترل توليد» طرح پژوهشی ارتباط با صنعت برای شرکت پتروشیمی نوری(برزویه) از تاریخ ۱۳۹۵/۰۲/۲۲. در دست اجرا.
 

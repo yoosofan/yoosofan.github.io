@@ -16,8 +16,14 @@ Books
   *  `The C++ Programming Language / Bjarne Stroustrup / Addison-Wesley (Third Edition 1997) <http://www2.research.att.com/~bs/3rd.html>`_
   *  `Programming with Objects: A Comparative Presentation of Object-Oriented Programming with C++ and Java /  Avinash C. Kak  / John Wiley & Sons (2003 ) <http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471268526.html>`_
   *  `Thinking in C++ / Bruce Eckel / Second edition 2000 <http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html>`_
-  *  `<http://www.cplusplus.com>`_
 
+Links
+=====
+
+  *  `<http://www.cplusplus.com>`_
+  *  `<http://cppreference.com>`_
+  *  `<http://www.tutorialspoint.com/cplusplus/>`_
+  *  `<http://stackoverflow.com/questions/tagged/c%2b%2b>`_
 
 Samples
 =======
