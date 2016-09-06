@@ -51,8 +51,8 @@
 
 `Office Hour <http://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html>`_ 
 or `ics  <http://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar>`_	
-or `Office Hour <https://calendar.yahoo.com/yoosofan@ymail.com/be6f79b49821070df5e9bea359ed3188?od=131>`_ 
-or `ics  <https://calendar.yahoo.com/yoosofan@ymail.com/c4a110ace0d020e426cea69a2a873a19/ycal.ics?id=131>`_	
+or `Office Hour(yahoo) <https://calendar.yahoo.com/yoosofan@ymail.com/be6f79b49821070df5e9bea359ed3188?od=131>`_ 
+or `ics(yahoo)  <https://calendar.yahoo.com/yoosofan@ymail.com/c4a110ace0d020e426cea69a2a873a19/ycal.ics?id=131>`_	
 
 
 `Resume(Persian) </files/cv.pdf>`_
