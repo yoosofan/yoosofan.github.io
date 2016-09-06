@@ -2,10 +2,14 @@
 <html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " dir="rtl" lang="fa">
 <head>
 <meta charset="utf-8">
-<base href="http://yoosofan.github.io/course/fp.html">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>مبانی برنامه نویسی | احمد یوسفان</title>
-<link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/colorbox.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
 <meta content="#5670d4" name="theme-color">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../en/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (fa)" href="../rss.xml">
@@ -113,7 +117,7 @@
         <div class="row">
             
             
-<article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="#" class="u-url">مبانی برنامه نویسی</a></h1>
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="#" class="u-url">مبانی برنامه نویسی</a></h1>
 
         
         <div class="metadata posttranslations translations">
@@ -215,28 +219,28 @@
 <li><a class="reference external" href="../files/course/fp/Add2matrixInFile_use_functions.zip">راه حل دیگری برای جمع دو ماتریس ذخیره شده در یک پرونده‌ی متنی با کمک گرفتن از تعدادی از تابع‌های زبان c</a></li>
 </ul>
 <div class="yoosofan-change-ltr"><table class="codetable"><tr>
-<td class="linenos"><div class="linenodiv"><pre><a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-1"> 1</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-2"> 2</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-3"> 3</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-4"> 4</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-5"> 5</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-6"> 6</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-7"> 7</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-8"> 8</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-9"> 9</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-10">10</a>
-<a href="fp.html#rest_code_b733d03f9507467880d8037e9c9a1585-11">11</a></pre></div></td>
-<td class="code"><pre class="code c"><a name="rest_code_b733d03f9507467880d8037e9c9a1585-1"></a><span class="cp">#include</span><span class="cpf">&lt;stdio.h&gt;</span><span class="cp"></span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-2"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-3"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-4"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-5"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-6"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-7"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-8"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-9"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-10"></a>  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<a name="rest_code_b733d03f9507467880d8037e9c9a1585-11"></a><span class="p">}</span>
+<td class="linenos"><div class="linenodiv"><pre><a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-1"> 1</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-2"> 2</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-3"> 3</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-4"> 4</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-5"> 5</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-6"> 6</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-7"> 7</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-8"> 8</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-9"> 9</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-10">10</a>
+<a href="fp.html#rest_code_32af1f19fc094693bbd4600d32c45086-11">11</a></pre></div></td>
+<td class="code"><pre class="code c"><a name="rest_code_32af1f19fc094693bbd4600d32c45086-1"></a><span class="cp">#include</span><span class="cpf">&lt;stdio.h&gt;</span><span class="cp"></span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-2"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-3"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-4"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-5"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-6"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-7"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-8"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-9"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-10"></a>  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<a name="rest_code_32af1f19fc094693bbd4600d32c45086-11"></a><span class="p">}</span>
 </pre></td>
 </tr></table></div>
 </div>
@@ -287,7 +291,7 @@
 </div>
 
 
-            <script src="../assets/js/all-nocdn.js"></script><script src="../assets/js/colorbox-i18n/jquery.colorbox-fa.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/moment-with-locales.min.js"></script><script src="../assets/js/fancydates.js"></script><script src="../assets/js/jquery.colorbox-min.js"></script><script src="../assets/js/colorbox-i18n/jquery.colorbox-fa.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
     moment.locale("fa");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates -->
