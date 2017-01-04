@@ -38,7 +38,7 @@
 </files/cv.pdf>`_
 
 `برنامه‌ی کاری و حضور در دفتر 
-<http://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html>`_
+<http://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_
 یا به صورت
 `ics <http://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar>`_
 یا در وب‌گاه

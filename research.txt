@@ -79,7 +79,7 @@
   <a href="/files/yoosofan_bibliography/conference/1391/ICPLP2012_translator.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li>
   <li><span dir="ltr">
-  Yoosofan, Ahmad; Moghadasian, Masoud; Babaee, Reza; "Comparison results of selecting different field combinations in IDS based on decision tree algorithm". IKT2012. دانشگاه صنعتی بابل : ۱۳۹۱/۳/۲ تا ۱۳۹۱/۳/۴
+  Yoosofan, Ahmad; Moghadasian, Masoud; Babaee, Reza; "Comparing results of selecting different field combinations in IDS based on decision tree algorithm". IKT2012. دانشگاه صنعتی بابل : ۱۳۹۱/۳/۲ تا ۱۳۹۱/۳/۴
   <br /><span>
   <a href="/files/yoosofan_bibliography/conference/13910302.Intrustionh_detection.IKT2012.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
   <a href="/files/yoosofan_bibliography/conference/1391/IKT2012.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
