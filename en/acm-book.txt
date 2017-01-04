@@ -44,7 +44,7 @@ QA ۷۶/۶/م۷ ۱۳۹۵
          
 *  `احمد یوسفان<http://yoosofan.kashanu.ac.ir/acm-book.html>`_
 *  `احمد یوسفان<http://yoosofan.github.io/acm-book.html>`_
-*  Email احمد یوسفان: yoosofan@kashanu.ac.ir , yoosofan@mail.com, yoosofan@gmail.com
-*  Email محسن بیگلری: mbt925@gmail.com
-*  Email فائزه میرزایی: mirzaeifaezeh@gmail.com
-*  Email امین بابادی: amin.babadi@yahoo.com 
+*  احمد یوسفان: yoosofan@kashanu.ac.ir , yoosofan@mail.com, yoosofan@gmail.com
+*  محسن بیگلری: mbt925@gmail.com
+*  فائزه میرزایی: mirzaeifaezeh@gmail.com
+*  امین بابادی: amin.babadi@yahoo.com 
