@@ -15,7 +15,7 @@
   <table cellpadding="10" width="100%"> <tr><td>
   Department of Computer Engineering <br />
   Faculty of Computer and Electrical Engineering <br />
-  University of Kashan,  Esfahan, Kashan, I.R.Iran  , Postal Code: 8731753153 , 
+  University of Kashan, Kashan, Isfahan, Iran  , Postal Code: 8731753153 , 
   Fax No: 0098-315-5912930 <br />
   Telephone : 0098-315-5912495 , 
   Most of my email addresses start with "yoosofan" and follow by @ and the name of these websites: <br />
@@ -36,7 +36,7 @@
     |                                                                                                                          |                                                          |
     | Faculty of Computer and Electrical Engineering                                                                           |                                                          |
     |                                                                                                                          |                                                          |    
-    | University of Kashan,  Kashan, I.R.Iran  , Postal Code: 87317-51167 ,                                                    |                                                          |
+    | University of Kashan,  Kashan, Iran  , Postal Code: 87317-51167 ,                                                    |                                                          |
     |                                                                                                                          |                                                          |
     | Telephone : 0098-315-5912495,                                                                                            |  .. image:: /galleries/images/yoosofan_gray3.jpg         |
     |                                                                                                                          |      :align: center                                      |

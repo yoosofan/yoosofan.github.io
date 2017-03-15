@@ -1,0 +1,47 @@
+.. title: اقتدارگریزی
+.. slug: anarchism
+.. date: 2017-03-15 13:13:54 UTC+03:30
+.. tags: anarchism , اقتدارگریزی
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+اصل‌های اولیه‌ی اقتدارگریزی، مخالفت با ساختارها و سازکارهای قدرت و برخلافِ آن تأکید بر همکاری متقابل بوده و هست. اقتدارگریزی به هیچ عنوان شکلی کاملا محکم و ساختاری ندارد و هر جامعه یا گروهی به خوبی می‌توانند بر پایه‌ی باورهای خود و بر پایه‌ی اصول نخستینِ آن از آن بهره ببرند. بنابراین اصولا هیچ گروه یا جامعه‌ای نمی‌تواند اقتدارگریزی را از آنِ خود بداند یا دیگران را دعوت کند به اقتدارگریزی ویژه‌ی آنها روی بیاورند یا به گروهش بپیوندند زیرا هر گونه دستور متمرکز از هر جایی در اقتدارگریزی نادرست است و آنچه مهم است گروه‌های به نسبت کوچک و دارای منافع مشترک و در همکاری با دیگر گروه‌های اقتدارگریز (نه سرسپردگی به آنان) است. آنچه در گردهمایی‌ها و اعتراض‌های اقتدارگریزانه رخ می‌دهد توافقی عامه است و هیچ فرد شرکت کننده در آنها برای آن شرکت نمی‌کند تا پشتوانه‌ی گروهی را به دست آورد و به کمک آن با به دست آوردن امتیازهایی در گونه‌ای از ساختار قدرت بالا برود یا خود را نشان دهد. آن چه هست عمل‌گراهایی بوده و هست که نظر یا عمل خود را نشان داده‌اند و به این ترتیب اثری از خود به جای گذاشته‌اند. اصولا در هیچ کدام از مکتب‌های اقتدارگریزی نمی‌توان فردی را یافت که دیگران را به چیزی مثلا گردهمایی یا همانند آن فراخواند و خودش به آن عمل نکند یا در آنجا نباشد و هر کسی در هر جایگاهی چنین کند هرگز اقتدارگریز نبوده و نیست. عمل، نقشی کلیدی در نظریه در اقتدارگریزی دارد و اصولا نظریه بدون عمل در این مکتب به طور کلی بی‌معناست و بنابراین نظریه ساز عافیت طلب یا پشت صحنه در آن معنایی ندارد. 
+یکی از مهم‌ترین راهکارهایی که اغلب اقتدارگریزان آن را به کار می‌برند بر پا کردن و دنبال کردن شوراهای صنفی (سندیکاها و اتحادیه‌ها) است.
+
+از ده سال پیش با اقتدارگریزی آشنا شدم و مفهوم‌هایش برایم جالب بود ولی به صورت رسمی جزء هیچ گروه اقتدارگریزی نبوده و نیستم همچنین عمل برخی از گروه‌های اقتدارگریزی را نمی‌پسندم. به طور ویژه به اقتدارگریزی فردگرا و دینی علاقه‌مند هستم.
+
+از چند سال پیش قصد داشتم ترجمه‌ی مطالب و بخش‌هایی از کتاب‌هایی که درباره‌ی اقتدارگریزی (آنارشیسم) می‌خواندم اینجا بگذارم ولی واقعا فرصت نکردم. از این پس می‌کوشم برخی پیوندهای ساده را که توضیح‌های به نسبت خوبی درباره‌ی اقتدارگریزی دارند اینجا بگذارم.
+
+امیدوارم این باعث شود تا مفهوم‌های سودمند اقتدارگریزی بدون هر گونه هیاهوی سیاسی مطرح گردد و مردم بتوانند از سودمندی‌های آن بهره ببرند.
+
+*  `<https://fa.wikipedia.org/wiki/آنارشیسم>`_
+*  `<http://www.tebyan-ardebil.ir/description.aspx?id=77426>`_
+*  `<https://theanarchistlibrary.org/library/daniel-guerin-anarchism-from-theory-to-practice>`_
+*  `<http://www.anarchism.net/books.htm>`_
+
+
+torrents:
+
+*  History of Anarchism(translated to English,documentary), No master (part 1) [1]_
+*  AnarchisminAmerica [2]_
+*  History of Anarchism(French,documentary), No master (part 1) [3]_ 
+*  Freak out 2015 (documentary) [4]_ 
+*  Is this what democracy looks like (documentary) [5]_ 
+
+
+
+..  [1] magnet:?xt=urn:btih:baf3b31380c0560b59d56d76c7f1a188f9c4c87f&dn=NOGODNOMASTERPART1.mp4&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969
+
+..  [2] magnet:?xt=urn:btih:76f67d38ddd408eda70e9d41c2386dfded6f04e7&dn=AnarchisminAmerica&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Fonebigtorrent.org%2Fannounce.php&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+
+..  [3] magnet:?xt=urn:btih:afaa44087342968de1cc3f78bda178790fcd021f&dn=Anarkismens.Historia.2014.E01.Startskottet.WEBRiP.mkv&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce>
+
+..  [4]  magnet:?xt=urn:btih:aedf737e4928d53e1a3e5b8295fe006beb46fc3e&dn=Freak%20Out%202015.mp4&tr=http%3A%2F%2Fonebigtorrent.org%2Fannounce.php&tr=http%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=http%3A%2F%2Fannounce.torrentsmd.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.careland.com.cn%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fmgtracker.org%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.best-torrents.net%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=http%3A%2F%2Ftracker.torrenty.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.prq.to%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=http%3A%2F%2Fatrack.pow7.com%2Fannounce>
+
+
+..  [5] magnet:?xt=urn:btih:0342bf96d788d5082cf221e256a79e102099ca60&dn=Is%20This%20What%20Democracy%20Looks%20Like.avi&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Fatrack.pow7.com%2Fannounce&tr=http%3A%2F%2Fonebigtorrent.org%2Fannounce.php&tr=http%3A%2F%2Fatrack.pow7.com%2Fannounce
+
+
+

@@ -70,6 +70,7 @@
 سایت‌های آموزشی
 ===========================
 
+*  `درسنامه <https://darsnameh.com>`_
 *  `مکتب خونه <http://maktabkhooneh.org>`_
 *  `coursera <https://www.coursera.org>`_
 *  `edx <https://www.edx.org>`_

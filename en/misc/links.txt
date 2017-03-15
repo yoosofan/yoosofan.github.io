@@ -58,6 +58,7 @@ Other Persian related websites
 Educational websites
 ===========================
 
+*  `Darsname <https://darsnameh.com>`_
 *  `Maktabkhooneh <http://maktabkhooneh.org>`_
 *  `coursera <https://www.coursera.org>`_
 *  `edx <https://www.edx.org>`_
