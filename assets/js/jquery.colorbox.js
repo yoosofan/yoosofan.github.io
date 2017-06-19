@@ -1,5 +1,5 @@
 /*!
-	Colorbox 1.6.4
+	Colorbox 1.6.3
 	license: MIT
 	http://www.jacklmoore.com/colorbox
 */
@@ -484,7 +484,7 @@
 				$current = $tag(div, "Current"),
 				$prev = $('<button type="button"/>').attr({id:prefix+'Previous'}),
 				$next = $('<button type="button"/>').attr({id:prefix+'Next'}),
-				$slideshow = $('<button type="button"/>').attr({id:prefix+'Slideshow'}),
+				$slideshow = $tag('button', "Slideshow"),
 				$loadingOverlay
 			);
 
@@ -950,7 +950,7 @@
 		}, 100);
 
 		if (settings.get('inline')) {
-			var $target = $(href).eq(0);
+			var $target = $(href);
 			// Inserts an empty placeholder where inline content is being pulled from.
 			// An event is bound to put inline content back when Colorbox closes or loads new content.
 			$inline = $('<div>').hide().insertBefore($target);

@@ -49,10 +49,8 @@
 
 
 
-`Office Hour <http://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_ 
-or `ics  <http://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar>`_	
-or `Office Hour(yahoo) <https://calendar.yahoo.com/yoosofan@ymail.com/be6f79b49821070df5e9bea359ed3188?od=131>`_ 
-or `ics(yahoo)  <https://calendar.yahoo.com/yoosofan@ymail.com/c4a110ace0d020e426cea69a2a873a19/ycal.ics?id=131>`_	
+`Office Hour <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=month>`_ 
+or `ics  <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_	
 
 
 `Resume(Persian) </files/cv.pdf>`_
