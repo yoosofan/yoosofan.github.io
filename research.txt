@@ -66,11 +66,10 @@
   <a href="/files/yoosofan_bibliography/conference/13940708.Image_Processing.denoising.IC10104100395_3_150926221144.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
   </span></li>
   <li>
-    Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security
-, Vol.14 No.11 2016.
-    <br /><span>
-    <a href="/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
-    <a href="https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran" rel="nofollow" title="Paper Page" ><span class="yoosofan_research_actionbutton">Paper Page</span></a>
+    Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security, Vol.14 No.11 2016.
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran" rel="nofollow" title="Paper Page" ><span class="yoosofan_research_actionbutton">Paper Page</span></a>
   </span>
   </li>  
   <li>
