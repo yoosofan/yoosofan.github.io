@@ -1,0 +1,156 @@
+https://my.uwsa.edu/helpdesk/Zimbra/
+https://my.uwsa.edu/helpdesk/Zimbra/Calendar/index.html
+
+mail.kashanu
+=====================================================================
+
+https://wiki.zimbra.com/index.php?title=Accessing_Zimbra_Collaboration_Server_with_Thunderbird&redirect=no#Viewing_your_Zimbra_Calendar_using_Lightning
+
+html
+https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=month
+ics
+https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics
+CalDav
+https://mail.kashanu.ac.ir/dav/yoosofan@kashanu.ac.ir/Calendar
+
+
+fastmail.fm
+=====================================================================
+
+/dav/principals/user/yoosofan@myfastmail.com/
+
+
+https://caldav.fastmail.com/dav/calendars/user/yoosofan@myfastmail.com/adb4a82d-5d3d-43de-8513-fbf7ecf7d4cb/
+
+https://www.fastmail.com/help/clients/thunderbird.html#calendar
+
+
+yahoo
+=====================================================================
+
+html
+https://calendar.yahoo.com/ahmadyousefan/b0fd95a50200520df3098cd3b9afb1eb?od=131
+
+ics
+https://calendar.yahoo.com/ahmadyousefan/a10bdb911f33aa8738873edc5b484109/ycal.ics?id=131
+
+
+html
+https://calendar.yahoo.com/yoosofan@ymail.com/ef36c40488705f58190ab5370f47a740?od=1100
+
+ics
+https://calendar.yahoo.com/yoosofan@ymail.com/a063af226eb0c1eec6a32243d4a70205/ycal.ics?id=1100
+
+Don't select offline support
+https://help.yahoo.com/kb/mail-for-desktop/mozilla-thunderbird-lightning-extension-sln4704.html
+https://caldav.calendar.yahoo.com/dav/<your_username>/Calendar/<your_calendar_name> 
+https://caldav.calendar.yahoo.com/dav/ahmadyousefan/Calendar/ahmad_yoosofan
+https://caldav.calendar.yahoo.com/dav/ahmadyousefan/Calendar/ahmad_yoosofan
+
+https://calendar.yahoo.com/yoosofan@ymail.com/be6f79b49821070df5e9bea359ed3188?od=131
+https://calendar.yahoo.com/yoosofan@ymail.com/c4a110ace0d020e426cea69a2a873a19/ycal.ics?id=131
+
+https://bugzilla-dev.allizom.org/show_bug.cgi?id=1136099
+
+http://ntbab.dyndns.org/apache2-default/seite/caldavprovider.html
+
+
+google.com
+============================================================
+
+html
+https://calendar.google.com/calendar/embed?src=rcisulfia41bcu2vuefcubp7ms%40group.calendar.google.com&ctz=Asia/Tehran
+
+ics
+https://calendar.google.com/calendar/ical/rcisulfia41bcu2vuefcubp7ms%40group.calendar.google.com/public/basic.ics
+
+client (thunderbird , etc.)
+https://support.mozilla.org/en-US/kb/using-lightning-google-calendar
+Provider for Google Calendar 
+https://calendar.google.com/calendar/ical/rcisulfia41bcu2vuefcubp7ms%40group.calendar.google.com/private-c195cb877cad4e95f1400f50c3f80ec2/basic.ics
+
+gmx
+======================================================================
+
+html
+https://calendar.gmx.com/begenda-web-client/s/fb9eb80f7a3d9c3f33986679e5e4c504?locale=en_US&color=e3eb8f&tz=Asia%2FTehran&title=My%20Calendar
+
+client
+https://calendar.gmx.com/begenda/dav/yoosofan@gmx.com/calendar
+
+ics
+https://calendar.gmx.com/begenda-web-client/s/a1753ae47b10b9d188ea243331f0d30b?locale=en_US
+
+https://help.gmx.com/en/organizer/desktop.html#synchronizing-thunderbird
+
+mail
+======================================================================
+
+html
+https://calendar.mail.com/begenda-web-client/s/f04a8388d24ff69e9469826845c362e6?locale=en_US&color=c7e2f2&tz=Asia%2FTehran&title=My%20Calendar
+
+ics
+https://calendar.mail.com/begenda-web-client/s/10a8d3fb27a1eef58a0e5efecf9f3986?locale=en_US
+
+client
+https://calendar.mail.com/begenda/dav/yoosofan@mail.com/calendar
+
+other
+======================================================================
+Create a local calendar within the first program, say Lightning.
+
+To create a new local file, by using a file:// URL:
+ From the File menu, choose New | Calendar...
+ Select On the Network..., and click Next
+ (Not On My Computer, which creates calendars stored in a local SQLite database.)
+ Select iCalendar (ICS) (default), and enter a file: URL to the local file.
+ On MS-Windows operating systems it may be something like:
+ file:///c:/Documents and Settings/USERNAME/MyCal.ics 
+
+ On unix-like operating systems it may be something like:
+ file:///media/files/location/MyCal.ics
+Click Next.
+  Edit the name and color if desired.
+  Click Next.
+  Click Finish.
+  In the left sidebar, the calendar is added to the Calendar list (click '+' if it is collapsed), but the MyCal.ics file won't appear on disk until you add an event or task to it.
+
+References:
+[1]http://www.mozilla.org/projects/calendar/faq.html#local_calendar
+
+====================================================================
+
+The following url may use for korganizer and other calendars
+
+http://wiki.zimbra.com/wiki/Mail_Client_LDAP_Configuration
+
+ou=people,dc=mail.kashanu.ac.ir,dc=ir
+
+====================================================================
+
+After almost two days and more than 12 hours hard works for checking another internet based calendar, specifically gmx and yahoo, I've come to this result that I should stick with local calendar in my mobile along with kasahnu calendars for non private use which can be easily modified in thunderbird/lightning.
+
+https://my.uwsa.edu/helpdesk/Zimbra/
+
+In korganizer do the following jobs
+
+http://wiki.zimbra.com/wiki/Mail_Client_LDAP_Configuration
+
+ou=people,dc=mail.kashanu.ac.ir,dc=ir
+
+Yes, CalDAV address: https://calendar.gmx.com/begenda/dav/(your GMX e-mail address)/calendar	Yes
+Mac OS calendar	Yes, CalDAV address: https://caldav.gmx.com/	Yes
+
+https://help.gmx.com/en/organizer/desktop.html
+https://help.gmx.com/en/organizer/mobile.html
+
+
+borg calendar
+=========================================================
+
+http://sourceforge.net/projects/borg-calendar/
+https://github.com/mikeberger/borg_calendar
+http://mbcsoft.com/joomla30/index.php/borg
+
+$ ./run_borg.sh
+:~/BORGCalendar$ ./run_borg.sh
