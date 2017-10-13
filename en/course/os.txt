@@ -22,6 +22,7 @@ Other Resources
 *  `some resources for getting started in operating system development <http://stackoverflow.com/questions/43180/what-are-some-resources-for-getting-started-in-operating-system-development>`_
 *  `Operating System Design <http://en.wikibooks.org/wiki/Operating_System_Design>`_
 *  `Operating System Concepts <http://codex.cs.yale.edu/avi/os-book/OS9/index.html>`_
+*  `<https://www.tutorialspoint.com/operating_system>`_
 
 ------------
 

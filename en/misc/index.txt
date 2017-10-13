@@ -14,5 +14,6 @@ Miscellaneous will be added to this page.
 
 `Some of Computer Department minutes related to students <department_minutes.html>`_
 
+`The full source of this website <https://github.com/yoosofan/src_website>`_
 
 ..  This a comment "..  contents:: فهرست مطالب"

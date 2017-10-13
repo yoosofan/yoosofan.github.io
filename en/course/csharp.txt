@@ -36,7 +36,7 @@ of .Net for several platforms.
   mono  test.exe
 
 
-برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شماره‌ی خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.
+برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شمارهٔ خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.
 
 .. code-block:: sh
 
@@ -46,7 +46,7 @@ of .Net for several platforms.
 `sample codes </files/course/csharp/my_mono_csharp_samples.zip>`_
 
 `monodevelp <http://monodevelop.com>`_
-محیط یکپارچه‌ی اجرا برای کامپایل و اجرای این زبان فراهم می‌کند. 
+محیط یکپارچهٔ اجرا برای کامپایل و اجرای این زبان فراهم می‌کند. 
 
 Educational site
 ================

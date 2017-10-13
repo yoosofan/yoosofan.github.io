@@ -49,9 +49,9 @@ Publication
   Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015.
   <br /> <a href="http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640" rel="nofollow" title="Paper Link" ><span class="yoosofan_research_actionbutton">Paper Link</span></a>
   </li><li>
-  حاجی رضایی،علی؛ یوسفان، احمد. «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایه‌ی تصاویر پانوراما». چهارمین همایش موزه‌ی علوم و فناوری. موزه علوم و فناوری ایران: آبان ۱۳۹۳.
+  حاجی رضایی،علی؛ یوسفان، احمد. «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایهٔ تصاویر پانوراما». چهارمین همایش موزهٔ علوم و فناوری. موزه علوم و فناوری ایران: آبان ۱۳۹۳.
   </li><li>
-  منعمی بیدگلی،عطیه؛ یوسفان، احمد؛ خدمتی، ابوالفضل؛ «داده کاوی بر روی پایگاه داده‌ی آموزش دانشگاه کاشان به کمک روش GRI و تحلیل نتیجه‌ها». هفتمین کنفرانس داده کاوی ایران. دانشگاه تهران: ۹۲/۰۹/۱۹ تا ۹۲/۰۹/۲۰.
+  منعمی بیدگلی،عطیه؛ یوسفان، احمد؛ خدمتی، ابوالفضل؛ «داده کاوی بر روی پایگاه دادهٔ آموزش دانشگاه کاشان به کمک روش GRI و تحلیل نتیجه‌ها». هفتمین کنفرانس داده کاوی ایران. دانشگاه تهران: ۹۲/۰۹/۱۹ تا ۹۲/۰۹/۲۰.
   <br /><span> <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1392/iceee2013_92.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li><li>
@@ -132,7 +132,7 @@ Publication
   </span></li>
 
   <li>
-  یوسفان, ا., بررسی رابطه‌ی میان تمرکزگرایی در فناوری اطلاعات ایران و ساخت پارک‌های فناوری مجازی. In همایش ملی نقش پارک‌های فناوری مجازی در توسعه پایدار با رویکرد حفاظت محیط زیست.  تهران ، ایران: اسفند ۱۳۸۸
+  یوسفان, ا., بررسی رابطهٔ میان تمرکزگرایی در فناوری اطلاعات ایران و ساخت پارک‌های فناوری مجازی. In همایش ملی نقش پارک‌های فناوری مجازی در توسعه پایدار با رویکرد حفاظت محیط زیست.  تهران ، ایران: اسفند ۱۳۸۸
 
   <br /><span> <a href="/files/yoosofan_bibliography/conference/1388/sde2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1388/sde2010.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
@@ -145,7 +145,7 @@ Publication
   </li>
 
   <li>
-  یوسفان, احمد, مجتبی انعامی, و محسن بیگلری. “پیاده سازی کلاس مجازی بر پایه‌ی وب به کمک flash media server.” In پانزدهمین کنفرانس سالانه انجمن کامپیوتر ایران. تهران ، ایران: اسفند ۱۳۸۸
+  یوسفان, احمد, مجتبی انعامی, و محسن بیگلری. “پیاده سازی کلاس مجازی بر پایهٔ وب به کمک flash media server.” In پانزدهمین کنفرانس سالانه انجمن کامپیوتر ایران. تهران ، ایران: اسفند ۱۳۸۸
   <br /><span> <a href="/files/yoosofan_bibliography/conference/1388/csicc2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1388/csicc2010.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
 
@@ -180,7 +180,7 @@ Publication
   </span></li>
 
   <li>
-  ا. یوسفان, س. صالحی, و ب. مینایی بیدگلی, “دشواری‌های ریشه‌یابی فارسی و روشی برای  ریشه‌یابی فعل‌های ساده فارسی,” دومین کارگاه پژوهشی زبان فارسی و رایانه,  تهران ، دانشگاه تهران: 1385.
+  ا. یوسفان, س. صالحی, و ب. مینایی بیدگلی, “دشواری‌های ریشهٔابی فارسی و روشی برای  ریشهٔابی فعل‌های ساده فارسی,” دومین کارگاه پژوهشی زبان فارسی و رایانه,  تهران ، دانشگاه تهران: 1385.
   <br /><span> <a href="/files/yoosofan_bibliography/computer_farsi_workshop.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/computer_farsi_workshop.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
 

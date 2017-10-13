@@ -8,7 +8,7 @@
 .. type: text
 
 
-احمد یوسفان هستم. عضو هیأت علمی دانشگاه کاشان، دانشکده‌ی مهندسی برق و کامپیوتر، گروهِ مهندسی کامپیوتر
+احمد یوسفان هستم. عضو هیأت علمی دانشگاه کاشان، دانشکدهٔ مهندسی برق و کامپیوتر، گروهِ مهندسی کامپیوتر
 
 
 -------------------------------------
@@ -30,6 +30,6 @@
 *  `Cryptopia <https://www.cryptopia.co.nz/Register?referrer=yoosofan>`_
 *  `zotero <https://www.zotero.org/yoosofan>`_ 
 *  `blogspot <http://yoosofan.blogspot.com>`_ 
-*  `Telegram <https://telegram.me/yoosofan/>`_ 
+*  `Telegram <https://t.me/yoosofan/>`_ 
 *  `Fastmail <https://www.fastmail.com/?STKI=2243603>`_
 *  `lbry.io <https://lbry.io/get?r=Tc6Uh>`_

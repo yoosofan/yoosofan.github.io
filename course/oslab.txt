@@ -9,27 +9,27 @@
 
 
 
-`جزوه‌ی آزمایشگاه سیستم عامل <https://www.dropbox.com/s/apkb8xnzz8cplfa/oslab_inst.pdf?dl=0>`_
+`جزوهٔ آزمایشگاه سیستم عامل <https://www.dropbox.com/s/apkb8xnzz8cplfa/oslab_inst.pdf?dl=0>`_
 
 
 برنامه‌هایی در linux برای آزمایشگاه سیستم عامل
 ================================================================================
 
 *  لوله‌های بدون نام برای ارتباط میان فرآیندها
-      *  `برنامه‌ی نمونه برای لوله‌های بدون نام  </files/course/osLab/programs/unnamed_pipe.cpp>`_
+      *  `برنامهٔ نمونه برای لوله‌های بدون نام  </files/course/osLab/programs/unnamed_pipe.cpp>`_
 
 *  لوله‌های با نام برای ارتباط میان فرآیندها
-    *  `پرونده‌ی سرآیند برای لوله با نام  </files/course/osLab/programs/named_pipe_local.h>`_
-    *  `برنامه‌ی مشتری  </files/course/osLab/programs/named_pipe_client.cpp>`_
-    *  `برنامه‌ی کارگزار  </files/course/osLab/programs/named_pipe_server.cpp>`_    
+    *  `پروندهٔ سرآیند برای لوله با نام  </files/course/osLab/programs/named_pipe_local.h>`_
+    *  `برنامهٔ مشتری  </files/course/osLab/programs/named_pipe_client.cpp>`_
+    *  `برنامهٔ کارگزار  </files/course/osLab/programs/named_pipe_server.cpp>`_    
 
-*  حافظه‌ی مشترک
-    *  `پرونده‌ی سرآیند حافظه‌ی مشترک  </files/course/osLab/programs/Shared_mem.h>`_
-    *  `برنامه‌ی نمونه‌ برای حافظه‌ی مشترک  </files/course/osLab/programs/Shared_mem_sample.cpp>`_  
+*  حافظهٔ مشترک
+    *  `پروندهٔ سرآیند حافظهٔ مشترک  </files/course/osLab/programs/Shared_mem.h>`_
+    *  `برنامهٔ نمونه‌ برای حافظهٔ مشترک  </files/course/osLab/programs/Shared_mem_sample.cpp>`_  
 
 *  راهنماها (semaphore)
-    *  `پرونده‌ی سرآیند برای راهنما  </files/course/osLab/programs/SSemaphore.h>`_
-    *  `برنامه‌ی نمونه برای حافظه‌ی مشترک  </files/course/osLab/programs/SSemaphore.cpp>`_
+    *  `پروندهٔ سرآیند برای راهنما  </files/course/osLab/programs/SSemaphore.h>`_
+    *  `برنامهٔ نمونه برای حافظهٔ مشترک  </files/course/osLab/programs/SSemaphore.cpp>`_
 
 ---------------------------------
 
@@ -47,10 +47,10 @@
 
 
 `virtualbox images <https://virtualboximages.com>`_
-  برای گرفتن برخی از تصویرهای نصب شده‌ی آماده‌ی اجرا از سیستم عامل‌های متن باز و رایگان
+  برای گرفتن برخی از تصویرهای نصب شدهٔ آمادهٔ اجرا از سیستم عامل‌های متن باز و رایگان
 
 
 `bitnami <https://bitnami.com>`_
 
-فهرستی از برنامه‌های نصب شده‌ی آماده‌ی اجرا و همچنین محیط‌های پیکربندی شده از نرم‌افزارهای گوناگون رایگان و متن باز همچون LAMPP و LAPP برای سیستم‌های عامل گوناگون
+فهرستی از برنامه‌های نصب شدهٔ آمادهٔ اجرا و همچنین محیط‌های پیکربندی شده از نرم‌افزارهای گوناگون رایگان و متن باز همچون LAMPP و LAPP برای سیستم‌های عامل گوناگون
 
