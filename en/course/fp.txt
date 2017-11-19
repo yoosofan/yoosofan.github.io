@@ -33,6 +33,34 @@ Compile and Execute C Online
 *  `<http://www.onlinecompiler.net/>`_
 *  `<http://getprogramcode.com/compiler/compile-c-programs-online.html>`_
 
+
+Compilers
+==============================================================================
+
+در این بخش فهرست تعدادی از کامپایلرهای مناسب برای انجام تمرین‌ها و پروژه‌های درسی آورده شده است.
+
+*  `gcc <http://gcc.gnu.org>`_ :  مشهورترین کامپایلر متن باز و رایگان است که بر روی سیستم عامل‌های گوناگون می‌تواند نصب شود و اغلب به صورت پیش فرض در انواع لینوکس‌ها نصب شده است. در `orwelldevcpp`_ ، `codeblocks`_ و `devcpp`_  گذاشته شده است و به سادگی می‌توان با آن کار کرد.    برای کار به صورت خط فرمان در ویندوز  `mingw <http://www.mingw.org>`_ و `cygwin <http://cygwin.com>`_  ساخته شده است. 
+*  `clang <https://clang.llvm.org/>`_
+*  `digitalmars <http://www.digitalmars.com/download/freecompiler.html>`_
+*  `djgpp (for DOS) <http://www.delorie.com/djgpp/>`_
+*  `pcc <http://pcc.ludd.ltu.se>`_
+*  `open watcom <http://www.openwatcom.org/index.php/Main_Page>`_
+*  `Amsterdam Compiler Kit <http://tack.sourceforge.net>`_
+*  `open64 <http://www.open64.net>`_
+*  `Borland Cpp 5.5 <http://forms.embarcadero.com/forms/BCC32CompilerDownload>`_
+
+List of compilers
+
+*  `<https://en.wikipedia.org/wiki/List_of_compilers#C_compilers>`_
+
+Editors
+==============================================================================
+
+*  `geany <http://www.geany.org>`_ : `نسخهٔ قابل حمل آن در ویندوز <http://portableapps.com/apps/development/geany_portable>`_
+*  `notepadpp <http://www.notepad-plus-plus.org/>`_ :  این ویرایشگر فقط در ویندوز است ولی به دلیل این که از امکانات پایهٔ ویندوز کمک گرفته است به سادگی می‌تواند در wine در لینوکس نیز اجرا شود. نسخهٔ قابل حمل آن `notepadpp_portable <http://portableapps.com/apps/development/notepadpp_portable>`_ است.
+*  `kate <http://kate-editor.org>`_
+
+
 Integrated Development Environments (IDEs)
 ==============================================================================
 
@@ -52,26 +80,6 @@ Integrated Development Environments (IDEs)
 *  `Visual Studio Express <http://www.microsoft.com/visualstudio/eng/products/visual-studio-express-products>`_ :  فقط برای سیستم عامل ویندوز است و البته نرم افزار سنگینی است که روی رایانه‌های قدیمی نمی‌تواند اجرا شود. 
 *  `xcode <https://developer.apple.com/xcode/>`_ :  فقط برای سیستم عامل‌های شرکت مکینتاش است.
 
-Compilers
-==============================================================================
-
-در این بخش فهرست تعدادی از کامپایلرهای مناسب برای انجام تمرین‌ها و پروژه‌های درسی آورده شده است.
-
-*  `gcc <http://gcc.gnu.org>`_ :  مشهورترین کامپایلر متن باز و رایگان است که بر روی سیستم عامل‌های گوناگون می‌تواند نصب شود و اغلب به صورت پیش فرض در انواع لینوکس‌ها نصب شده است. در `orwelldevcpp`_ ، `codeblocks`_ و `devcpp`_  گذاشته شده است و به سادگی می‌توان با آن کار کرد.    برای کار به صورت خط فرمان در ویندوز  `mingw <http://www.mingw.org>`_ و `cygwin <http://cygwin.com>`_  ساخته شده است. 
-*  `digitalmars <http://www.digitalmars.com/download/freecompiler.html>`_
-*  `djgpp (for DOS) <http://www.delorie.com/djgpp/>`_
-*  `pcc <http://pcc.ludd.ltu.se>`_
-*  `open watcom <http://www.openwatcom.org/index.php/Main_Page>`_
-*  `Amsterdam Compiler Kit <http://tack.sourceforge.net>`_
-*  `open64 <http://www.open64.net>`_
-*  `Borland Cpp 5.5 <http://forms.embarcadero.com/forms/BCC32CompilerDownload>`_
-
-Editors
-==============================================================================
-
-*  `geany <http://www.geany.org>`_ : `نسخهٔ قابل حمل آن در ویندوز <http://portableapps.com/apps/development/geany_portable>`_
-*  `notepadpp <http://www.notepad-plus-plus.org/>`_ :  این ویرایشگر فقط در ویندوز است ولی به دلیل این که از امکانات پایهٔ ویندوز کمک گرفته است به سادگی می‌تواند در wine در لینوکس نیز اجرا شود. نسخهٔ قابل حمل آن `notepadpp_portable <http://portableapps.com/apps/development/notepadpp_portable>`_ است.
-*  `kate <http://kate-editor.org>`_
 
 Especial microcontroller
 ==============================================================================
