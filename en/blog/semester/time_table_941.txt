@@ -1,0 +1,21 @@
+.. title: نسخهٔ یکم برنامهٔ درسی و توضیح‌های نیمسال یکم ۱۳۹۴ 
+.. slug: time_table_941
+.. date: 2015-08-21 13:16:06 UTC+04:30
+.. tags: دانشگاه کاشان, دانشکده برق و کامپیوتر, گروه مهندسی کامپیوتر, مدیر گروه, برنامه نیمسال, ۱۳۹۴
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+`صفحهٔ آخرین تغییرات برنامهٔ درسی
+</semester/941.html>`_
+
+`نسخهٔ یکم برنامه نیمسال یکم ۱۳۹۴
+<https://app.box.com/s/cbbie0sgxrz45qigaegw0tsncaydk0k1>`_
+
+`پیوند به آخرین نسخهٔ در حال تغییر
+<http://yoosofan.kashanu.ac.ir/yooscripts/php/sendTimeTable.php>`_
+
+`پیوند دائمی برای این نیمسال
+</files/semester/time_table_941.odt>`_
+

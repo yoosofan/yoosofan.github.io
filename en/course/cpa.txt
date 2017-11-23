@@ -1,0 +1,155 @@
+.. title: Modeling and Perfomance Evaluation of Computer Systems
+.. slug: cpa
+.. date: 2015-08-14 17:41:05 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+..  raw:: html
+
+  <div dir="ltr">
+    <div>
+      Suggested books
+      <div dir="ltr"> Theoretical books:
+        <ol>
+          <li>
+            Art of Computer Systems Performance Analysis Techniques For Experimental Design Measurements Simulation And Modeling<br />
+            Raj Jain <br />
+            Wiley Computer Publishing, John Wiley  0471503363 Pub Date: 05/01/91
+          </li>
+          <li>
+            Analyzing Computer System Performance with Perl::PDQ<br />
+            Neil J. Gunther <br />
+            second edition, Springer, 2011 , <a href="http://www.perfdynamics.com/">http://www.perfdynamics.com/</a>
+          </li>
+          <li>
+            <a href="http://heather.cs.ucdavis.edu/probstatbook">From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science</a><br />
+            Norm Matloff, University of California, Davis<br />
+          </li>
+          <li>
+            A First Course in Design and Analysis of Experiments <br />
+            Gary W. Oehlert<br />
+            University of Minnesota , Copyright c 2010 Gary W. Oehlert. All rights reserved.
+          </li>
+          <li>
+            Measuring computer performance A practitioner's guide <br />
+            David J. Lilja, cambridge university press, 2004
+          </li>
+          <li>
+            Performance by Design: Computer Capacity Planning by Example <br />
+            By Daniel A. Menascé, Virgilio A.F. Almeida, Lawrence W. Dowdy<br />
+            Publisher	: Prentice Hall PTR , Pub Date	: January 05, 2004  ,  ISBN	:0-13-090673-5 Pages	: 552
+          </li>
+        </ol>
+      </div>
+      <div> Statistical books:
+        <ul>
+          <li>
+            Probability, Markov chains, queues and simulation: the mathematical basis of performance modeling<br />
+            William J. Stewart, Princeton University Press, 2009
+          </li>
+          <li>
+            Queueing Networks and Markov Chains Modeling and Performance Evaluation with Computer Science Applications<br />
+            Gunter Bolch, Stefan Greiner, Hermann de Meer, Kishor Shridharbhai Trivedi<br />
+            John Wiley &amp; Sons, second edition, 2006
+          </li>
+          <li>
+            Probability and Statistics with Reliability, Queueing, and Computer Science Applications<br />
+            Kishor Shridharbhai Trivedi<br />
+            Wiley-Interscience, 2001
+          </li>
+        </ul>
+      </div>
+      <div>useful educational site:
+        <li>
+          <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/"> Discrete Stochastic Processes(ocw.mit.edu)</a>
+        </li>
+        <li>
+          <a href="http://ocw.mit.edu/courses/sloan-school-of-management/15-072j-queues-theory-and-applications-spring-2006/">Queues: Theory and Applications(ocw.mit.edu)</a>
+        </li>
+      </div>
+      <div> Applied books:
+        <ul>
+        <li>
+          <a href="http://shop.oreilly.com/product/9780596520670.do">
+            The Art of Application Performance Testing
+          </a>
+        </li>
+        </ul>
+      </div>
+    </div><hr />
+    <div>
+      Tools:
+      <ul>
+        <li>
+          Open source Tools:
+        <ul>
+          <li> 
+            <a href="http://www.opensourcetesting.org/performance.php">
+              Performance test tools 
+            </a>
+          </li>
+        </ul>
+    </div><hr />
+    <div>
+      Videos:
+      <ul>
+        <li>
+          <a href="http://msdn.microsoft.com/en-us/library/bb671346.aspx">
+            Performance Testing Videos
+          </a>
+        </li>
+      </ul>
+    </div><hr />
+    <div>
+      Related topics:
+      <div>
+        Software performanc testing:
+        <ul>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Software_performance_testing">
+              Software performance testing(Wikipedia)            
+            </a>
+          </li>
+        </ul> 
+      </div>
+      <div>
+        Software testing:
+        <ul>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Software_testing">
+              Software testing(Wikipedia)            
+            </a>
+          </li>
+        </ul> 
+      </div>
+      <div>
+        Benchmark:
+        <ul>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Benchmark_(computing)">
+              Benchmark(Wikipedia)
+            </a>
+          </li>
+          <li>
+            <a href="http://www.coker.com.au/bonnie++/">
+              Bonnie++
+            </a>
+          </li>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Hierarchical_INTegration">
+              Hierarchical INTegration(Wikipedia)
+            </a>
+          </li>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/SPECint">
+              SPECint(Wikipedia)
+            </a>
+          </li>
+        </ul> 
+      </div>
+    </div>
+  </div>
+

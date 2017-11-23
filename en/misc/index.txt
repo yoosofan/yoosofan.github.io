@@ -1,0 +1,19 @@
+.. title: miscellaneous
+.. slug: index
+.. date: 2015-08-14 19:04:08 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+Miscellaneous will be added to this page.
+
+`Links <links.html>`_
+
+`Some of Computer Department minutes related to students <department_minutes.html>`_
+
+`The full source of this website <https://github.com/yoosofan/src_website>`_
+
+..  This a comment "..  contents:: فهرست مطالب"

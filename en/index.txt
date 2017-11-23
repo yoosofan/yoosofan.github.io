@@ -1,0 +1,57 @@
+.. title: 
+.. slug: index
+.. date: 2015-08-12 10:39:03 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: True
+.. keywords: yoosofan, Ahmad Yoosofan, ahmad usofan, computer, university of Kashan, computer engineering department
+
+
+.. raw:: html
+
+  <table cellpadding="10" width="100%"> <tr><td>
+  Department of Computer Engineering <br />
+  Faculty of Computer and Electrical Engineering <br />
+  University of Kashan, Kashan, Isfahan, Iran  , Postal Code: 8731753153 , 
+  Fax No: 0098-315-5912930 <br />
+  Telephone : 0098-315-5912495 , 
+  Most of my email addresses start with "yoosofan" and follow by @ and the name of these websites: <br />
+  <a href="http://kashanu.ac.ir">kashanu.ac.ir</a>,
+  <a href="http://mail.com"> mail.com </a>,
+  <a href="http://gmail.com"> gmail.com </a>,
+  <a href="http://gmx.com"> gmx.com </a>,
+  <a href="http://myfastmail.com"> myfastmail.com </a> and
+  <a href="http://ymail.com"> ymail.com </a>.
+  </td><td aling="center">
+  <img src="/galleries/images/ahmad_yoosofan_grey2.jpg" />
+  </td></tr></table>
+
+.. ThisIsAComment
+
+    +--------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------+
+    | Department of Computer Engineering                                                                                       |                                                          |
+    |                                                                                                                          |                                                          |
+    | Faculty of Computer and Electrical Engineering                                                                           |                                                          |
+    |                                                                                                                          |                                                          |    
+    | University of Kashan,  Kashan, Iran  , Postal Code: 87317-51167 ,                                                    |                                                          |
+    |                                                                                                                          |                                                          |
+    | Telephone : 0098-315-5912495,                                                                                            |  .. image:: /galleries/images/yoosofan_gray3.jpg         |
+    |                                                                                                                          |      :align: center                                      |
+    |                                                                                                                          |      :alt: Ahmad Yoosofan's picture                      |
+    | Fax No: 0098-315-5912930                                                                                                 |                                                          |
+    |                                                                                                                          |                                                          |
+    | Email: `yoosofan <http://address-protector.com/7jR5o_WTKpt3ka_dxLMTKKHD3F5EQr_VirYRA3ulzHx85OktlMTc6AEKZStmadHF>`_       |                                                          |
+    |                                                                                                                          |                                                          |
+    +--------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------+
+
+
+
+`Office Hour <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_ 
+or `ics  <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_	
+
+
+`Resume(Persian) </files/cv.pdf>`_
+

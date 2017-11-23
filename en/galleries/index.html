@@ -2,16 +2,24 @@
 <html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="Tags">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tags | Ahmad Yoosofan</title>
+<title>galleries | Ahmad Yoosofan</title>
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (fa)" href="../../rss.xml">
-<link rel="canonical" href="http://yoosofan.github.io/en/categories/index.html">
-<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]-->
+<link rel="canonical" href="http://yoosofan.github.io/en/galleries/index.html">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<style type="text/css">
+    .image-block {
+        display: inline-block;
+    }
+    .flowr_row {
+        width: 100%;
+    }
+    </style>
+<link rel="alternate" hreflang="fa" href="../../galleries/index.html">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -48,7 +56,7 @@
 <a href="../archive.html">Archive</a>
                     </li>
 <li>
-<a href=".">Tags</a>
+<a href="../categories/">Tags</a>
                     </li>
 <li>
 <a href="../misc/index.html">misc</a>
@@ -98,41 +106,16 @@
         <div class="row">
             
             
-<h1>Tags</h1>
-    <ul class="list-inline">
-<li><a class="reference badge" href="1394.html">۱۳۹۴</a></li>
-            <li><a class="reference badge" href="anarchism.html">anarchism</a></li>
-            <li><a class="reference badge" href="diary.html">diary</a></li>
-            <li><a class="reference badge" href="history.html">history</a></li>
-            <li><a class="reference badge" href="iran.html">Iran</a></li>
-            <li><a class="reference badge" href="memory.html">memory</a></li>
-            <li><a class="reference badge" href="mrhonarmand.html">Mr.Honarmand</a></li>
-            <li><a class="reference badge" href="najafabad.html">NajafAbad</a></li>
-            <li><a class="reference badge" href="politics.html">politics</a></li>
-            <li><a class="reference badge" href="war.html">war</a></li>
-            <li><a class="reference badge" href="fsrdgy.html">افسردگی</a></li>
-            <li><a class="reference badge" href="qtdrgryzy.html">اقتدارگریزی</a></li>
-            <li><a class="reference badge" href="brnmh-drsy.html">برنامه درسی</a></li>
-            <li><a class="reference badge" href="brnmh-ryzy.html">برنامه ریزی</a></li>
-            <li><a class="reference badge" href="brnmh-nymsl.html">برنامه نیمسال</a></li>
-            <li><a class="reference badge" href="bnyd-nkhbgn.html">بنیاد نخبگان</a></li>
-            <li><a class="reference badge" href="jlsh-grwh.html">جلسه گروه</a></li>
-            <li><a class="reference badge" href="khtrt.html">خاطرات</a></li>
-            <li><a class="reference badge" href="dnyy.html">دانایی</a></li>
-            <li><a class="reference badge" href="dnstn.html">دانستن</a></li>
-            <li><a class="reference badge" href="dnshjw.html">دانشجو</a></li>
-            <li><a class="reference badge" href="dnshkhdh-brq-w-khmpywtr.html">دانشکده برق و کامپیوتر</a></li>
-            <li><a class="reference badge" href="dnshgh-khshn.html">دانشگاه کاشان</a></li>
-            <li><a class="reference badge" href="dkhtr.html">دکترا</a></li>
-            <li><a class="reference badge" href="srbzy.html">سربازی</a></li>
-            <li><a class="reference badge" href="mdyr-grwh.html">مدیر گروه</a></li>
-            <li><a class="reference badge" href="mshkhlt.html">مشکلات</a></li>
-            <li><a class="reference badge" href="mswbh-grwh.html">مصوبه گروه</a></li>
-            <li><a class="reference badge" href="nymsl-ykhm.html">نیمسال یکم</a></li>
-            <li><a class="reference badge" href="pyshnyz-drs.html">پیشنیاز درس</a></li>
-            <li><a class="reference badge" href="grwh-mhndsy-khmpywtr.html">گروه مهندسی کامپیوتر</a></li>
+    
+<nav class="breadcrumbs"><ul class="breadcrumb">
+<li>galleries</li>
+</ul></nav><h1>galleries</h1>
+    <ul>
+<li><a href="images/"><i class="glyphicon glyphicon-folder-open"></i> images</a></li>
     </ul>
-</div>
+<div id="gallery_container"></div>
+
+        </div>
         <!--End of body content-->
 
         <footer id="footer">
@@ -146,6 +129,43 @@
             <script src="../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
     moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates -->
+    </script><!-- end fancy dates --><script src="../../assets/js/flowr.plugin.js"></script><script>
+jsonContent = [];
+$("#gallery_container").flowr({
+        data : jsonContent,
+        height : 180*.6,
+        padding: 5,
+        rows: -1,
+        render : function(params) {
+            // Just return a div, string or a dom object, anything works fine
+            img = $("<img />").attr({
+                'src': params.itemData.url_thumb,
+                'width' : params.width,
+                'height' : params.height
+            }).css('max-width', '100%');
+            link = $( "<a></a>").attr({
+                'href': params.itemData.url,
+                'class': 'image-reference'
+            });
+            div = $("<div />").addClass('image-block').attr({
+                'title': params.itemData.title,
+                'data-toggle': "tooltip",
+            });
+            link.append(img);
+            div.append(link);
+            div.hover(div.tooltip());
+            return div;
+        },
+        itemWidth : function(data) { return data.size.w; },
+        itemHeight : function(data) { return data.size.h; },
+        complete : function(params) {
+            if( jsonContent.length > params.renderedItems ) {
+                nextRenderList = jsonContent.slice( params.renderedItems );
+            }
+        }
+    });
+$("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
+$('a.image-reference[href="'+window.location.hash.substring(1,1000)+'"]').click();
+</script>
 </body>
 </html>

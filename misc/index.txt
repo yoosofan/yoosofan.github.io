@@ -1,0 +1,24 @@
+.. title: دیگر زمینه‌ها
+.. slug: index
+.. date: 2015-08-14 19:04:08 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+در این صفحهٔ موردهای گوناگون و متفاوتی می‌گذارم.
+
+`پیوندها
+<links.html>`_
+
+`برخی از مصوبه‌های گروه دربارهٔ دانشجویان
+<department_minutes.html>`_
+
+
+`کد منبع کامل این وب‌گاه
+<https://github.com/yoosofan/src_website>`_
+
+
+..  This a comment "..  contents:: فهرست مطالب"

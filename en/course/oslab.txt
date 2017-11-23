@@ -1,0 +1,55 @@
+.. title: osLab
+.. slug: oslab
+.. date: 2015-08-13 10:06:08 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+`Laboratoty pamphlet(Farsi) <https://www.dropbox.com/s/apkb8xnzz8cplfa/oslab_inst.pdf?dl=0>`_
+
+
+Some linux programs
+==============================
+
+*  unnamed pipes
+   *  `unnamed pipes sample code </files/course/osLab/programs/unnamed_pipe.cpp>`_
+
+*  named pipes
+   *  `header file for named pipes </files/course/osLab/programs/named_pipe_local.h>`_
+   *  `Client code </files/course/osLab/programs/named_pipe_client.cpp>`_
+   *  `Server code </files/course/osLab/programs/named_pipe_server.cpp>`_    
+
+*  shared memory
+   *  `header file for shared memory </files/course/osLab/programs/Shared_mem.h>`_
+   *  `Sample code for shared memory </files/course/osLab/programs/Shared_mem_sample.cpp>`_  
+
+*  Semaphores
+   *  `header file for Semaphores </files/course/osLab/programs/SSemaphore.h>`_
+   *  `Sample code for Semaphores </files/course/osLab/programs/SSemaphore.cpp>`_
+
+---------------------------------
+
+Virtual Machines
+==================
+
+*  `VmWare <http://www.vmware.com>`_
+*  `VirtualBox <http://www.virtualbox.org>`_
+*  `Qemu <http://qemu.org>`_
+*  `Vserver <http://linux-vserver.org>`_
+*  `KVM <http://www.linux-kvm.org>`_
+*  `OpenVZ <http://openvz.org>`_
+*  `parallel <http://www.parallels.com>`_
+*  `Proxmox Virtual Environment <http://pve.proxmox.com>`_
+
+
+`virtualbox images <https://virtualboximages.com>`_
+  برای گرفتن برخی از تصویرهای نصب شدهٔ آمادهٔ اجرا از سیستم عامل‌های متن باز و رایگان
+
+
+`bitnami <https://bitnami.com>`_
+
+فهرستی از برنامه‌های نصب شدهٔ آمادهٔ اجرا و همچنین محیط‌های پیکربندی شده از نرم‌افزارهای گوناگون رایگان و متن باز همچون LAMPP و LAPP برای سیستم‌های عامل گوناگون
+
