@@ -28,9 +28,9 @@
 *  0x25EF958A163fe8bee6a321BC6839Ea072119790B
 *  43hRo59AGvT1xueyaNyPgx56Co1BGmn4zgMUXzN5tc9vJCRMBnXcxkGgJpwedFNYpA41vGv5HepoN53JVhPcfaE6GrvBj7W
 
-`مقدمه‌ای بر مسابقات برنامه‌نویسی
+` پروندهٔ pdf کتاب
 </files/book/programming_contests.pdf>`_
 
 
 پیوند دائمی به صفحهٔ اصلی کتاب
-`</pages/acm-book.html>`_
+`</acm-book.html>`_
