@@ -2,11 +2,11 @@
 <html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " dir="rtl" lang="fa">
 <head>
 <meta charset="utf-8">
+<base href="http://yoosofan.github.io/course/csharp.html">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CSharp | احمد یوسفان</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-<meta name="theme-color" content="#5670d4">
-<meta name="generator" content="Nikola (getnikola.com)">
+<meta content="#5670d4" name="theme-color">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../en/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (fa)" href="../rss.xml">
 <link rel="canonical" href="http://yoosofan.github.io/course/csharp.html">
@@ -115,7 +115,7 @@ Begin">
         <div class="row">
             
             
-<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="#" class="u-url">CSharp</a></h1>
+<article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="#" class="u-url">CSharp</a></h1>
 
         
         <div class="metadata posttranslations translations">
@@ -145,13 +145,13 @@ Begin">
 <a class="reference external" href="http://mono-project.com/">mono</a>
 را نصب کنید. mono یک پیاده سازی متن باز از CSharp است که بر روی چندین سیستم عامل امکان کامپایل و اجرای برنامه‌ای CSharp  را فراهم می‌کند.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
-<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_f21171ba55b94a7fb8398ccabf85b787-1"></a>$ gmcs  test.cs
-<a name="rest_code_f21171ba55b94a7fb8398ccabf85b787-2"></a>mono  test.exe
+<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_cd74b7ef67dc43e887f87d31be946363-1"></a>$ gmcs  test.cs
+<a name="rest_code_cd74b7ef67dc43e887f87d31be946363-2"></a>mono  test.exe
 </pre></div>
 <p><a class="reference external" href="../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شمارهٔ خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
-<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_d412ddbdd6604ad594ed133e38f12aca-1"></a>gmcs -debug  test.cs
-<a name="rest_code_d412ddbdd6604ad594ed133e38f12aca-2"></a>mono  --debug test.exe
+<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_21583e4c9cd041f8b03f2b856dad9a14-1"></a>gmcs -debug  test.cs
+<a name="rest_code_21583e4c9cd041f8b03f2b856dad9a14-2"></a>mono  --debug test.exe
 </pre></div>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>
 محیط یکپارچهٔ اجرا برای کامپایل و اجرای این زبان فراهم می‌کند.</p>
