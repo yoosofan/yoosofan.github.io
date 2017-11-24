@@ -29,7 +29,7 @@
 *  43hRo59AGvT1xueyaNyPgx56Co1BGmn4zgMUXzN5tc9vJCRMBnXcxkGgJpwedFNYpA41vGv5HepoN53JVhPcfaE6GrvBj7W
 
 ` پروندهٔ pdf کتاب
-</files/book/programming_contests.pdf>`_
+`</files/book/programming_contests.pdf>`_
 
 
 پیوند دائمی به صفحهٔ اصلی کتاب
