@@ -30,8 +30,13 @@
 *  0x25EF958A163fe8bee6a321BC6839Ea072119790B
 *  43hRo59AGvT1xueyaNyPgx56Co1BGmn4zgMUXzN5tc9vJCRMBnXcxkGgJpwedFNYpA41vGv5HepoN53JVhPcfaE6GrvBj7W
 
-` پروندهٔ pdf کتاب
+
+`دریافت کتاب
 </files/book/programming_contests.pdf>`_
+
+`وب‌نوشت مرتبط
+</blog/book/acm_book.html>`_
+
 
 --------------------------------------------------
 
