@@ -17,6 +17,7 @@ body{ text-align: justify;}
     text-decoration:none;  color: white;  background-color: #f87b00;
     border:1px solid;   border-color: #FC9 #630 #330 #F96;   padding:0px 3px 0px 3px; margin:0px;}
 
+/*
 #idc-container-parent #idc-container .idc-postnav-label,
 #idc-container-parent #idc-container .idc-c-m.idc-signup {
 display: none !important;
@@ -25,3 +26,4 @@ display: none !important;
 .idc-postnav-list {
 margin: 5px 0 8px;
 }
+*/
