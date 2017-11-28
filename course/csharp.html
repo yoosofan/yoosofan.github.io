@@ -10,7 +10,14 @@
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../en/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (fa)" href="../rss.xml">
 <link rel="canonical" href="http://yoosofan.github.io/course/csharp.html">
-<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="احمد یوسفان">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><script type="text/javascript">
+	if (self === top) {
+		var antiClickjack = document.getElementById("antiClickjack");
+		antiClickjack.parentNode.removeChild(antiClickjack);
+	} else {
+		top.location = self.location;
+	}
+	</script><meta name="author" content="احمد یوسفان">
 <meta property="og:site_name" content="احمد یوسفان">
 <meta property="og:title" content="CSharp">
 <meta property="og:url" content="http://yoosofan.github.io/course/csharp.html">
@@ -145,13 +152,13 @@ Begin">
 <a class="reference external" href="http://mono-project.com/">mono</a>
 را نصب کنید. mono یک پیاده سازی متن باز از CSharp است که بر روی چندین سیستم عامل امکان کامپایل و اجرای برنامه‌ای CSharp  را فراهم می‌کند.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
-<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_8080d92d61914deb93a3ba944584675b-1"></a>$ gmcs  test.cs
-<a name="rest_code_8080d92d61914deb93a3ba944584675b-2"></a>mono  test.exe
+<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_d4e81576c3024254b1fa6f6254a0774f-1"></a>$ gmcs  test.cs
+<a name="rest_code_d4e81576c3024254b1fa6f6254a0774f-2"></a>mono  test.exe
 </pre></div>
 <p><a class="reference external" href="../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شمارهٔ خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
-<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_4c83ed990fcd492c82952b15218ad4a2-1"></a>gmcs -debug  test.cs
-<a name="rest_code_4c83ed990fcd492c82952b15218ad4a2-2"></a>mono  --debug test.exe
+<div class="yoosofan-change-ltr"><pre class="code sh"><a name="rest_code_6e85af0df9c44c79817d9bce60921b42-1"></a>gmcs -debug  test.cs
+<a name="rest_code_6e85af0df9c44c79817d9bce60921b42-2"></a>mono  --debug test.exe
 </pre></div>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>
 محیط یکپارچهٔ اجرا برای کامپایل و اجرای این زبان فراهم می‌کند.</p>
