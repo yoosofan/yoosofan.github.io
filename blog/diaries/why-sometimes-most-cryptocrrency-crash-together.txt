@@ -58,7 +58,7 @@
 .. [Champagne2014] Phil Champagne, The book of satoshi, The Collected Writings of Bitcoin Creator Satoshi Nakamoto, e53 Publishing LLC, 2014.
 
 اگر به موضوع رمزپول‌ها علاقه‌مند شده‌اید می‌توانید عضو کانال 
-`<https://t.me/silkcoin>`_
+`<https://t.me/sialkcoin>`_
 شوید.
 
 
