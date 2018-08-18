@@ -2,11 +2,11 @@
 <html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
 <head>
 <meta charset="utf-8">
-<base href="http://yoosofan.github.io/en/course/fp.html">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Fundamental of Programming | Ahmad Yoosofan</title>
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-<meta content="#5670d4" name="theme-color">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (fa)" href="../../rss.xml">
 <link rel="canonical" href="http://yoosofan.github.io/en/course/fp.html">
@@ -48,7 +48,7 @@
             </a>
         </div>
 <!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
+        <div class="collapse navbar-collapse" id="bs-navbar" role="navigation" aria-expanded="false">
             <ul class="nav navbar-nav">
 <li>
 <a href="index.html">course</a>
@@ -117,7 +117,7 @@
         <div class="row">
             
             
-<article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="#" class="u-url">Fundamental of Programming</a></h1>
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="#" class="u-url">Fundamental of Programming</a></h1>
 
         
         <div class="metadata posttranslations translations">
@@ -153,6 +153,7 @@
 <li><a class="reference external" href="https://codepad.remoteinterview.io/GladnessUrgentCactusCostume">https://codepad.remoteinterview.io/GladnessUrgentCactusCostume</a></li>
 <li><a class="reference external" href="http://www.onlinecompiler.net/">http://www.onlinecompiler.net/</a></li>
 <li><a class="reference external" href="http://getprogramcode.com/compiler/compile-c-programs-online.html">http://getprogramcode.com/compiler/compile-c-programs-online.html</a></li>
+<li><a class="reference external" href="http://coliru.stacked-crooked.com/">http://coliru.stacked-crooked.com/</a></li>
 </ul>
 </div>
 <div class="section" id="compilers">
@@ -224,28 +225,28 @@
 <li><a class="reference external" href="../../files/course/fp/Add2matrixInFile_use_functions.zip">راه حل دیگری برای جمع دو ماتریس ذخیره شده در یک پروندهٔ متنی با کمک گرفتن از تعدادی از تابع‌های زبان c</a></li>
 </ul>
 <div class="yoosofan-change-ltr"><table class="codetable"><tr>
-<td class="linenos"><div class="linenodiv"><pre><a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-1"> 1</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-2"> 2</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-3"> 3</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-4"> 4</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-5"> 5</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-6"> 6</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-7"> 7</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-8"> 8</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-9"> 9</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-10">10</a>
-<a href="fp.html#rest_code_ca8f91fe036e462bb18a56f11892b910-11">11</a></pre></div></td>
-<td class="code"><pre class="code c"><a name="rest_code_ca8f91fe036e462bb18a56f11892b910-1"></a><span class="cp">#include</span><span class="cpf">&lt;stdio.h&gt;</span><span class="cp"></span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-2"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-3"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-4"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-5"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-6"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-7"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-8"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-9"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-10"></a>  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<a name="rest_code_ca8f91fe036e462bb18a56f11892b910-11"></a><span class="p">}</span>
+<td class="linenos"><div class="linenodiv"><pre><a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-1"> 1</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-2"> 2</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-3"> 3</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-4"> 4</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-5"> 5</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-6"> 6</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-7"> 7</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-8"> 8</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-9"> 9</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-10">10</a>
+<a href="fp.html#rest_code_8851e93c47b74a1299063b6f734f7ac7-11">11</a></pre></div></td>
+<td class="code"><pre class="code c"><a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-1"></a><span class="cp">#include</span><span class="cpf">&lt;stdio.h&gt;</span><span class="cp"></span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-2"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-3"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-4"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-5"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-6"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-7"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-8"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-9"></a>  <span class="n">printf</span><span class="p">(</span><span class="s">"**********"</span><span class="p">);</span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-10"></a>  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<a name="rest_code_8851e93c47b74a1299063b6f734f7ac7-11"></a><span class="p">}</span>
 </pre></td>
 </tr></table></div>
 </div>

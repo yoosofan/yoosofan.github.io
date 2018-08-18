@@ -45,6 +45,8 @@
 *  «طراحي وب سايت شركت همگام صنعت صدر سپاهان» طرح پژوهشی ارتباط با صنعت برای شرکت همگام صنعت صدر سپاهان با همکاری مجتبی هاشمی دزکی، محسن سلیمانی شیخ آبادی و سعید کاظمی‌پور اسفرجانی از تاریخ ۱۳۹۳/۰۴/۰۱ تا ۱۳۹۳/۱۰/۰۶
 *  مشاوره‌های رایانه‌ای به شرکت‌ها و اداره‌های گوناگون و بخش‌های گوناگون دانشگاه کاشان(مرکز رایانه، مرکز رشد و برخی همکاران)
 *  «طراحي و برنامه نويسي پياده سازي و پشتيباني فني نرم افزار سيستم كنترل توليد» طرح پژوهشی ارتباط با صنعت برای شرکت پتروشیمی نوری(برزویه) از تاریخ ۱۳۹۵/۰۲/۲۲. در دست اجرا.
+*  «طراحي و پياده سازي نرم افزار مدیریت دارایی‌های شرکت توزیع برق کاشان» سه طرح پژوهشی ارتباط با صنعت به همراه همکاران (دکتر کریمی، دکتر هاشمی و دکتر سلیمی) با شرکت توزیع برق کاشان از تاریخ ۱۳۹۶/۱۲/۲۲. در دست اجرا.
+
 
 کتاب
 ======================================================================
@@ -181,14 +183,14 @@
   </span>
   </li>
   <li>
-  یوسفان, ا., بررسی رابطهٔ میان تمرکزگرایی در فناوری اطلاعات ایران و ساخت پارک‌های فناوری مجازی. In همایش ملی نقش پارک‌های فناوری مجازی در توسعه پایدار با رویکرد حفاظت محیط زیست.  تهران ، ایران: اسفند ۱۳۸۸
+  یوسفان, ا., بررسی رابطهٔ میان تمرکزگرایی در فناوری اطلاعات ایران و ساخت پارک‌های فناوری مجازی. همایش ملی نقش پارک‌های فناوری مجازی در توسعه پایدار با رویکرد حفاظت محیط زیست.  تهران ، برج میلاد: اسفند ۱۳۸۸
   <br /><span>
   <a href="/files/yoosofan_bibliography/conference/13881212.Centralisation.sde.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
   <a href="/files/yoosofan_bibliography/conference/1388/sde2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/conference/1388/sde2010.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li>
   <li>
-  یوسفان, ا., جعفری, خ. و بیگلری, م., تبدیل خودکار کلمه‌های لغت نامه دهخدا به قالب آوایی IPA. In دومین کنفرانس ملی مهندسی برق ایران. دومین کنفرانس ملی مهندسی برق ایران.  دانشگاه آزاد اسلامی واحد نجف آباد ، ایران: اسفند ۱‍۳۸۸
+  یوسفان, ا., جعفری, خ. و بیگلری, م., تبدیل خودکار کلمه‌های لغت نامه دهخدا به قالب آوایی IPA. In  دومین کنفرانس ملی مهندسی برق ایران.  دانشگاه آزاد اسلامی واحد نجف آباد ، ایران: اسفند ۱‍۳۸۸
   <br /><span>
   <a href="/files/yoosofan_bibliography/conference/13881205.Persian_processing_words_and_iPA_extraction_154.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
   <a href="/files/yoosofan_bibliography/conference/1388/neec2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
@@ -196,7 +198,7 @@
   </span>
   </li>
   <li>
-  یوسفان, احمد, مجتبی انعامی, و محسن بیگلری. “پیاده سازی کلاس مجازی بر پایهٔ وب به کمک flash media server.” In پانزدهمین کنفرانس سالانه انجمن کامپیوتر ایران. تهران ، ایران: اسفند ۱۳۸۸
+  یوسفان, احمد, مجتبی انعامی, و محسن بیگلری. “پیاده سازی کلاس مجازی بر پایهٔ وب به کمک flash media server.” پانزدهمین کنفرانس سالانه انجمن کامپیوتر ایران. تهران ، ایران: اسفند ۱۳۸۸
   <br /><span>
   <a href="/files/yoosofan_bibliography/conference/13881201.Virtual_Classroom.CSICC2010_881110.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
   <a href="/files/yoosofan_bibliography/conference/1388/csicc2010.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
@@ -221,7 +223,7 @@
   <a href="http://oam-rc.inoe.ro/index.php?option=magazine&op=view&idu=1127&catid=51" rel="nofollow" title="Abstract link" ><span class="yoosofan_research_actionbutton">Abstract link</span></a>
   </span></span></li>
   <li>
-  ا. یوسفان, ح. علیزاده و م. اعرابی, “پياده سازي سامانه‌ي يكپارچه رأي گيري الكترونيكي و كنفرانس مطبوعاتي برخط نامزدها در شهر الكترونيكي به كمك flash media server  	,” دومین کنفرانس شهر الکترونیکی,  تهران ، ایران: 1388.
+  یوسفان، احمد؛ علیزاد، حسین و اعرابی، مرجان. «پياده سازي سامانه‌ي يكپارچه رأي گيري الكترونيكي و كنفرانس مطبوعاتي برخط نامزدها در شهر الكترونيكي به كمك flash media server». دومین کنفرانس شهر الکترونیکی،  تهران ، ایران: 1388.
   <br /><span>
   <a href="/files/yoosofan_bibliography/conference/13880303.Virtual_Election.evoting.ICEC02.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
   <a href="/files/yoosofan_bibliography/ecity_880304.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
@@ -235,14 +237,14 @@
   <a href="/files/yoosofan_bibliography/scwmc09.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </span></li>
   <li>
-  ا. یوسفان, س. صالحی, و ب. مینایی بیدگلی, “دشواری‌های ریشه‌یابی فارسی و روشی برای  ریشه‌یابی فعل‌های ساده فارسی,” دومین کارگاه پژوهشی زبان فارسی و رایانه,  تهران ، دانشگاه تهران: 1385.
+  یوسفان، احمد؛ صالحی، سمیه؛ مینایی بیدگلی، بهروز. «دشواری‌های ریشه‌یابی فارسی و روشی برای  ریشه‌یابی فعل‌های ساده فارسی». دومین کارگاه پژوهشی زبان فارسی و رایانه,  تهران ، دانشگاه تهران: 1385.
   <br /><span>
   <a href="/files/yoosofan_bibliography/conference/13850306.Persian_Processing.a_1_24.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
   <a href="/files/yoosofan_bibliography/computer_farsi_workshop.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/computer_farsi_workshop.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </li>
   <li>
-   ا. یوسفان, م. ذوالقدری, و م. احمدی,  “روش خودکار شناسایی وازه‌های پربسامد در زبان فارسی,”  IKT2005,  تهران ، امیرکبیر: 1384.
+   یوسفان، احمد؛ ذوالقدری، منصور؛ احمدی، مهدی.  «روش خودکار شناسایی وازه‌های پربسامد در زبان فارسی».  IKT2005,  تهران ، امیرکبیر: 1384.
   <br /><span>
   <a href="/files/yoosofan_bibliography/conference/13840303.Persian_Processing.ikt2005.p2116.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>  
   <a href="/files/yoosofan_bibliography/ikt2005.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
@@ -250,7 +252,7 @@
   </li></ol>
   </div><hr />
   <div>
-  پایان نامه کارشناسی ارشد؛ یوسفان، احمد. « يك سيستم بازيابي اطلاعات متني براي زبان فارسي بر پايه نمايه گذاري معاني پنهان » دانشگاه شیراز, 1382، زیر نظر دکتر ذوالقدری جهرمی و دکتر اقبالی
+  پایان نامه کارشناسی ارشد؛ یوسفان، احمد. «يك سيستم بازيابي اطلاعات متني براي زبان فارسي بر پايه نمايه گذاري معاني پنهان » دانشگاه شیراز, 1382، زیر نظر دکتر ذوالقدری جهرمی و دکتر اقبالی
   <br /><span>
   <a href="files/research/ahmad.yoosofan.msThesis.doc" rel="nofollow" title="Doc" target=""><span class="yoosofan_research_actionbutton">Doc</span></a> </span>
   <a href="files/research/ahmad.yoosofan.msThesis.zip" rel="nofollow" title="zip" target=""><span class="yoosofan_research_actionbutton">zip</span></a> </span>
