@@ -71,5 +71,5 @@ Educational websites
 *  `<http://videolectures.net>`_
 *  `<http://ocw.mit.edu/index.htm>`_
 *  `<http://video.mit.edu/channel/opencourseware/>`_
-
-
+*  `<https://www.p2pu.org/en/courses/>`_
+*  `<http://ftacademy.org/courses>`_
