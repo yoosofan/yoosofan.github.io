@@ -76,9 +76,6 @@ The C++ Program">
 </li>
 <li>
 <a href="../rss.xml">RSS</a>
-                </li>
-<li>
-<a href="../about.html">About</a>
 
                     
                 </li>
@@ -154,136 +151,136 @@ The C++ Program">
 <h2>Samples</h2>
 <div class="section" id="simple-complex-number-class">
 <h3>simple complex number class</h3>
-<pre class="code cpp"><a name="rest_code_a63398a9052749e590b8c7b48c3c7727-1"></a><span class="cp">#include</span><span class="cpf">&lt;iostream&gt;</span><span class="cp"></span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-2"></a><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-3"></a>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-4"></a><span class="k">struct</span> <span class="n">ComplexCls</span><span class="p">{</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-5"></a>   <span class="kt">double</span> <span class="n">re</span><span class="p">,</span> <span class="n">img</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-6"></a>   <span class="kt">void</span> <span class="nf">input</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-7"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"Enter real part of complex number: "</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-8"></a>      <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">re</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-9"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"Enter imaginary part of complex number: "</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-10"></a>      <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">img</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-11"></a>   <span class="p">}</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-12"></a>   <span class="kt">void</span> <span class="nf">display</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-13"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="n">re</span><span class="o">&lt;&lt;</span><span class="s">" + i "</span><span class="o">&lt;&lt;</span><span class="n">img</span><span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-14"></a>   <span class="p">}</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-15"></a>   <span class="kt">void</span> <span class="nf">init</span><span class="p">(</span><span class="kt">double</span> <span class="n">real</span><span class="p">,</span> <span class="kt">double</span> <span class="n">imaginary</span><span class="p">){</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-16"></a>      <span class="n">re</span> <span class="o">=</span> <span class="n">real</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-17"></a>      <span class="n">img</span><span class="o">=</span> <span class="n">imaginary</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-18"></a>   <span class="p">}</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-19"></a>   <span class="kt">void</span> <span class="nf">Negation</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-20"></a>      <span class="n">re</span> <span class="o">=</span> <span class="o">-</span> <span class="n">re</span> <span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-21"></a>      <span class="n">img</span><span class="o">=</span> <span class="o">-</span> <span class="n">img</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-22"></a>   <span class="p">}</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-23"></a>   <span class="n">ComplexCls</span> <span class="nf">Add</span><span class="p">(</span><span class="n">ComplexCls</span> <span class="n">a</span><span class="p">){</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-24"></a>      <span class="n">ComplexCls</span> <span class="n">b</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-25"></a>      <span class="n">b</span><span class="p">.</span><span class="n">re</span> <span class="o">=</span> <span class="n">a</span><span class="p">.</span><span class="n">re</span> <span class="o">+</span> <span class="n">re</span> <span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-26"></a>      <span class="n">b</span><span class="p">.</span><span class="n">img</span><span class="o">=</span> <span class="n">a</span><span class="p">.</span><span class="n">img</span><span class="o">+</span> <span class="n">img</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-27"></a>      <span class="k">return</span> <span class="n">b</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-28"></a>   <span class="p">}</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-29"></a><span class="p">};</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-30"></a>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-31"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-32"></a>   <span class="n">ComplexCls</span> <span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">,</span><span class="n">z</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-33"></a>   <span class="n">x</span><span class="p">.</span><span class="n">input</span><span class="p">();</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-34"></a>   <span class="n">x</span><span class="p">.</span><span class="n">display</span><span class="p">();</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-35"></a>   <span class="n">y</span><span class="p">.</span><span class="n">input</span><span class="p">();</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-36"></a>   <span class="n">y</span><span class="p">.</span><span class="n">display</span><span class="p">();</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-37"></a>   <span class="n">z</span><span class="o">=</span><span class="n">x</span><span class="p">.</span><span class="n">Add</span><span class="p">(</span><span class="n">y</span><span class="p">);</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-38"></a>   <span class="n">z</span><span class="p">.</span><span class="n">display</span><span class="p">();</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-39"></a>   <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<a name="rest_code_a63398a9052749e590b8c7b48c3c7727-40"></a><span class="p">}</span>
+<pre class="code cpp"><a name="rest_code_4241613db43746529bcbde9f857bf45f-1"></a><span class="cp">#include</span><span class="cpf">&lt;iostream&gt;</span><span class="cp"></span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-2"></a><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-3"></a>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-4"></a><span class="k">struct</span> <span class="n">ComplexCls</span><span class="p">{</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-5"></a>   <span class="kt">double</span> <span class="n">re</span><span class="p">,</span> <span class="n">img</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-6"></a>   <span class="kt">void</span> <span class="nf">input</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-7"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"Enter real part of complex number: "</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-8"></a>      <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">re</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-9"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"Enter imaginary part of complex number: "</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-10"></a>      <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">img</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-11"></a>   <span class="p">}</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-12"></a>   <span class="kt">void</span> <span class="nf">display</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-13"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="n">re</span><span class="o">&lt;&lt;</span><span class="s">" + i "</span><span class="o">&lt;&lt;</span><span class="n">img</span><span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-14"></a>   <span class="p">}</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-15"></a>   <span class="kt">void</span> <span class="nf">init</span><span class="p">(</span><span class="kt">double</span> <span class="n">real</span><span class="p">,</span> <span class="kt">double</span> <span class="n">imaginary</span><span class="p">){</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-16"></a>      <span class="n">re</span> <span class="o">=</span> <span class="n">real</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-17"></a>      <span class="n">img</span><span class="o">=</span> <span class="n">imaginary</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-18"></a>   <span class="p">}</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-19"></a>   <span class="kt">void</span> <span class="nf">Negation</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-20"></a>      <span class="n">re</span> <span class="o">=</span> <span class="o">-</span> <span class="n">re</span> <span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-21"></a>      <span class="n">img</span><span class="o">=</span> <span class="o">-</span> <span class="n">img</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-22"></a>   <span class="p">}</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-23"></a>   <span class="n">ComplexCls</span> <span class="nf">Add</span><span class="p">(</span><span class="n">ComplexCls</span> <span class="n">a</span><span class="p">){</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-24"></a>      <span class="n">ComplexCls</span> <span class="n">b</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-25"></a>      <span class="n">b</span><span class="p">.</span><span class="n">re</span> <span class="o">=</span> <span class="n">a</span><span class="p">.</span><span class="n">re</span> <span class="o">+</span> <span class="n">re</span> <span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-26"></a>      <span class="n">b</span><span class="p">.</span><span class="n">img</span><span class="o">=</span> <span class="n">a</span><span class="p">.</span><span class="n">img</span><span class="o">+</span> <span class="n">img</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-27"></a>      <span class="k">return</span> <span class="n">b</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-28"></a>   <span class="p">}</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-29"></a><span class="p">};</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-30"></a>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-31"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-32"></a>   <span class="n">ComplexCls</span> <span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">,</span><span class="n">z</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-33"></a>   <span class="n">x</span><span class="p">.</span><span class="n">input</span><span class="p">();</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-34"></a>   <span class="n">x</span><span class="p">.</span><span class="n">display</span><span class="p">();</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-35"></a>   <span class="n">y</span><span class="p">.</span><span class="n">input</span><span class="p">();</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-36"></a>   <span class="n">y</span><span class="p">.</span><span class="n">display</span><span class="p">();</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-37"></a>   <span class="n">z</span><span class="o">=</span><span class="n">x</span><span class="p">.</span><span class="n">Add</span><span class="p">(</span><span class="n">y</span><span class="p">);</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-38"></a>   <span class="n">z</span><span class="p">.</span><span class="n">display</span><span class="p">();</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-39"></a>   <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<a name="rest_code_4241613db43746529bcbde9f857bf45f-40"></a><span class="p">}</span>
 </pre>
 </div>
 <div class="section" id="simple-matrix-class">
 <h3>simple matrix class</h3>
-<pre class="code cpp"><a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-1"></a><span class="cp">#include</span><span class="cpf">&lt;iostream&gt;</span><span class="cp"></span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-2"></a><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-3"></a><span class="k">const</span> <span class="kt">int</span> <span class="n">n</span><span class="o">=</span><span class="mi">4</span> <span class="p">,</span> <span class="n">m</span><span class="o">=</span><span class="mi">4</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-4"></a><span class="kt">void</span> <span class="nf">transpose</span><span class="p">(</span><span class="kt">int</span> <span class="n">a</span><span class="p">[][</span><span class="n">m</span><span class="p">]){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-5"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span><span class="n">n</span> <span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-6"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">i</span><span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-7"></a>      <span class="p">{</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-8"></a>         <span class="kt">int</span> <span class="n">temp</span> <span class="o">=</span>  <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">];</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-9"></a>           <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">a</span><span class="p">[</span><span class="n">j</span><span class="p">][</span><span class="n">i</span><span class="p">];</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-10"></a>         <span class="n">a</span><span class="p">[</span><span class="n">j</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">temp</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-11"></a>      <span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-12"></a>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-13"></a><span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-14"></a><span class="kt">void</span> <span class="nf">show</span><span class="p">(</span><span class="kt">int</span> <span class="n">a</span><span class="p">[][</span><span class="n">m</span><span class="p">]){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-15"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span> <span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span> <span class="n">n</span> <span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-16"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"</span><span class="se">\n</span><span class="s">"</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-17"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-18"></a>         <span class="n">cout</span><span class="o">&lt;&lt;</span> <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span><span class="o">&lt;&lt;</span><span class="sc">'\t'</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-19"></a>   <span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-20"></a><span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-21"></a>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-22"></a><span class="k">struct</span> <span class="n">Matrix</span><span class="p">{</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-23"></a>   <span class="kt">int</span> <span class="n">a</span><span class="p">[</span><span class="n">n</span><span class="p">][</span><span class="n">m</span><span class="p">];</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-24"></a>  <span class="kt">void</span> <span class="nf">transpose</span><span class="p">(){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-25"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span><span class="n">n</span> <span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-26"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">i</span><span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-27"></a>      <span class="p">{</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-28"></a>         <span class="kt">int</span> <span class="n">temp</span> <span class="o">=</span>  <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">];</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-29"></a>           <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">a</span><span class="p">[</span><span class="n">j</span><span class="p">][</span><span class="n">i</span><span class="p">];</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-30"></a>         <span class="n">a</span><span class="p">[</span><span class="n">j</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">temp</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-31"></a>      <span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-32"></a><span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-33"></a><span class="kt">void</span> <span class="nf">show</span><span class="p">(){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-34"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span> <span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span> <span class="n">n</span> <span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-35"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"</span><span class="se">\n</span><span class="s">"</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-36"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-37"></a>         <span class="n">cout</span><span class="o">&lt;&lt;</span> <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span><span class="o">&lt;&lt;</span><span class="sc">'\t'</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-38"></a>   <span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-39"></a>   <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-40"></a><span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-41"></a> <span class="kt">void</span> <span class="nf">init</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-42"></a> <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span><span class="n">i</span><span class="o">&lt;</span><span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-43"></a>  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-44"></a>     <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span><span class="o">*</span><span class="mi">10</span> <span class="o">+</span><span class="n">j</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-45"></a><span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-46"></a><span class="kt">void</span> <span class="nf">input</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-47"></a>   <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"Enter data"</span><span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-48"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span> <span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-49"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-50"></a>          <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"Enter A["</span><span class="o">&lt;&lt;</span><span class="n">i</span><span class="o">&lt;&lt;</span><span class="s">"]["</span><span class="o">&lt;&lt;</span><span class="n">j</span><span class="o">&lt;&lt;</span><span class="s">"] : "</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-51"></a>          <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">];</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-52"></a>    <span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-53"></a> <span class="p">}</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-54"></a><span class="p">};</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-55"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-56"></a> <span class="kt">int</span> <span class="n">a</span><span class="p">[</span><span class="n">n</span><span class="p">][</span><span class="n">m</span><span class="p">];</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-57"></a> <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span><span class="n">i</span><span class="o">&lt;</span><span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-58"></a>  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-59"></a>     <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span><span class="o">*</span><span class="mi">10</span> <span class="o">+</span><span class="n">j</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-60"></a> <span class="n">show</span><span class="p">(</span><span class="n">a</span><span class="p">);</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-61"></a> <span class="n">transpose</span><span class="p">(</span><span class="n">a</span><span class="p">);</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-62"></a> <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">endl</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-63"></a> <span class="n">show</span><span class="p">(</span><span class="n">a</span><span class="p">);</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-64"></a> <span class="kt">int</span> <span class="n">b</span><span class="p">[</span><span class="n">n</span><span class="p">][</span><span class="n">m</span><span class="p">];</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-65"></a> <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span><span class="n">i</span><span class="o">&lt;</span><span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-66"></a>  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-67"></a>     <span class="n">b</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span><span class="o">*</span><span class="n">i</span> <span class="o">+</span><span class="n">j</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-68"></a>  <span class="n">show</span><span class="p">(</span><span class="n">b</span><span class="p">);</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-69"></a>  <span class="n">transpose</span><span class="p">(</span><span class="n">b</span><span class="p">);</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-70"></a>  <span class="n">show</span><span class="p">(</span><span class="n">b</span><span class="p">);</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-71"></a>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-72"></a>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-73"></a>  <span class="n">Matrix</span> <span class="n">m1</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-74"></a>  <span class="n">m1</span><span class="p">.</span><span class="n">init</span><span class="p">();</span> <span class="c1">// m1.input();</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-75"></a>  <span class="n">m1</span><span class="p">.</span><span class="n">show</span><span class="p">();</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-76"></a>  <span class="n">m1</span><span class="p">.</span><span class="n">transpose</span><span class="p">();</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-77"></a>  <span class="n">m1</span><span class="p">.</span><span class="n">show</span><span class="p">();</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-78"></a>  <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-79"></a>  <span class="n">Matrix</span> <span class="n">m2</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-80"></a>  <span class="n">m2</span><span class="p">.</span><span class="n">init</span><span class="p">();</span> <span class="c1">// m2.input();</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-81"></a>  <span class="n">m2</span><span class="p">.</span><span class="n">show</span><span class="p">();</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-82"></a>  <span class="n">m2</span><span class="p">.</span><span class="n">transpose</span><span class="p">();</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-83"></a>  <span class="n">m2</span><span class="p">.</span><span class="n">show</span><span class="p">();</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-84"></a>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-85"></a> <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<a name="rest_code_c0c8917c8a4f48aab5e298933c7ad5de-86"></a><span class="p">}</span>
+<pre class="code cpp"><a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-1"></a><span class="cp">#include</span><span class="cpf">&lt;iostream&gt;</span><span class="cp"></span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-2"></a><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-3"></a><span class="k">const</span> <span class="kt">int</span> <span class="n">n</span><span class="o">=</span><span class="mi">4</span> <span class="p">,</span> <span class="n">m</span><span class="o">=</span><span class="mi">4</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-4"></a><span class="kt">void</span> <span class="nf">transpose</span><span class="p">(</span><span class="kt">int</span> <span class="n">a</span><span class="p">[][</span><span class="n">m</span><span class="p">]){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-5"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span><span class="n">n</span> <span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-6"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">i</span><span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-7"></a>      <span class="p">{</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-8"></a>         <span class="kt">int</span> <span class="n">temp</span> <span class="o">=</span>  <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">];</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-9"></a>           <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">a</span><span class="p">[</span><span class="n">j</span><span class="p">][</span><span class="n">i</span><span class="p">];</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-10"></a>         <span class="n">a</span><span class="p">[</span><span class="n">j</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">temp</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-11"></a>      <span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-12"></a>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-13"></a><span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-14"></a><span class="kt">void</span> <span class="nf">show</span><span class="p">(</span><span class="kt">int</span> <span class="n">a</span><span class="p">[][</span><span class="n">m</span><span class="p">]){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-15"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span> <span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span> <span class="n">n</span> <span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-16"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"</span><span class="se">\n</span><span class="s">"</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-17"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-18"></a>         <span class="n">cout</span><span class="o">&lt;&lt;</span> <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span><span class="o">&lt;&lt;</span><span class="sc">'\t'</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-19"></a>   <span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-20"></a><span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-21"></a>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-22"></a><span class="k">struct</span> <span class="n">Matrix</span><span class="p">{</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-23"></a>   <span class="kt">int</span> <span class="n">a</span><span class="p">[</span><span class="n">n</span><span class="p">][</span><span class="n">m</span><span class="p">];</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-24"></a>  <span class="kt">void</span> <span class="nf">transpose</span><span class="p">(){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-25"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span><span class="n">n</span> <span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-26"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">i</span><span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-27"></a>      <span class="p">{</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-28"></a>         <span class="kt">int</span> <span class="n">temp</span> <span class="o">=</span>  <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">];</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-29"></a>           <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">a</span><span class="p">[</span><span class="n">j</span><span class="p">][</span><span class="n">i</span><span class="p">];</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-30"></a>         <span class="n">a</span><span class="p">[</span><span class="n">j</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">temp</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-31"></a>      <span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-32"></a><span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-33"></a><span class="kt">void</span> <span class="nf">show</span><span class="p">(){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-34"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span> <span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span> <span class="n">n</span> <span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-35"></a>      <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"</span><span class="se">\n</span><span class="s">"</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-36"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-37"></a>         <span class="n">cout</span><span class="o">&lt;&lt;</span> <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span><span class="o">&lt;&lt;</span><span class="sc">'\t'</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-38"></a>   <span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-39"></a>   <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-40"></a><span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-41"></a> <span class="kt">void</span> <span class="nf">init</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-42"></a> <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span><span class="n">i</span><span class="o">&lt;</span><span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-43"></a>  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-44"></a>     <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span><span class="o">*</span><span class="mi">10</span> <span class="o">+</span><span class="n">j</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-45"></a><span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-46"></a><span class="kt">void</span> <span class="nf">input</span><span class="p">(</span><span class="kt">void</span><span class="p">){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-47"></a>   <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"Enter data"</span><span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-48"></a>   <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span> <span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-49"></a>      <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-50"></a>          <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">"Enter A["</span><span class="o">&lt;&lt;</span><span class="n">i</span><span class="o">&lt;&lt;</span><span class="s">"]["</span><span class="o">&lt;&lt;</span><span class="n">j</span><span class="o">&lt;&lt;</span><span class="s">"] : "</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-51"></a>          <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">];</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-52"></a>    <span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-53"></a> <span class="p">}</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-54"></a><span class="p">};</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-55"></a><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-56"></a> <span class="kt">int</span> <span class="n">a</span><span class="p">[</span><span class="n">n</span><span class="p">][</span><span class="n">m</span><span class="p">];</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-57"></a> <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span><span class="n">i</span><span class="o">&lt;</span><span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-58"></a>  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-59"></a>     <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span><span class="o">*</span><span class="mi">10</span> <span class="o">+</span><span class="n">j</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-60"></a> <span class="n">show</span><span class="p">(</span><span class="n">a</span><span class="p">);</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-61"></a> <span class="n">transpose</span><span class="p">(</span><span class="n">a</span><span class="p">);</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-62"></a> <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">endl</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-63"></a> <span class="n">show</span><span class="p">(</span><span class="n">a</span><span class="p">);</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-64"></a> <span class="kt">int</span> <span class="n">b</span><span class="p">[</span><span class="n">n</span><span class="p">][</span><span class="n">m</span><span class="p">];</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-65"></a> <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span><span class="n">i</span><span class="o">&lt;</span><span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-66"></a>  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span><span class="mi">0</span> <span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="n">m</span> <span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-67"></a>     <span class="n">b</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span><span class="o">*</span><span class="n">i</span> <span class="o">+</span><span class="n">j</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-68"></a>  <span class="n">show</span><span class="p">(</span><span class="n">b</span><span class="p">);</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-69"></a>  <span class="n">transpose</span><span class="p">(</span><span class="n">b</span><span class="p">);</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-70"></a>  <span class="n">show</span><span class="p">(</span><span class="n">b</span><span class="p">);</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-71"></a>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-72"></a>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-73"></a>  <span class="n">Matrix</span> <span class="n">m1</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-74"></a>  <span class="n">m1</span><span class="p">.</span><span class="n">init</span><span class="p">();</span> <span class="c1">// m1.input();</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-75"></a>  <span class="n">m1</span><span class="p">.</span><span class="n">show</span><span class="p">();</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-76"></a>  <span class="n">m1</span><span class="p">.</span><span class="n">transpose</span><span class="p">();</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-77"></a>  <span class="n">m1</span><span class="p">.</span><span class="n">show</span><span class="p">();</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-78"></a>  <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-79"></a>  <span class="n">Matrix</span> <span class="n">m2</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-80"></a>  <span class="n">m2</span><span class="p">.</span><span class="n">init</span><span class="p">();</span> <span class="c1">// m2.input();</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-81"></a>  <span class="n">m2</span><span class="p">.</span><span class="n">show</span><span class="p">();</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-82"></a>  <span class="n">m2</span><span class="p">.</span><span class="n">transpose</span><span class="p">();</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-83"></a>  <span class="n">m2</span><span class="p">.</span><span class="n">show</span><span class="p">();</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-84"></a>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-85"></a> <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<a name="rest_code_50e8f46b4aff453d819ac5eed39a1ac7-86"></a><span class="p">}</span>
 </pre>
 </div>
 </div>
