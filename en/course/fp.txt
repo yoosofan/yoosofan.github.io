@@ -126,16 +126,17 @@ Links
 *	`<http://www.tutorialspoint.com/learn_c_by_examples/>`_
 *	`<http://www.cquestions.com/>`_
 *	`<http://www.programiz.com/c-programming>`_
+*	`<https://www.includehelp.com/c/>`_
+*	`<https://www.geeksforgeeks.org/c-programming-language/>`_
 *	`<http://www.csitschools.com/c-programming-language/>`_
-*	`standard C <http://www.open-std.org/jtc1/sc22/wg14/>`_
-*	`C Links <http://www.lysator.liu.se/c/>`_
-*	`<cprogramming.com>`_
+*	`Standard of C <http://www.open-std.org/jtc1/sc22/wg14/>`_
+*	`List of links of C <http://www.lysator.liu.se/c/>`_
+*	`<https://www.cprogramming.com/tutorial/c-tutorial.html>`_
 *	`<http://stackoverflow.com/questions/tagged/c>`_
 *	`standard library <http://www.tutorialspoint.com/c_standard_library/index.htm>`_
 *	`gnu c manual <http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html>`_
-*	`c programming <http://www.programiz.com/c-programming>`_
-*	`c programming tutorials <http://www.mycplus.com/tutorials/c-programming-tutorials/>`_
 *	`C programming language <https://en.wikipedia.org/wiki/C_%28programming_language%29>`_
-*	`<https://www.includehelp.com/c/>`_
-*	`<https://www.geeksforgeeks.org/c-programming-language/>`_
+*   `<https://www.mycplus.com/category/tutorials/c-programming-tutorials/>`_
 *	`IEEE-754 (IEEE rounding double numbers standard) <http://babbage.cs.qc.cuny.edu/IEEE-754/>`_
+
+

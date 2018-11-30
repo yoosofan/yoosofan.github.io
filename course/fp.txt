@@ -85,7 +85,7 @@
 *  `Qt Creator <http://qt-project.org>`_
 *  `kdevelop <http://kdevelop.org>`_
 *  `cbuilder <http://www.embarcadero.com/products/cbuilder>`_
-*  `DevCpp <http://www.bloodshed.net/devcpp.html>`_ :   یکی از محیط‌های اجرای یکپارچه مناسب دیگر است.ولی چند سال است که به روز نشده است و البته مشکل‌هایی دارد. گمان می‌کنم پشتیبانی این نرم افزار از conio.h به دلیل استاندارد نبودن چندان خوب نیست.
+*  `DevCpp <http://www.bloodshed.net/devcpp.html>`_ :   یکی از محیط‌های اجرای یکپارچه مناسب دیگر است.ولی چند سال است که به روز نشده است و البته مشکل‌هایی دارد. گمان می‌کنم 7پشتیبانی این نرم افزار از conio.h به دلیل استاندارد نبودن چندان خوب نیست.
 *  `Visual Studio Express <http://www.microsoft.com/visualstudio/eng/products/visual-studio-express-products>`_ :  فقط برای سیستم عامل ویندوز است و البته نرم افزار سنگینی است که روی رایانه‌های قدیمی نمی‌تواند اجرا شود.
 *  `xcode <https://developer.apple.com/xcode/>`_ :  فقط برای سیستم عامل‌های شرکت مکینتاش است.
 
@@ -120,23 +120,28 @@
 
 وب‌گاه‌هایی دربارهٔ زبان C
 ==============================================================================
+.. class:: ltr
 
-*	`<http://en.cppreference.com/w/c>`_
-*	`<http://www.tutorialspoint.com/cprogramming/>`_
-*	`<http://www.tutorialspoint.com/learn_c_by_examples/>`_
-*	`<http://www.cquestions.com/>`_
-*	`<http://www.programiz.com/c-programming>`_
-*	`<http://www.csitschools.com/c-programming-language/>`_
-*	`برنامه نویس <http://barnamenevis.org/forumdisplay.php?80-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-C&s=9935445daf65608c61bf41df07e2bc21>`_
-*	`استاندارد زبان C <http://www.open-std.org/jtc1/sc22/wg14/>`_
-*	`فهرستی از پیوندها به سایت‌های مربوط به زبان C <http://www.lysator.liu.se/c/>`_
-*	`<cprogramming.com>`_
-*	`<http://stackoverflow.com/questions/tagged/c>`_
-*	`standard library <http://www.tutorialspoint.com/c_standard_library/index.htm>`_
-*	`gnu c manual <http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html>`_
-*	`c programming <http://www.programiz.com/c-programming>`_
-*	`c programming tutorials <http://www.mycplus.com/tutorials/c-programming-tutorials/>`_
-*	`C programming language <https://en.wikipedia.org/wiki/C_%28programming_language%29>`_
-*	`<https://www.includehelp.com/c/>`_
-*	`<https://www.geeksforgeeks.org/c-programming-language/>`_
-*	`IEEE-754 (IEEE rounding double numbers standard) <http://babbage.cs.qc.cuny.edu/IEEE-754/>`_
+    *	`<http://en.cppreference.com/w/c>`_
+    *	`<http://www.tutorialspoint.com/cprogramming/>`_
+    *	`<http://www.tutorialspoint.com/learn_c_by_examples/>`_
+    *	`<http://www.cquestions.com/>`_
+    *	`<http://www.programiz.com/c-programming>`_
+    *	`<https://www.includehelp.com/c/>`_
+    *	`<https://www.geeksforgeeks.org/c-programming-language/>`_
+    *	`<http://www.csitschools.com/c-programming-language/>`_
+    *	`Standard of C <http://www.open-std.org/jtc1/sc22/wg14/>`_
+    *	`List of links of C <http://www.lysator.liu.se/c/>`_
+    *	`<https://www.cprogramming.com/tutorial/c-tutorial.html>`_
+    *	`<http://stackoverflow.com/questions/tagged/c>`_
+    *	`standard library <http://www.tutorialspoint.com/c_standard_library/index.htm>`_
+    *	`gnu c manual <http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html>`_
+    *	`C programming language <https://en.wikipedia.org/wiki/C_%28programming_language%29>`_
+    *   `<https://www.mycplus.com/category/tutorials/c-programming-tutorials/>`_
+    *	`IEEE-754 (IEEE rounding double numbers standard) <http://babbage.cs.qc.cuny.edu/IEEE-754/>`_
+
+*   `آموزش زبان C <https://sourcesara.com/c-programming-tutorial/>`_
+*   `ویکی‌بوک  <https://fa.wikibooks.org/wiki/زبان_برنامه_نویسی_سی/>`_
+*	`برنامه نویس <http://barnamenevis.org/forumdisplay.php?80-برنامه-نویسی-با-C&s=9935445daf65608c61bf41df07e2bc21>`_
+
+

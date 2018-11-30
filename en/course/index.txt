@@ -21,3 +21,16 @@ Old courses
 *  `Operating Systems Laboratory <oslab.html>`_
 *  `Modeling and Perfomance Evaluation of Computer Systems <cpa.html>`_
 *  `Advanced Programming(C#) <csharp.html>`_
+
+Copyright
+=====================================================================
+
+Samples of this course is copyrighted. Students of this course are not allowed to put samples and exercises of this course in public. It is good to save what you did in this course for future but sharing in public is not right.
+
+*  `<https://www.jamesgmartin.center/2014/10/are-college-course-syllabi-really-protected-by-copyright/>`_
+*  `<http://www.copyright.com/learn/courses-programs/certificate-programs/>`_
+*  `<https://library.duke.edu/sites/default/files/dul/about/scholcomm/copyright-and-fair-use.pdf>`_
+*  `<https://copyright.cornell.edu/sites/default/files/Copyright_Guidelines.pdf>`_
+*  `<https://www.columbia.edu/content/copyright>`_
+*  `<https://library.pdx.edu/services/submit-course-reserves/course-reserves-copyright-policy/>`_
+
