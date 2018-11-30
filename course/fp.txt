@@ -17,30 +17,31 @@
 ==============================================================================
 
 *  مبانی کامپیوتر و برنامه نویسی به زبان C؛ محمد داورپناه جزی؛ نشر: دانشگاه صنعتی اصفهان، دفتر انتشارات (21 دی، 1390).
-
+*  نظریه و مسائل برنامه نویسی به زبان ‭ C‬(سی)؛ نوشته بایرون اس؛ گاتفرید؛ ترجمه خدایار صادقی؛ ویراستار امیربانو قاسمی‌نژاد؛ قم: سازمان تحقیقات، آموزش و ترویج کشاورزی؛ ۱۳۷۱
 
 کامپایل و اجرای برخط
 ==============================================================================
+.. class:: yoosofan-change-ltr
 
-*	`<http://www.tutorialspoint.com/compile_c_online.php>`_
-*	`<http://cpp.sh/>`_
-*	`<http://codepad.org/>`_
-*	`<https://www.jdoodle.com/c-online-compiler>`_
-*	`<http://ideone.com>`_
-*	`<https://www.codechef.com/ide>`_
-*	`<http://webcompiler.cloudapp.net/>`_
-*	`<https://codepad.remoteinterview.io/GladnessUrgentCactusCostume>`_
-*	`<http://www.onlinecompiler.net/>`_
-*	`<http://getprogramcode.com/compiler/compile-c-programs-online.html>`_
-*	`<http://coliru.stacked-crooked.com/>`_
-*	`<https://ide.geeksforgeeks.org/>`_
-*	`<https://www.onlinegdb.com/online_c_compiler>`_
-*	`<https://www.remoteinterview.io/online-c-compiler>`_
-*	`<http://www.compileonline.com/compile_c_online.php>`_
-*	`<https://www.codechef.com/ide>`_
-*	`<https://www.beta.browxy.com/>`_
-*	`<http://cpp.sh/>`_
-*	`<compiler.run>`_
+    *	`<http://www.tutorialspoint.com/compile_c_online.php>`_
+    *	`<http://cpp.sh/>`_
+    *	`<http://codepad.org/>`_
+    *	`<https://www.jdoodle.com/c-online-compiler>`_
+    *	`<http://ideone.com>`_
+    *	`<https://www.codechef.com/ide>`_
+    *	`<http://webcompiler.cloudapp.net/>`_
+    *	`<https://codepad.remoteinterview.io/GladnessUrgentCactusCostume>`_
+    *	`<http://www.onlinecompiler.net/>`_
+    *	`<http://getprogramcode.com/compiler/compile-c-programs-online.html>`_
+    *	`<http://coliru.stacked-crooked.com/>`_
+    *	`<https://ide.geeksforgeeks.org/>`_
+    *	`<https://www.onlinegdb.com/online_c_compiler>`_
+    *	`<https://www.remoteinterview.io/online-c-compiler>`_
+    *	`<http://www.compileonline.com/compile_c_online.php>`_
+    *	`<https://www.codechef.com/ide>`_
+    *	`<https://www.beta.browxy.com/>`_
+    *	`<http://cpp.sh/>`_
+    *	`<compiler.run>`_
 
 کامپایلرها
 ==============================================================================
@@ -95,7 +96,9 @@
 
 در این بخش ابزارها و کامپایلرهایی گذاشته می‌شود که برای پردازنده‌ها و کنترلگرهای خاص به زبان C آماده شده‌اند.
 
-*  `SDCC <http://sdcc.sourceforge.net>`_
+.. class:: yoosofan-change-ltr
+
+    *  `SDCC <http://sdcc.sourceforge.net>`_
 
 برنامه‌های نمونه
 ==============================================================================
@@ -120,7 +123,7 @@
 
 وب‌گاه‌هایی دربارهٔ زبان C
 ==============================================================================
-.. class:: ltr
+.. class:: yoosofan-change-ltr
 
     *	`<http://en.cppreference.com/w/c>`_
     *	`<http://www.tutorialspoint.com/cprogramming/>`_

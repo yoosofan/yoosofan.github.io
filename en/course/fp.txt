@@ -10,14 +10,14 @@
 Fundamental of Programming books
 ==============================================================================
 
-*  نخستین درس در علم كامپیوتر (جلد اول)؛ ناشر : مركز نشر دانشگاهی، نویسندگان: فورسایت، كینان، اورگانیك، ستنبرگ؛   ترجمه : احمد توحیدی، محمد روغنی، ناصر قاسم آقایی، مصطفی كرمانی؛ ویراسته : عفت خضرائی، ابراهیم نقیب‌زاده مشایخ؛ تاریخ اولین چاپ : 1377؛ چاپ آخر : چاپ سوم - 1389.
+*  Computer science, a first course. by Alexandra I. Forsythe; Keenan, T. A.; Organick, E. I.; Stenberg, W.; New York: Wiley; 2nd edition (1975)
 *  الگوریتم و فلوچارت؛ شهریار رسولی؛ نشر: ارکان دانش (30 مهر، 1390).
 
 C books
 ==============================================================================
 
-*  مبانی کامپیوتر و برنامه نویسی به زبان C؛ محمد داورپناه جزی؛ نشر: دانشگاه صنعتی اصفهان، دفتر انتشارات (21 دی، 1390).
-
+*  Schaum`s Outline of Theory and Problems of Programming with C. Tata McGraw Hill; Second Edition edition (1998)
+*  The C Programming Languag. Brain W. Kernighan and Dennis M. Ritchie, 2nd edition
 
 Online edit, compile, and run
 ==============================================================================
