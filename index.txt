@@ -27,15 +27,19 @@
   <a href="http://mail.com"> mail.com </a> ،
   <a href="http://gmail.com"> gmail.com </a>،
   <a href="http://gmx.com"> gmx.com </a>،
-  <a href="http://myfastmail.com"> myfastmail.com </a>و
+  <a href="http://myfastmail.com"> myfastmail.com </a>,
   <a href="http://ymail.com"> ymail.com </a><br />
+  <a href="https://t.me/yoosofan/"> نشانی تلگرام</a><br />
+  <a href="https://t.me/sialkcoin/"> کانالم دربارهٔ رمزپول‌ها </a>
   </td><td align="center" >
   <img src="/galleries/images/ahmad_yoosofan_grey2.jpg"  />
   </td></tr></table>
 
 
-`کارنامک(resume,cv)
-</files/cv.pdf>`_
+کارنامک(پیشینه‌نامه resume,cv)
+`PDF </files/cv.pdf>`_
+`HTML </files/cv.html>`_
+`RST </files/cv.rst>`_
 
 `برنامهٔ کاری و حضور در دفتر 
 <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_
@@ -47,8 +51,6 @@
 `مقدمه‌ای بر مسابقات برنامه‌نویسی. احمد یوسفان ، محسن بیگلری ، فائزه میرزائی ، امین بابادی. کاشان: شاسوسا، ‏‫۱۳۹۵. </acm-book.html>`_
 
 `WebRel </webrel/index.htm>`_
-
-
 
 ------------------------------------------------------------------
 

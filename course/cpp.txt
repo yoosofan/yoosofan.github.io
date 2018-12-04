@@ -7,39 +7,36 @@
 .. description:
 .. type: text
 
-
 فهرست کتاب‌های پیشنهادی برای ++C
-===========================================
-
+===================================================================================================
 .. class:: yoosofan-change-ltr
 
-    *  `C++ from the Ground Up   / Herbert Schildt / McGraw-Hill/Osborne (Third Edition 2003) <http://www.herbschildt.com>`_
-    *  `Programming principles and practice using C++ / Bjarne Stroustrup / Pearson education 2008) <http://www.pearsonhighered.com/educator/product/Programming-Principles-and-Practice-Using-C/9780321543721.page>`_
-    *  `The C++ Programming Language / Bjarne Stroustrup / Addison-Wesley (Third Edition 1997) <http://www2.research.att.com/~bs/3rd.html>`_
-    *  `Programming with Objects: A Comparative Presentation of Object-Oriented Programming with C++ and Java /  Avinash C. Kak  / John Wiley & Sons (2003 ) <http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471268526.html>`_
-    *  `Thinking in C++ / Bruce Eckel / Second edition 2000 <http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html>`_
+    * `C++ from the Ground Up   / Herbert Schildt / McGraw-Hill/Osborne (Third Edition 2003) <http://www.herbschildt.com>`_
+    * `Programming principles and practice using C++ / Bjarne Stroustrup / Pearson education 2008) <http://www.pearsonhighered.com/educator/product/Programming-Principles-and-Practice-Using-C/9780321543721.page>`_
+    * `The C++ Programming Language / Bjarne Stroustrup / Addison-Wesley (Third Edition 1997) <http://www2.research.att.com/~bs/3rd.html>`_
+    * `Programming with Objects: A Comparative Presentation of Object-Oriented Programming with C++ and Java /  Avinash C. Kak  / John Wiley & Sons (2003 ) <http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471268526.html>`_
+    * `Thinking in C++ / Bruce Eckel / Second edition 2000 <http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html>`_
 
 پیوندها
-=================
+===================================================================================================
 .. class:: yoosofan-change-ltr
 
-    *   `<http://www.cplusplus.com>`_
-    *   `<http://cppreference.com>`_
-    *   `<http://www.tutorialspoint.com/cplusplus/>`_
-    *   `<http://stackoverflow.com/questions/tagged/c%2b%2b>`_
-    *   `<http://coliru.stacked-crooked.com/>`_
-    *   `<https://github.com/fffaraz/awesome-cpp>`_
-    *   `<http://devdocs.io/cpp/>`_
-    *	`<https://isocpp.org/>`_
-    *	`<https://www.includehelp.com/cpp-tutorial/>`_
-    *	`<https://www.geeksforgeeks.org/c-plus-plus/>`_
-    *	`<http://www.ntu.edu.sg/home/ehchua/programming/index.html#Cpp>`_
-
+    * `<http://www.cplusplus.com>`_
+    * `<http://cppreference.com>`_
+    * `<http://www.tutorialspoint.com/cplusplus/>`_
+    * `<http://stackoverflow.com/questions/tagged/c%2b%2b>`_
+    * `<http://coliru.stacked-crooked.com/>`_
+    * `<https://github.com/fffaraz/awesome-cpp>`_
+    * `<http://devdocs.io/cpp/>`_
+    * `<https://isocpp.org/>`_
+    * `<https://www.includehelp.com/cpp-tutorial/>`_
+    * `<https://www.geeksforgeeks.org/c-plus-plus/>`_
+    * `<http://www.ntu.edu.sg/home/ehchua/programming/index.html#Cpp>`_
+    * `<https://github.com/AnthonyCalandra/modern-cpp-features>`_
 نمونه‌ها
-========
-
+===================================================================================================
 کلاس عدد مختلط ساده
--------------------------------------
+---------------------------------------------------------------------------------------------------
 
 .. class:: yoosofan-change-ltr
 
@@ -86,7 +83,7 @@
 
 
 برنامه کار ساده با ماتریس
-----------------------------------------
+---------------------------------------------------------------------------------------------------
 
 .. class:: yoosofan-change-ltr
 

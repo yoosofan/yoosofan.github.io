@@ -14,7 +14,7 @@
 *  `WebRel </webrel/index.htm>`_
 
    *  `<http://sourceforge.net/projects/webrel/>`_
-
+* `پروژه‌های متن‌باز <https://github.com/yoosofan/>`_
 
 سابقهٔ پروژه‌های عملی و پژوهشی
 ======================================================================
