@@ -54,8 +54,10 @@
 or `ics  <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_	
 
 
-`Resume(Persian) </files/cv.pdf>`_
-
+Resume(Curriculum Vitae)
+`PDF </cv/Ahmad_Yoosofan_cv_English.pdf>`_ ,
+`HTML </cv/Ahmad_Yoosofan_cv_English.html>`_ ,
+`RST </cv/Ahmad_Yoosofan_cv_English.rst>`_
 
 `WebRel </webrel/index.htm>`_
 

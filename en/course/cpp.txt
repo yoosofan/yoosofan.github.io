@@ -28,6 +28,7 @@ Links
 * `<https://isocpp.org/>`_
 * `<https://www.includehelp.com/cpp-tutorial/>`_
 * `<https://www.geeksforgeeks.org/c-plus-plus/>`_
+    * `<https://www.cpp.thiyagaraaj.com>`_
 * `<http://www.ntu.edu.sg/home/ehchua/programming/index.html#Cpp>`_
 * `<https://github.com/AnthonyCalandra/modern-cpp-features>`_
 

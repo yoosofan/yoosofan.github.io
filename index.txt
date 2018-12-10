@@ -37,9 +37,9 @@
 
 
 کارنامک(پیشینه‌نامه resume,cv)
-`PDF </files/cv.pdf>`_
-`HTML </files/cv.html>`_
-`RST </files/cv.rst>`_
+`PDF </cv/Ahmad_Yoosofan_cv_Farsi.pdf>`_ ,
+`HTML </cv/Ahmad_Yoosofan_cv_Farsi.html>`_ ,
+`RST </cv/Ahmad_Yoosofan_cv_Farsi.rst>`_
 
 `برنامهٔ کاری و حضور در دفتر 
 <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_
