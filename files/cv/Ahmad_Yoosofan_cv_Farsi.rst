@@ -15,7 +15,7 @@
 
 .. comment
 
-    rst2html.py Ahmad_Yoosofan_cv_Farsi.rst Ahmad_Yoosofan_cv_Farsi.html --stylesheet=../../../../../../other/setting/office/restructuredtext/farsi.css,html4css1.css
+    rst2html.py Ahmad_Yoosofan_cv_Farsi.rst Ahmad_Yoosofan_cv_Farsi.html --stylesheet=../../../../../../../other/setting/office/restructuredtext/farsi.css,html4css1.css
     https://faculty.kashanu.ac.ir/admin/teachersInfo/manage/view?id=524
     https://faculty.kashanu.ac.ir/fa
 
@@ -33,7 +33,7 @@
 .. contents:: فهرست
    :depth: 2
 
-آخرین تاریخ به روز رسانی: ۱۹ آذر ۱۳۹۷
+آخرین تاریخ به روز رسانی: ۱۵ دی ۱۳۹۷
 
 ===================================================================================================
 
@@ -67,7 +67,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 
 تحصیل
 ###################################################################################################
-* کارشناسی ارشد: مهندسی کامپیوتر (هوش مصنوعی)، دانشگاه شیراز ، از ۱۳۷۹ تا ۱۳۸۲. `نشانی تحصیل ارشد <https://www.openstreetmap.org/way/218852074>`_ , `محل تحصیل ارشد با نام <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . عنوان پایان نامه: یک سیستم بازیابی اطلاعات متنی برای زبان فارسی بر پایه نمایه گذاری معانی پنهان، استاد راهنما: دکتر منصور ذوالقدری و دکتر اقبالی.
+* کارشناسی ارشد: مهندسی کامپیوتر (هوش مصنوعی)، دانشگاه شیراز ، از ۱۳۷۹ تا ۱۳۸۲. `نشانی تحصیل ارشد <https://www.openstreetmap.org/way/218852074>`_ , `محل تحصیل ارشد با نام <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . عنوان پایان نامه: یک سیستم بازیابی اطلاعات متنی برای زبان فارسی بر پایه نمایه گذاری معانی پنهان، استاد راهنما: دکتر منصور ذوالقدری و دکتر اقبالی. `PDF of my thesis <http://yoosofan.github.io/files/MSc_Thesis/ahmad.yoosofan.msThesis.pdf>`_
 * کارشناسی: مهندسی کامپیوتر(سخت افزار)، دانشگاه شیراز، ۱۳۷۳ تا ۱۳۷۸. `نشانی تحصیل کارشناسی <https://www.openstreetmap.org/way/218852074>`_ , `نشانی تحصیل کارشناسی با نام <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_   پروژه کارشناسی: پیاده سازی مفسر زبان  Rexx در سیستم عامل DOS ، استاد راهنما: دکتر توحیدی. https://github.com/yoosofan/REXX 
 * دبیرستان منتظری، نجف‌آباد، اصفهان ۱۳۶۹ تا ۱۳۷۳. `نشانی دبیرستان <https://www.openstreetmap.org/#map=19/32.64463/51.35578>`_
 
@@ -139,25 +139,26 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 
 مقاله همایش
 ###################################################################################################
-#. ابراهیم‌زاده،‌دانیال؛ ملااحمدی، محمد؛ یوسفان، احمد. «استخراج باهم‌آیی‌های دوتایی و سه‌تایی از پایگاه داده بزرگ بایگانی روزنامه همشهری». دومین کنفرانس ملی محاسبات توزیعی و پردازش داده‌های بزرگ. آذرشهر(آذربایجان شرقی): آبان ۱۳۹۵.
-#. رواخواه، ایمان؛ یوسفان، احمد. «حذف نوفه تصاویر آسمانی برای تشخیص بهتر شب اول ماه». اولین همایش ملی کامپیوتر، فناوری اطلاعات و ارتباطات اسلامی ایران. تهران: مهر ۱۳۹۴
+#. ابراهیم‌زاده،‌ دانیال - ملااحمدی، محمد - یوسفان، احمد. «استخراج باهم‌آیی‌های دوتایی و سه‌تایی از پایگاه داده بزرگ بایگانی روزنامه همشهری». دومین کنفرانس ملی محاسبات توزیعی و پردازش داده‌های بزرگ. آذرشهر(آذربایجان شرقی): آبان ۱۳۹۵.
+#. رواخواه، ایمان - یوسفان، احمد. «حذف نوفه تصاویر آسمانی برای تشخیص بهتر شب اول ماه». اولین همایش ملی کامپیوتر، فناوری اطلاعات و ارتباطات اسلامی ایران. تهران: مهر ۱۳۹۴
 #. یوسفان، احمد. «بررسی برخی از نشانه‌های تمرکز گرایی در فناوری اطلاعات ایران». اولین همایش ملی کامپیوتر، فناوری اطلاعات و ارتباطات اسلامی ایران. تهران: مهر ۱۳۹۴.
-#. حاجی رضایی،علی؛ یوسفان، احمد. «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایهٔ تصاویر پانوراما». چهارمین همایش موزهٔ علوم و فناوری. موزه علوم و فناوری ایران، تهران:  آبان ۱۳۹۳.
-#. منعمی بیدگلی،عطیه؛ یوسفان، احمد؛ خدمتی، ابوالفضل؛ «داده کاوی بر روی پایگاه دادهٔ آموزش دانشگاه کاشان به کمک روش GRI و تحلیل نتیجه‌ها». هفتمین کنفرانس داده کاوی ایران. دانشگاه تهران: ۹۲/۰۹/۱۹ تا ۹۲/۰۹/۲۰.
-#. یوسفان، احمد؛ قوانلو قاجار، فاطمه؛ حمیدی، سمیه؛ آیت، سیما؛ «شناسایی قانون‌های وابستگی میان داروها در نسخه‌های یک داروخانه به کمک روش Apriori». پنجمین کنفرانس ملی مهندسی برق و کامپیوتر. دانشگاه آزاد گناباد: ۹۲/۰۵/۲۹ تا ۹۲/۰۵/۳۱.
-#. یوسفان، احمد؛ طباطبایی، صدیقه؛ «پیاده سازی یک غلط یاب املایی فارسی تحت وب». نخستین کنفرانس بین المللی پردازش خط و زبان فارسی. دانشگاه سمنان: ۹۱/۶/۱۵ تا ۹۱/۶/۱۶.
-#. میرزایی، فائزه؛ بیگلری، محسن؛ یوسفان، احمد؛ بیات، عماد؛ «طراحی و پیاده سازی یک سامانه ترجمه فارسی به انگلیسی». نخستین کنفرانس بین المللی پردازش خط و زبان فارسی. دانشگاه سمنان: ۹۱/۶/۱۵ تا ۹۱/۶/۱۶.
-#. `Yoosofan, Ahmad; Moghadasian, Masoud; Babaee, Reza; "Comparing results of selecting different field combinations in IDS based on decision tree algorithm". IKT2012.` دانشگاه صنعتی بابل : ۱۳۹۱/۳/۲ تا ۱۳۹۱/۳/۴
+#. حاجی رضایی، علی - یوسفان، احمد. «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایهٔ تصاویر پانوراما». چهارمین همایش موزهٔ علوم و فناوری. موزه علوم و فناوری ایران، تهران:  آبان ۱۳۹۳.
+#. منعمی بیدگلی،عطیه - یوسفان، احمد - خدمتی، ابوالفضل. «داده کاوی بر روی پایگاه دادهٔ آموزش دانشگاه کاشان به کمک روش GRI و تحلیل نتیجه‌ها». هفتمین کنفرانس داده کاوی ایران. دانشگاه تهران: ۹۲/۰۹/۱۹ تا ۹۲/۰۹/۲۰.
+#. یوسفان، احمد - قوانلو قاجار، فاطمه - حمیدی، سمیه - آیت، سیما. «شناسایی قانون‌های وابستگی میان داروها در نسخه‌های یک داروخانه به کمک روش Apriori». پنجمین کنفرانس ملی مهندسی برق و کامپیوتر. دانشگاه آزاد گناباد: ۹۲/۰۵/۲۹ تا ۹۲/۰۵/۳۱.
+#. یوسفان، احمد - طباطبایی، صدیقه. «پیاده سازی یک غلط یاب املایی فارسی تحت وب». نخستین کنفرانس بین المللی پردازش خط و زبان فارسی. دانشگاه سمنان: ۹۱/۶/۱۵ تا ۹۱/۶/۱۶.
+#. میرزایی، فائزه - بیگلری، محسن - یوسفان، احمد - بیات، عماد. «طراحی و پیاده سازی یک سامانه ترجمه فارسی به انگلیسی». نخستین کنفرانس بین المللی پردازش خط و زبان فارسی. دانشگاه سمنان: ۹۱/۶/۱۵ تا ۹۱/۶/۱۶.
+#. `Yoosofan, Ahmad - Moghadasian, Masoud - Babaee, Reza. "Comparing results of selecting different field combinations in IDS based on decision tree algorithm". IKT2012.` دانشگاه صنعتی بابل : ۱۳۹۱/۳/۲ تا ۱۳۹۱/۳/۴
 #. یوسفان، احمد. «بررسی توجیه های تمرکزگرایی در فناوری اطلاعات ایران». اولین کنفرانس ملی محاسبات نرم و فناوری اطلاعات. دانشگاه آزاد ماهشهر: ۱۳۸۹/۱۲/۱۲.
-#. یوسفان، احمد؛ ایزدی، سارا. «ساخت مفسر زبان و محیط یکپارچه توسعه برای زبان جبر رابطه ای نمادگذاری کتاب C.J.Date  به زبان javascript». اولین همایش منطقه ای پژوهش در مهندسی برق. دانشگاه آزاد نجف آباد: ۱۳۸۹/۰۹/۳۰
-#. یوسفان, احمد. “بررسی تعدادی از عامل‌های تشدید کننده تمرکز گرایی در فناوری اطلاعات.”  اولین همایش متخصصین برق و کامپیوتر. دانشگاه شهرکرد ، ایران: مهر ۱۳۸۹.
-#. Yoosofan, Ahmad, and Ali Rahimi, ‘An Implementation of an Interactive Virtual Classroom Based on Flash Media Server’, in Proceedings of INTED2010 Conference. presented at the INTED2010 (International Technology, Education and Development Conference), Valencia , Spain, 2010.
-#. یوسفان, ا., بررسی رابطهٔ میان تمرکزگرایی در فناوری اطلاعات ایران و ساخت پارک‌های فناوری مجازی. همایش ملی نقش پارک‌های فناوری مجازی در توسعه پایدار با رویکرد حفاظت محیط زیست.  تهران ، برج میلاد: اسفند ۱۳۸۸
-#. یوسفان, ا., جعفری, خ. و بیگلری, م., تبدیل خودکار کلمه‌های لغت نامه دهخدا به قالب آوایی IPA. In  دومین کنفرانس ملی مهندسی برق ایران.  دانشگاه آزاد اسلامی واحد نجف آباد ، ایران: اسفند ۱‍۳۸۸
-#. یوسفان, احمد, مجتبی انعامی, و محسن بیگلری. “پیاده سازی کلاس مجازی بر پایهٔ وب به کمک flash media server.” پانزدهمین کنفرانس سالانه انجمن کامپیوتر ایران. تهران ، ایران: اسفند ۱۳۸۸
-#. یوسفان، احمد؛ علیزاد، حسین و اعرابی، مرجان. «پیاده سازی سامانهٔ یکپارچه رأی گیری الکترونیک و کنفرانس مطبوعاتی برخط نامزدها در شهر الکترونیکی به کمک flash media server». دومین کنفرانس شهر الکترونیکی،  تهران ، ایران: 1388.
-#. یوسفان، احمد؛ صالحی، سمیه؛ مینایی بیدگلی، بهروز. «دشواری‌های ریشه‌یابی فارسی و روشی برای  ریشه‌یابی فعل‌های ساده فارسی». دومین کارگاه پژوهشی زبان فارسی و رایانه,  تهران ، دانشگاه تهران: 1385.
-#. یوسفان، احمد؛ ذوالقدری، منصور؛ احمدی، مهدی.  «روش خودکار شناسایی وازه‌های پربسامد در زبان فارسی».  IKT2005,  تهران ، امیرکبیر: 1384.
+#. یوسفان، احمد - ایزدی، سارا. «ساخت مفسر زبان و محیط یکپارچه توسعه برای زبان جبر رابطه ای نمادگذاری کتاب C.J.Date  به زبان javascript». اولین همایش منطقه ای پژوهش در مهندسی برق. دانشگاه آزاد نجف آباد: ۱۳۸۹/۰۹/۳۰
+#. یوسفان, احمد. "بررسی تعدادی از عامل‌های تشدید کننده تمرکز گرایی در فناوری اطلاعات". اولین همایش متخصصین برق و کامپیوتر. دانشگاه شهرکرد ، ایران: مهر ۱۳۸۹.
+#. Yoosofan, Ahmad - Rahimi, Ali. "An Implementation of an Interactive Virtual Classroom Based on Flash Media Server", in Proceedings of INTED2010 Conference. presented at the INTED2010 (International Technology, Education and Development Conference), Valencia , Spain, 2010.
+#. یوسفان، احمد. «بررسی رابطهٔ میان تمرکزگرایی در فناوری اطلاعات ایران و ساخت پارک‌های فناوری مجازی». همایش ملی نقش پارک‌های فناوری مجازی در توسعه پایدار با رویکرد حفاظت محیط زیست.  تهران ، برج میلاد: اسفند ۱۳۸۸
+#. یوسفان، احمد - جعفری، خدیجه - بیگلری، محسن. «تبدیل خودکار کلمه‌های لغت نامه دهخدا به قالب آوایی IPA In». دومین کنفرانس ملی مهندسی برق ایران.  دانشگاه آزاد اسلامی واحد نجف آباد ، ایران: اسفند ۱‍۳۸۸.  13881206
+#. یوسفان, احمد, مجتبی انعامی, و محسن بیگلری. «پیاده سازی کلاس مجازی بر پایهٔ وب به کمک flash media server». پانزدهمین کنفرانس سالانه انجمن کامپیوتر ایران. تهران ، ایران: اسفند ۱۳۸۸
+#. A`.` yoosofan and A`.` Ashrafi, “Calculation of Wiener index  for some single-wall carbon nanohorn,” The 2nd conference and workshop on mathematical chemistry (SCWMC 09),  Kashann , Iran: 2009.20091019
+#. یوسفان، احمد؛ علیزاد، حسین و اعرابی، مرجان. «پیاده سازی سامانهٔ یکپارچه رأی گیری الکترونیک و کنفرانس مطبوعاتی برخط نامزدها در شهر الکترونیکی به کمک flash media server». دومین کنفرانس شهر الکترونیکی،  تهران ، ایران: 1388. 13880303
+#. یوسفان، احمد؛ صالحی، سمیه؛ مینایی بیدگلی، بهروز. «دشواری‌های ریشه‌یابی فارسی و روشی برای  ریشه‌یابی فعل‌های ساده فارسی». دومین کارگاه پژوهشی زبان فارسی و رایانه,  تهران ، دانشگاه تهران: 1385. 13850406
+#. یوسفان، احمد؛ ذوالقدری، منصور؛ احمدی، مهدی.  «روش خودکار شناسایی وازه‌های پربسامد در زبان فارسی».  IKT2005,  تهران ، امیرکبیر: 1384. 13840303
 
 ===================================================================================================
 
@@ -166,12 +167,11 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 .. class:: ltr
 
     #. Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security, Vol.14 No.11 2016. `Jornal Issue(14-no-11-nov-2016) <https://sites.google.com/site/ijcsis/vol-14-no-11-nov-2016>`_  , `PDF 139511 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf>`_  ,  `Academia 30936299 <https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran>`_ , `IJCSIS Journal <https://sites.google.com/site/ijcsis/Home>`_ .
-    #. Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015.
-    #. یوسفان, احمد, الهام یوسفیان. "خوشه‌بندی استان‌های ایران بر پایة معیارهای شکاف دیجیتال به کمک روش K-MEANS." مجله محاسبات نرم ۱ (۱۳۹۱): ۳۲–۴۵.
-    #. Yoosofan, Ahmad; Namazi-Fard, Mostafa; "Automatic Graph Construction of Periodic Open Tubulene((5,6,7)3) and computation of its Wiener, PI, and Szeged indices". IJMC (Iranian Journal of Mathematical Chemistry). Vol 3, No 1. February 2012.
+    #. Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015. `<http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640>`_ , 
+    #. یوسفان, احمد؛ الهام یوسفیان. "خوشه‌بندی استان‌های ایران بر پایة معیارهای شکاف دیجیتال به کمک روش K-MEANS." مجله محاسبات نرم ۱ (۱۳۹۱): ۳۲–۴۵. `صفحهٔ مقاله  CPIBDMUKA2012 <http://scj.kashanu.ac.ir/article-1-21-fa.html>`_ ، `PDF CPIBDMUKA2012 <http://yoosofan.github.io//files/yoosofan_bibliography/journal/139104.Centralisation.scj.1_1_p32.pdf>`_ 
+    #. Yoosofan, Ahmad; Namazi-Fard, Mostafa; "Automatic Graph Construction of Periodic Open Tubulene((5,6,7)3) and computation of its Wiener, PI, and Szeged indices". IJMC (Iranian Journal of Mathematical Chemistry). Vol 3, No 1. February 2012. `صفحه NJIMC2012 <http://ijmc.kashanu.ac.ir/article_5221_853.html>`_ , `PDF NJIMC2012 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139011.Nano_Graph.ijmc.3_1_Yoosofan_81_94.pdf>`_ .
     #. Yoosofan, Ahmad, Ali Rahimi, Mohammad Rastgoo, and Mohammad mahdi Mojiri. "Automatic Stemming of Some Arabic Words Used in Persian Through Morphological Analysis Without a Dictionary." World Applied Sciences Journal 8, no. 9 (2010): 1078-1085.
     #. Yoosofan, ahmad, and alireza Ashrafi. “Automatic generation of adjacency matrix of single-wall carbon nanohorn.” OPTOELECTRONICS AND ADVANCED MATERIALS – RAPID COMMUNICATIONS 4, no. 6 (June 2010): 900-901.
-    #. A`.` yoosofan and A`.` Ashrafi, “Calculation of Wiener index  for some single-wall carbon nanohorn,” The 2nd conference and workshop on mathematical chemistry (SCWMC 09),  Kashann , Iran: 2009.
 
 ===================================================================================================
 
@@ -179,7 +179,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 ###################################################################################################
 #. مدیر گروه مهندسی کامپیوتر دانشگاه کاشان از تاریخ  ۸۷/۵/۱۵ تا اسفند ۱۳۹۴. در دوران مدیر گروهی‌ام کارشناسی ارشد نرم‌افزار و دکترای هوش مصنوعی و نرم‌افزار به گروه افزوده شد.
 #. عضو شورای آموزش‌های آزاد و مجازی و عضو دانشکده آموزش‌های الکترونیکی دانشگاه کاشان از تاریخ ۸۸/۱/۲۳ تا ۱۳۹۴.
-#. برگزار کنندهٔ نخستین انتخابات شورای صنفی استادان دانشگاه کاشان در پاییز ۱۳۹۲.
+#. برگزار کنندهٔ نخستین انتخابات شورای صنفی استادان دانشگاه کاشان در پاییز ۱۳۹۳.
 #. برگزار کننده و دبیر چند دوره مسابقه‌ی دانشجویی برنامه نویسی  در سطح کشور در دانشگاه کاشان (ACM)
 #. مشاوره‌های رایانه‌ای گوناگون به بخش‌های گوناگون دانشگاه از جمله مرکز رایانه
 

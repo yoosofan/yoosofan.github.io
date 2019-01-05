@@ -254,10 +254,9 @@
   <div>
   پایان نامه کارشناسی ارشد؛ یوسفان، احمد. «يك سيستم بازيابي اطلاعات متني براي زبان فارسي بر پايه نمايه گذاري معاني پنهان » دانشگاه شیراز, 1382، زیر نظر دکتر ذوالقدری جهرمی و دکتر اقبالی
   <br /><span>
-  <a href="files/research/ahmad.yoosofan.msThesis.doc" rel="nofollow" title="Doc" target=""><span class="yoosofan_research_actionbutton">Doc</span></a> </span>
-  <a href="files/research/ahmad.yoosofan.msThesis.zip" rel="nofollow" title="zip" target=""><span class="yoosofan_research_actionbutton">zip</span></a> </span>
-  <a href="files/research/ahmad.yoosofan.msThesis.pdf" rel="nofollow" title="PDF" target=""><span class="yoosofan_research_actionbutton">PDF</span></a> </span>
-   <a href="/files/yoosofan_bibliography/yoosofan_ms_thesis.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
+  <a href="files/MSc_Thesis/ahmad.yoosofan.msThesis.doc" rel="nofollow" title="Doc" target=""><span class="yoosofan_research_actionbutton">Doc</span></a> </span> 
+  <a href="files/MSc_Thesis/ahmad.yoosofan.msThesis.pdf" rel="nofollow" title="PDF" target=""><span class="yoosofan_research_actionbutton">PDF</span></a> </span> 
+  <a href="/files/yoosofan_bibliography/yoosofan_ms_thesis.ris" rel="nofollow" title="Export as RIS" ><span class="yoosofan_research_actionbutton">RIS</span></a>
   <a href="/files/yoosofan_bibliography/yoosofan_ms_thesis.bib" rel="nofollow" title="Export to BibTeX" target=""><span class="yoosofan_research_actionbutton">BibTeX</span></a> </span>
   </div><div>
           پروژه کارشناسی: طراحی و پیاده سازی مفسر برای زبان برنامه نویسی REXX تحت سیستم عامل DOS، زیر نظر دکتر توحیدی ، دانشگاه شیراز

@@ -45,7 +45,7 @@ Ahmad Yoosofan
 
    <br /><br /><br /><br />
 
-Last update of this document: December 10, 2018.
+Last update of this document: Januray 5, 2019.
 
 ===================================================================================================
 
@@ -78,7 +78,7 @@ Research Interest
 
 Education
 ###################################################################################################
-* MSc: Computer Engineering (Artificial Intelligence) from September 22, 2000 till September 22, 2003. `MS College Place <https://www.openstreetmap.org/way/218852074>`_ , `MS college Place by Name <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . My MS Thesis: "A Farsi Text Information Retrieval System Based on Latent Semantic Indexing". Supervisors: Dr.Mansor Zolghadri and Dr.Hasan Eghbali. Advisor: Dr.Jalal Rahimian.
+* MSc: Computer Engineering (Artificial Intelligence) from September 22, 2000 till September 22, 2003. `MS College Place <https://www.openstreetmap.org/way/218852074>`_ , `MS college Place by Name <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . My MS Thesis: "A Farsi Text Information Retrieval System Based on Latent Semantic Indexing". Supervisors: Dr.Mansor Zolghadri and Dr.Hasan Eghbali. Advisor: Dr.Jalal Rahimian. `PDF of my thesis <http://yoosofan.github.io/files/MSc_Thesis/ahmad.yoosofan.msThesis.pdf>`_
 * BSc: Computer Engineering (Hardware) from September 23, 1994 till September 22, 1999.  `MS College Place <https://www.openstreetmap.org/way/218852074>`_ , `MS college Place by Name <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . My BS project: "Rexx interpreter implementation on DOS". Supervisor: Dr.Ahmad Towhidi. https://github.com/yoosofan/REXX 
 * High School: Montazeri. NajafAbad, Esfahan, Iran from September 23, 1990 till July 6, 1994. `High School <https://www.openstreetmap.org/#map=19/32.64463/51.35578>`_
 
@@ -130,12 +130,11 @@ Book
 Journal Papers
 ###################################################################################################
 #. Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security, Vol.14 No.11 2016. `Jornal Issue(14-no-11-nov-2016) <https://sites.google.com/site/ijcsis/vol-14-no-11-nov-2016>`_  , `PDF 139511 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf>`_  ,  `Academia 30936299 <https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran>`_ , `IJCSIS Journal <https://sites.google.com/site/ijcsis/Home>`_ .
-#.  Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015.
-#. Yoosofna, Ahmad; Elham yousefian. Clustering provinces in Iran Based on Digital Divide Metric Using the K-means Algorithm. Soft Computing journal. Vol.1 No.1 PP 32-45. 2013. `Page of CPIBDMUKA2013 <http://scj.kashanu.ac.ir/article-1-21-en.html>`_ , `PDF of CPIBDMUKA2013 <http://scj.kashanu.ac.ir/article-1-21-en.pdf>`_ .
-#. Yoosofan, Ahmad; Namazi-Fard, Mostafa; "Automatic Graph Construction of Periodic Open Tubulene((5,6,7)3) and computation of its Wiener, PI, and Szeged indices". IJMC (Iranian Journal of Mathematical Chemistry). Vol 3, No 1. February 2012.
+#. Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015. `<http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640>`_ , 
+#. Yoosofna, Ahmad; Elham yousefian. Clustering provinces in Iran Based on Digital Divide Metric Using the K-means Algorithm. Soft Computing journal. Vol.1 No.1 PP 32-45. 2013. `Page of CPIBDMUKA2013 <http://scj.kashanu.ac.ir/article-1-21-en.html>`_ , `PDF of CPIBDMUKA2012 <http://yoosofan.github.io//files/yoosofan_bibliography/journal/139104.Centralisation.scj.1_1_p32.pdf>`_ .
+#. Yoosofan, Ahmad; Namazi-Fard, Mostafa; "Automatic Graph Construction of Periodic Open Tubulene((5,6,7)3) and computation of its Wiener, PI, and Szeged indices". IJMC (Iranian Journal of Mathematical Chemistry). Vol 3, No 1. February 2012. `Page of NJIMC2012 <http://ijmc.kashanu.ac.ir/article_5221_853.html>`_ , `PDF of NJIMC2012 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139011.Nano_Graph.ijmc.3_1_Yoosofan_81_94.pdf>`_ , `RIS of NJIMC2012 <http://yoosofan.kashanu.ac.ir/files/yoosofan_bibliography/journal/ijmc/ijmc2012.ris>`_ , `BibTeX of NJIMC2012 <http://yoosofan.kashanu.ac.ir/files/yoosofan_bibliography/journal/ijmc/ijmc2012.bib>`_ .
 #. Yoosofan, Ahmad, Ali Rahimi, Mohammad Rastgoo, and Mohammad mahdi Mojiri. "Automatic Stemming of Some Arabic Words Used in Persian Through Morphological Analysis Without a Dictionary." World Applied Sciences Journal 8, no. 9 (2010): 1078-1085.
 #. Yoosofan, ahmad, and alireza Ashrafi. “Automatic generation of adjacency matrix of single-wall carbon nanohorn.” OPTOELECTRONICS AND ADVANCED MATERIALS – RAPID COMMUNICATIONS 4, no. 6 (June 2010): 900-901.
-#. A`.` yoosofan and A`.` Ashrafi, “Calculation of Wiener index  for some single-wall carbon nanohorn,” The 2nd conference and workshop on mathematical chemistry (SCWMC 09),  Kashann , Iran: 2009.
 
 ===================================================================================================
 
@@ -147,6 +146,7 @@ Conference Papers
 #. حاجی رضایی،علی؛ یوسفان، احمد. «طراحی و پیاده سازی وب سایت تور مجازی موزه بر پایهٔ تصاویر پانوراما». چهارمین همایش موزهٔ علوم و فناوری. موزه علوم و فناوری ایران، تهران:  آبان ۱۳۹۳.
 #. منعمی بیدگلی،عطیه؛ یوسفان، احمد؛ خدمتی، ابوالفضل؛ «داده کاوی بر روی پایگاه دادهٔ آموزش دانشگاه کاشان به کمک روش GRI و تحلیل نتیجه‌ها». هفتمین کنفرانس داده کاوی ایران. دانشگاه تهران: ۹۲/۰۹/۱۹ تا ۹۲/۰۹/۲۰.
 #. یوسفان، احمد؛ قوانلو قاجار، فاطمه؛ حمیدی، سمیه؛ آیت، سیما؛ «شناسایی قانون‌های وابستگی میان داروها در نسخه‌های یک داروخانه به کمک روش Apriori». پنجمین کنفرانس ملی مهندسی برق و کامپیوتر. دانشگاه آزاد گناباد: ۹۲/۰۵/۲۹ تا ۹۲/۰۵/۳۱.
+#. A`.` yoosofan and A`.` Ashrafi, “Calculation of Wiener index  for some single-wall carbon nanohorn,” The 2nd conference and workshop on mathematical chemistry (SCWMC 09),  Kashann , Iran: 2009.
 #. یوسفان، احمد؛ طباطبایی، صدیقه؛ «پیاده سازی یک غلط یاب املایی فارسی تحت وب». نخستین کنفرانس بین المللی پردازش خط و زبان فارسی. دانشگاه سمنان: ۹۱/۶/۱۵ تا ۹۱/۶/۱۶.
 #. میرزایی، فائزه؛ بیگلری، محسن؛ یوسفان، احمد؛ بیات، عماد؛ «طراحی و پیاده سازی یک سامانه ترجمه فارسی به انگلیسی». نخستین کنفرانس بین المللی پردازش خط و زبان فارسی. دانشگاه سمنان: ۹۱/۶/۱۵ تا ۹۱/۶/۱۶.
 #. `Yoosofan, Ahmad; Moghadasian, Masoud; Babaee, Reza; "Comparing results of selecting different field combinations in IDS based on decision tree algorithm". IKT2012.` دانشگاه صنعتی بابل : ۱۳۹۱/۳/۲ تا ۱۳۹۱/۳/۴
@@ -168,7 +168,7 @@ Executive Record
 ###################################################################################################
 #. Head of Computer Engineering Department of University of Kashan. From 2008 to 2016.
 #. Member of Council of Virtual and distant Education of the University of Kashan. From 2009 to 2016.
-#. Organizer of the First Election of Syndicate of Faculties of the University of Kashan. Fall 2013.
+#. Organizer of the First Election of Syndicate of Faculties of the University of Kashan. Fall 2014.
 #. Organizer and Scientific Committee of the First to Fifth Annual National Students Programming Contest (ACM). From 2008 to 2013. (Unfortunately after the fifth contest, this contest was stopped being held because of some problems.)
 #. Unofficial advoisor of several companies and committes all around Iran.
 
@@ -176,8 +176,8 @@ Executive Record
 
 Teaching
 ###################################################################################################
-#. TA of Fundamental programming, Advanced Programming, Object Oriented Programming and Operating systems When I was BS. Student under supervision of Dr.Towhidi.
-#. Teaching several courses including Fundamental programming, Advanced Programming, Operating systems, Compiler, Database, File structure, Data Structure, Internet Engineering, Advanced Database, Modeling and Performance Evaluation, Operating Systems Laboratory and Computer Laboratory, Formal Language and Automata
+#. TA of Fundamental of programming, Advanced Programming, Object Oriented Programming and Operating systems When I was BS. Student under supervision of Dr.Towhidi.
+#. Teaching several courses including Fundamental of programming, Advanced Programming, Operating systems, Compiler, Database Systems, File structure, Data Structure, Internet Engineering, Advanced Database, Modeling and Performance Evaluation, Operating Systems Laboratory and Computer Laboratory, Formal Language and Automata
 
 
 ===================================================================================================
