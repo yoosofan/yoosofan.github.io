@@ -24,6 +24,8 @@
     * `<http://www.cplusplus.com>`_
     * `<http://cppreference.com>`_
     * `<http://www.tutorialspoint.com/cplusplus/>`_
+    * https://www.learncpp.com
+    * https://www.studytonight.com/cpp/
     * `<http://stackoverflow.com/questions/tagged/c%2b%2b>`_
     * `<http://coliru.stacked-crooked.com/>`_
     * `<https://github.com/fffaraz/awesome-cpp>`_
