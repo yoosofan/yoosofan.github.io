@@ -15,4 +15,4 @@ Also you may not able to send any email outside of Iran unless you use the chmai
 
 Unfortunately, mail server of kashanu is not working too.
 
-Hope you understand what situation we (Iranian) are in. The government filter the entire outside world entirely.
+Hope you understand what situation we (Iranian) are in. The government filter internet and we have an internal country network while even many websites hosted in Iran have been banned too.
