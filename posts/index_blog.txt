@@ -1,0 +1,12 @@
+.. title: سایت جدید
+.. slug: index_blog
+.. date: 2015-08-15 19:42:13 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+سایت جدید بر پایهٔ `نیکولا` راه اندازی شد.
+
+.. _نیکولا:  .. _Nikola: https://getnikola.com

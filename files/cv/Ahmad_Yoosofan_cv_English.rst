@@ -184,9 +184,21 @@ Teaching
 
 Supervisor/Advisor
 ###################################################################################################
-* Supervisor of 92 Bachelor Students Final Projects
-* Advisor of 3 Ms students.
-* Supervisor of "Hand Gesture Recognition using Deep Convolutional and Recurrent Neural Networks" By Fallah Obaid. Advisor: Amin Babadi.
+Supervisor of Final Projects of Bachelor Students
+***************************************************
+Supervisor of 93 Bachelor Students Final Projects
+
+Advisor of Ms students
+**************************
+#. "Enhancement of optical Spectrum and terahertz waves Generation efficiency in dielectric waveguide". Mitra Narimani. Supervisor: Dr.Hamid Reza Zangeneh. Advisor: Ahmad Yoosofan. 2011.
+#. "Sumulation of Foraging in Swarm Robotic System Base on Artificial Bee Colony Algorithm". Hoda Yamani. Supervisor: Dr.Hossein Ebrahimpour Komleh. Advisor: Ahmad Yoosofan. 2013.
+#. "Parallel XML Querying and Updating with Access Control using Map-Reduce Mechanism". Hadi Nezamabadi. Supervisor: Dr.Meghdad Mirabi. Advisor: Ahmad Yoosofan. 2016.
+#. "A Model for Sentiment Classification in Document-level based on Rhetorical Structure Theory". Shima Sayyar. Supervisor: Dr.Ayub Bagheri. Advisor: Ahmad Yoosofan. 2019.
+#. "A novel blockchain-based model for vehicular networks to improve scalability and trustiness". ّFatemeh Ghovanlooy Ghajar.  Supervisor: Dr.Javad Salimi Sartakhti. Advisor: Ahmad Yoosofan. 2019
+
+Suervisory of Ms students
+**************************
+#. "Hand Gesture Recognition using Deep Convolutional and Recurrent Neural Networks" By Fallah Obaid. Supervisor: Ahmad Yoosofan. Co-Supervisor: Amin Babadi. 2018.
 
 ===================================================================================================
 

@@ -1,0 +1,166 @@
+.. title: مبانی برنامه نویسی
+.. slug: fp
+.. date: 2015-08-12 22:55:01 UTC+04:30
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+
+کتاب‌های مبانی الگوریتم نویسی
+==============================================================================
+
+*  نخستین درس در علم كامپیوتر (جلد اول)؛ ناشر : مركز نشر دانشگاهی، نویسندگان: فورسایت، كینان، اورگانیك، ستنبرگ؛   ترجمه : احمد توحیدی، محمد روغنی، ناصر قاسم آقایی، مصطفی كرمانی؛ ویراسته : عفت خضرائی، ابراهیم نقیب‌زاده مشایخ؛ تاریخ اولین چاپ : 1377؛ چاپ آخر : چاپ سوم - 1389.
+*  الگوریتم و فلوچارت؛ شهریار رسولی؛ نشر: ارکان دانش (30 مهر، 1390).
+
+کتاب‌های زبان C
+==============================================================================
+
+*  مبانی کامپیوتر و برنامه نویسی به زبان C؛ محمد داورپناه جزی؛ نشر: دانشگاه صنعتی اصفهان، دفتر انتشارات (21 دی، 1390).
+*  نظریه و مسائل برنامه نویسی به زبان ‭ C‬(سی)؛ نوشته بایرون اس؛ گاتفرید؛ ترجمه خدایار صادقی؛ ویراستار امیربانو قاسمی‌نژاد؛ قم: سازمان تحقیقات، آموزش و ترویج کشاورزی؛ ۱۳۷۱
+
+کامپایل و اجرای برخط
+==============================================================================
+.. class:: yoosofan-change-ltr
+
+    *	`<http://www.tutorialspoint.com/compile_c_online.php>`_
+    *	`<http://cpp.sh/>`_
+    *	`<http://codepad.org/>`_
+    *	`<https://www.jdoodle.com/c-online-compiler>`_
+    *	`<http://ideone.com>`_
+    *	`<https://www.codechef.com/ide>`_
+    *	`<http://webcompiler.cloudapp.net/>`_
+    *	`<https://codepad.remoteinterview.io/GladnessUrgentCactusCostume>`_
+    *	`<http://www.onlinecompiler.net/>`_
+    *	`<http://getprogramcode.com/compiler/compile-c-programs-online.html>`_
+    *	`<http://coliru.stacked-crooked.com/>`_
+    *	`<https://ide.geeksforgeeks.org/>`_
+    *	`<https://www.onlinegdb.com/online_c_compiler>`_
+    *	`<https://www.remoteinterview.io/online-c-compiler>`_
+    *	`<http://www.compileonline.com/compile_c_online.php>`_
+    *	`<https://www.codechef.com/ide>`_
+    *	`<https://www.beta.browxy.com/>`_
+    *	`<http://cpp.sh/>`_
+    *	`<compiler.run>`_
+
+کامپایلرها
+==============================================================================
+
+در این بخش فهرست تعدادی از کامپایلرهای مناسب برای انجام تمرین‌ها و پروژه‌های درسی آورده شده است.
+
+*  `gcc <http://gcc.gnu.org>`_ :  مشهورترین کامپایلر متن باز و رایگان است که بر روی سیستم عامل‌های گوناگون می‌تواند نصب شود و اغلب به صورت پیش فرض در انواع لینوکس‌ها نصب شده است. در `orwelldevcpp`_ ، `codeblocks`_ و `devcpp`_  گذاشته شده است و به سادگی می‌توان با آن کار کرد.    برای کار به صورت خط فرمان در ویندوز  `mingw <http://www.mingw.org>`_ و `cygwin <http://cygwin.com>`_  ساخته شده است.
+*  `clang <https://clang.llvm.org/>`_
+*  `digitalmars <http://www.digitalmars.com/download/freecompiler.html>`_
+*  `djgpp (for DOS) <http://www.delorie.com/djgpp/>`_
+*  `pcc <http://pcc.ludd.ltu.se>`_
+*  `open watcom <http://www.openwatcom.org/index.php/Main_Page>`_
+*  `Amsterdam Compiler Kit <http://tack.sourceforge.net>`_
+*  `open64 <http://www.open64.net>`_
+*  `Borland Cpp 5.5 <http://forms.embarcadero.com/forms/BCC32CompilerDownload>`_
+
+فهرستی از کامپایلرها
+
+*  `<https://en.wikipedia.org/wiki/List_of_compilers#C_compilers>`_
+
+ویرایشگرها
+==============================================================================
+
+*  `geany <http://www.geany.org>`_ : `نسخهٔ قابل حمل آن در ویندوز <http://portableapps.com/apps/development/geany_portable>`_
+*  `notepadpp <http://www.notepad-plus-plus.org/>`_ :  این ویرایشگر فقط در ویندوز است ولی به دلیل این که از امکانات پایهٔ ویندوز کمک گرفته است به سادگی می‌تواند در wine در لینوکس نیز اجرا شود. نسخهٔ قابل حمل آن `notepadpp_portable <http://portableapps.com/apps/development/notepadpp_portable>`_ است.
+*  `kate <http://kate-editor.org>`_
+
+
+
+محیط‌های یکپارچهٔ اجرا (IDE)
+==============================================================================
+
+یکی از مشکل‌هایی که اغلب برنامه نویسان در مبانی برنامه نویسی با آن روبرو هستند به کار بردن ابزارهایی است که بتواند کار آنها را ساده‌تر نماید و به سادگی بتوانند پروژه‌های خود را انجام دهند. البته گزینهٔ شخصی من برای نوشتن کدهای ساده به کار بردن ترکیب `geany`_ به عنوان ویرایشگر و کامپایلر `gcc`_ است.
+
+به هر حال چون بیشتر برنامه نویسان مبانی علاقه‌مند هستند که بتوانند تمرین‌ها و پروژه‌های خود را انجام دهند در این بخش پیشنهادهایی به آنها می‌شود که به سادگی بتوانند کار خود را انجام دهند.
+
+یکی از مسأله‌هایی که دانشجویان به آن توجه ندارند این است که نوشتن برنامه‌ها با ابزارهایی که روی رایانهٔ آنها نصب می‌شود و اغلب به کار می‌برند این است که شاید دیگران آن ابزارها را به کار نبرند و از سوی دیگر کسی که می‌خواهد برنامهٔ آنها را تحویل بگیرد نتواند آنها اجرا کند زیرا استاندارد را رعایت نکرده‌اند. بنابراین پیشنهاد می‌شود به صورت استاندارد برنامه نویسی کنند تا برنامهٔ آنها بتواند در هر جایی اجرا شود. همچنین به این توجه نمایند که در هنگام تحویل پروژه‌های‌شان بتوانند به سادگی برنامهٔ خود را بر روی رایانه‌هایی تحویل دهند که نیاز است که کامپایلر روی آنها نیست و باید در همان زمان برنامه را روی آن رایانه تغییر دهند و تحویل دهند. بنابراین پیشنهادهایی که برای نوشتن کد به کمک محیط‌های مجتمع اجرا دارم به ترتیب به قرار زیر است:
+
+*  `orwelldevcpp <http://sourceforge.net/projects/orwelldevcpp/>`_ نسخه‌های تازه‌تری از  `DevCpp`_   است. نسخهٔ قابل حمل آن در `Portable orwelldevcpp <http://sourceforge.net/projects/orwelldevcpp/files/Portable%20Releases/>`_  گذاشته شده است.
+*  `codeblocks <http://www.codeblocks.org>`_  این نرم افزار به خوبی بر روی سیستم عامل‌های گوناگون نصب می‌شود و می‌تواند کار خود را انجام دهد. در بخش `Downloads <http://www.codeblocks.org/downloads>`_  می‌توان نسخه‌‌های گوناگون آن را اجرا نمود.
+*  `Ch <http://www.softintegration.com>`_ :  یکی از محیط‌های جالب یکپارچه برنامه نویسی است که شاید بهترین ویژگی آن مفسر بودن آن برای زبان C است که به خوبی مشکل‌های کار با اشاره‌گرها را گزارش می‌کند و البته بدی آن این است که پس از گزارش اخطار برای یک اشاره‌گر یا بیرون زدن از آرایه برای آن حافظه‌ای اختصاص می‌دهد تا برنامه کار خود را ادامه دهد و شاید برنامه نویس متوجه نشود که مشکلی برایش پیش آمده است.   این نرم افزار توانمند بر روی سیستم عامل‌های گوناگون اجرا می‌شود و دارای نسخه‌های گوناگونی است. نسخه‌ای که برای انجام کارهای آموزشی بسیار مناسب است ولی نمی‌توان آن را برای کارهای تجاری به کار برد نسخهٔ `student <http://www.softintegration.com/products/chstudent/>`_   آن است که همراه ویرایشگر `ChIDE <http://www.softintegration.com/docs/ch/chide/>`_  است.
+*  `Qt Creator <http://qt-project.org>`_
+*  `kdevelop <http://kdevelop.org>`_
+*  `cbuilder <http://www.embarcadero.com/products/cbuilder>`_
+*  `DevCpp <http://www.bloodshed.net/devcpp.html>`_ :   یکی از محیط‌های اجرای یکپارچه مناسب دیگر است.ولی چند سال است که به روز نشده است و البته مشکل‌هایی دارد. گمان می‌کنم 7پشتیبانی این نرم افزار از conio.h به دلیل استاندارد نبودن چندان خوب نیست.
+*  `Visual Studio Express <http://www.microsoft.com/visualstudio/eng/products/visual-studio-express-products>`_ :  فقط برای سیستم عامل ویندوز است و البته نرم افزار سنگینی است که روی رایانه‌های قدیمی نمی‌تواند اجرا شود.
+*  `xcode <https://developer.apple.com/xcode/>`_ :  فقط برای سیستم عامل‌های شرکت مکینتاش است.
+
+
+پردازنده‌های ویژه
+==============================================================================
+
+در این بخش ابزارها و کامپایلرهایی گذاشته می‌شود که برای پردازنده‌ها و کنترلگرهای خاص به زبان C آماده شده‌اند.
+
+.. class:: yoosofan-change-ltr
+
+    *  `SDCC <http://sdcc.sourceforge.net>`_
+
+برنامه‌های نمونه
+==============================================================================
+
+*  `برنامهٔ ضرب دو عدد به کمک ماتریس(این برنامه می‌تواند در فاکتوریل عددها به کار برده شود)  </files/course/fp/big_number_multiplication.c>`_
+*  `برنامهٔ جمع دو ماتریس ذخیره شده در یک پروندهٔ متنی  </files/course/fp/add2matrixInFile.zip>`_
+*  `راه حل دیگری برای جمع دو ماتریس ذخیره شده در یک پروندهٔ متنی با کمک گرفتن از تعدادی از تابع‌های زبان c </files/course/fp/Add2matrixInFile_use_functions.zip>`_
+
+.. class:: yoosofan-change-ltr
+
+  .. include:: files/files/course/fp/fp01.c
+     :code: c
+     :number-lines:
+
+کامپایلر C و C++ به جاوااسکریپت
+==============================================================================
+
+*  `Emscripten <http://kripken.github.io/emscripten-site/>`_ : با این ابزار بسادگی می‌توانید برنامه‌های به زبان C را به زبان جاوااسکریپت تبدیل کنید.
+*  `Cheerp <http://leaningtech.com/cheerp/>`_ : این ابزار فقط برای زبان C++ است.
+
+
+
+وب‌گاه‌هایی دربارهٔ زبان C
+==============================================================================
+.. class:: yoosofan-change-ltr
+
+    * `<https://www.guru99.com/c-programming-tutorial.html>`_
+    * `<http://en.cppreference.com/w/c>`_
+    * `<http://www.tutorialspoint.com/cprogramming/>`_
+    * `<http://www.tutorialspoint.com/learn_c_by_examples/>`_
+    * `<http://www.cquestions.com/>`_
+    * `<http://www.programiz.com/c-programming>`_
+    * `<https://www.includehelp.com/c/>`_
+    * `<https://www.geeksforgeeks.org/c-programming-language/>`_
+    * `<http://www.csitschools.com/c-programming-language/>`_
+    * `Standard of C <http://www.open-std.org/jtc1/sc22/wg14/>`_
+    * `List of links of C <http://www.lysator.liu.se/c/>`_
+    * `<https://www.cprogramming.com/tutorial/c-tutorial.html>`_
+    * `<https://www.studytonight.com/c/>`_
+    * `<https://www.dummies.com/programming/c/>`_
+    * `<https://beginnersbook.com/2015/02/simple-c-programs/>`_
+    * `<https://www.codingunit.com/category/c-tutorials>`_
+    * `<https://www.codingunit.com/category/c-language-reference>`_
+    * `<https://www.dyclassroom.com/c/c-introduction>`_
+    * `<https://www.c-lang.thiyagaraaj.com/home>`_
+    * `<https://study.com/academy/course/computer-science-111-programming-in-c.html>`_
+    * `<http://www.c4learn.com/learn-c-programming-language/>`_
+    * `<https://en.wikibooks.org/wiki/C_Programming>`_
+    * `<https://www.arduino.cc/reference/en/>`_
+    * `<http://www.atnyla.com/library/c-program/>`_
+    * `<https://www.w3schools.in/category/c-tutorial/>`_
+    * `<https://fresh2refresh.com/c-programming/>`_
+    * `<https://codeforwin.org/2017/08/introduction-c-programming.html>`_
+    * `<http://stackoverflow.com/questions/tagged/c>`_
+    * `standard library <http://www.tutorialspoint.com/c_standard_library/index.htm>`_
+    * `gnu c manual <http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html>`_
+    * `C programming language <https://en.wikipedia.org/wiki/C_%28programming_language%29>`_
+    * `<https://www.mycplus.com/category/tutorials/c-programming-tutorials/>`_
+    * `IEEE-754 (IEEE rounding double numbers standard) <http://babbage.cs.qc.cuny.edu/IEEE-754/>`_
+
+*   `آموزش زبان C <https://sourcesara.com/c-programming-tutorial/>`_
+*   `ویکی‌بوک  <https://fa.wikibooks.org/wiki/زبان_برنامه_نویسی_سی/>`_
+*	`برنامه نویس <http://barnamenevis.org/forumdisplay.php?80-برنامه-نویسی-با-C&s=9935445daf65608c61bf41df07e2bc21>`_
+
+
