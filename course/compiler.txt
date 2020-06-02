@@ -43,6 +43,10 @@
   *  `<https://github.com/liuxue1990/python-ll1-parser-generator>`_
   *  `<http://www.gnu.org/software/bison/bison.html>`_
   *  `<http://www.cocolab.com>`_
+  * http://www.fit.vutbr.cz/~ikocman/llkptg/
+  * https://github.com/rkocman/LLk-Parsing-Table-Generator
+  * http://jsmachines.sourceforge.net/machines/ll1.html , http://jsmachines.sourceforge.net/machines/ll1.html , https://sourceforge.net/projects/jsmachines/
+  * http://hackingoff.com/compilers/ll-1-parser-generator
   *  `LISA <http://labraj.feri.um.si/lisa/>`_  
   *  `<https://wiki.python.org/moin/LanguageParsing>`_
   *  `<http://pages.cpsc.ucalgary.ca/~aycock/spark>`_

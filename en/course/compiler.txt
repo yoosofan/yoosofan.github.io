@@ -33,7 +33,7 @@ Tools
 ======
 
   *  `PLY (Python based) <http://www.dabeaz.com/ply/>`_
-  *  `JS/CC <http://jscc.phorward-software.com/>`_
+  *  `JS/CC <http://jscc.brobston.com>`_ ,  https://github.com/abrobston/jscc
   *  `jison (javascript based) <http://zaach.github.io/jison/>`_
   *  `antlr (java based) <http://www.antlr.org>`_
   *  `Quex (c/c++) <http://quex.sourceforge.net/>`_  
@@ -43,6 +43,10 @@ Tools
   *  `<https://github.com/liuxue1990/python-ll1-parser-generator>`_
   *  `<http://www.gnu.org/software/bison/bison.html>`_
   *  `<http://www.cocolab.com>`_
+  * http://www.fit.vutbr.cz/~ikocman/llkptg/
+  * https://github.com/rkocman/LLk-Parsing-Table-Generator
+  * http://jsmachines.sourceforge.net/machines/ll1.html , https://sourceforge.net/projects/jsmachines/
+  * http://hackingoff.com/compilers/ll-1-parser-generator
   *  `LISA <http://labraj.feri.um.si/lisa/>`_
   *  `<https://wiki.python.org/moin/LanguageParsing>`_
   *  `<http://pages.cpsc.ucalgary.ca/~aycock/spark>`_
