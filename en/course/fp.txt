@@ -22,25 +22,27 @@ C books
 Online edit, compile, and run
 ==============================================================================
 
-*	`<http://www.tutorialspoint.com/compile_c_online.php>`_
-*	`<http://cpp.sh/>`_
-*	`<http://codepad.org/>`_
-*	`<https://www.jdoodle.com/c-online-compiler>`_
-*	`<http://ideone.com>`_
-*	`<https://www.codechef.com/ide>`_
-*	`<http://webcompiler.cloudapp.net/>`_
-*	`<https://codepad.remoteinterview.io/GladnessUrgentCactusCostume>`_
-*	`<http://www.onlinecompiler.net/>`_
-*	`<http://getprogramcode.com/compiler/compile-c-programs-online.html>`_
-*	`<http://coliru.stacked-crooked.com/>`_
-*	`<https://ide.geeksforgeeks.org/>`_
-*	`<https://www.onlinegdb.com/online_c_compiler>`_
-*	`<https://www.remoteinterview.io/online-c-compiler>`_
-*	`<http://www.compileonline.com/compile_c_online.php>`_
-*	`<https://www.codechef.com/ide>`_
-*	`<https://www.beta.browxy.com/>`_
-*	`<http://cpp.sh/>`_
-*	`<compiler.run>`_
+* `<http://www.tutorialspoint.com/compile_c_online.php>`_
+* `<http://cpp.sh/>`_
+* https://godbolt.org
+* https://cppinsights.io
+* `<http://codepad.org/>`_
+* `<https://www.jdoodle.com/c-online-compiler>`_
+* `<http://ideone.com>`_
+* `<https://www.codechef.com/ide>`_
+* `<http://webcompiler.cloudapp.net/>`_
+* `<https://codepad.remoteinterview.io/GladnessUrgentCactusCostume>`_
+* `<http://www.onlinecompiler.net/>`_
+* `<http://getprogramcode.com/compiler/compile-c-programs-online.html>`_
+* `<http://coliru.stacked-crooked.com/>`_
+* `<https://ide.geeksforgeeks.org/>`_
+* `<https://www.onlinegdb.com/online_c_compiler>`_
+* `<https://www.remoteinterview.io/online-c-compiler>`_
+* `<http://www.compileonline.com/compile_c_online.php>`_
+* `<https://www.codechef.com/ide>`_
+* `<https://www.beta.browxy.com/>`_
+* `<http://cpp.sh/>`_
+* `<compiler.run>`_
 
 Compilers
 ==============================================================================
@@ -60,6 +62,15 @@ Compilers
 List of compilers
 
 *  `<https://en.wikipedia.org/wiki/List_of_compilers#C_compilers>`_
+
+Windows
+
+Pre-Built Binaries:
+
+https://releases.llvm.org/download.html
+
+https://github.com/llvm/llvm-project/releases/
+
 
 Editors
 ==============================================================================

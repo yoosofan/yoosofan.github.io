@@ -23,25 +23,27 @@
 ==============================================================================
 .. class:: yoosofan-change-ltr
 
-    *	`<http://www.tutorialspoint.com/compile_c_online.php>`_
-    *	`<http://cpp.sh/>`_
-    *	`<http://codepad.org/>`_
-    *	`<https://www.jdoodle.com/c-online-compiler>`_
-    *	`<http://ideone.com>`_
-    *	`<https://www.codechef.com/ide>`_
-    *	`<http://webcompiler.cloudapp.net/>`_
-    *	`<https://codepad.remoteinterview.io/GladnessUrgentCactusCostume>`_
-    *	`<http://www.onlinecompiler.net/>`_
-    *	`<http://getprogramcode.com/compiler/compile-c-programs-online.html>`_
-    *	`<http://coliru.stacked-crooked.com/>`_
-    *	`<https://ide.geeksforgeeks.org/>`_
-    *	`<https://www.onlinegdb.com/online_c_compiler>`_
-    *	`<https://www.remoteinterview.io/online-c-compiler>`_
-    *	`<http://www.compileonline.com/compile_c_online.php>`_
-    *	`<https://www.codechef.com/ide>`_
-    *	`<https://www.beta.browxy.com/>`_
-    *	`<http://cpp.sh/>`_
-    *	`<compiler.run>`_
+    * `<http://www.tutorialspoint.com/compile_c_online.php>`_
+    * `<http://cpp.sh/>`_
+    * https://godbolt.org
+    * https://cppinsights.io
+    * `<http://codepad.org/>`_
+    * `<https://www.jdoodle.com/c-online-compiler>`_
+    * `<http://ideone.com>`_
+    * `<https://www.codechef.com/ide>`_
+    * `<http://webcompiler.cloudapp.net/>`_
+    * `<https://codepad.remoteinterview.io/GladnessUrgentCactusCostume>`_
+    * `<http://www.onlinecompiler.net/>`_
+    * `<http://getprogramcode.com/compiler/compile-c-programs-online.html>`_
+    * `<http://coliru.stacked-crooked.com/>`_
+    * `<https://ide.geeksforgeeks.org/>`_
+    * `<https://www.onlinegdb.com/online_c_compiler>`_
+    * `<https://www.remoteinterview.io/online-c-compiler>`_
+    * `<http://www.compileonline.com/compile_c_online.php>`_
+    * `<https://www.codechef.com/ide>`_
+    * `<https://www.beta.browxy.com/>`_
+    * `<http://cpp.sh/>`_
+    * `<compiler.run>`_
 
 کامپایلرها
 ==============================================================================
@@ -61,6 +63,14 @@
 فهرستی از کامپایلرها
 
 *  `<https://en.wikipedia.org/wiki/List_of_compilers#C_compilers>`_
+
+ویندوز
+
+Pre-Built Binaries:
+
+https://releases.llvm.org/download.html
+
+https://github.com/llvm/llvm-project/releases/
 
 ویرایشگرها
 ==============================================================================
@@ -161,6 +171,6 @@
 
 *   `آموزش زبان C <https://sourcesara.com/c-programming-tutorial/>`_
 *   `ویکی‌بوک  <https://fa.wikibooks.org/wiki/زبان_برنامه_نویسی_سی/>`_
-*	`برنامه نویس <http://barnamenevis.org/forumdisplay.php?80-برنامه-نویسی-با-C&s=9935445daf65608c61bf41df07e2bc21>`_
+* `برنامه نویس <http://barnamenevis.org/forumdisplay.php?80-برنامه-نویسی-با-C&s=9935445daf65608c61bf41df07e2bc21>`_
 
 
