@@ -7,6 +7,7 @@
 .. description: 
 .. type: text
 
+Almost all videos of my online classes are in `my youtube <https://www.youtube.com/yoosofan>`_
 
 *  `Fundumental of Programming <fp.html>`_
 *  `Advanced Programming(C++) <cpp.html>`_

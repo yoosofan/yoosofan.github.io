@@ -25,6 +25,26 @@ Publication
 
   <div><ol>
   <li>
+    Falah Obaid, Amin Babadi, Ahmad Yoosofan. "Hand Gesture Recognition in Video Sequences Using Deep Convolutional and Recurrent Neural Networks". Applied Computer Systems, Vol.25 No.1 2020. https://doi.org/10.2478/acss-2020-0007
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/journal/Hand_Gesture_Recognition_in_Video_Sequences_Using_Deep_Convolutional_and_Recurrent_Neural_Networks__Applied Computer_Systems__Vol25No1__2020.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  <a href="https://doi.org/10.2478/acss-2020-0007" rel="nofollow" title="Paper Page" ><span class="yoosofan_research_actionbutton">Paper Page</span></a>
+  </span>
+  </li>
+
+  <li>
+  احمد یوسفان،‌ دانیال ابراهیم‌زاده، مسعود عباسیان. «استخراج، بررسی و مقایسه باهم آیی کلمه‌ها از متن خبرهای وب‌گاه انگلیسی رادیوی صدا و سیما». سومین کنفرانس ملی کامپیوتر، فناوری اطلاعات و کاربردهای هوش مصنوعی. اهواز، دانشگاه شهید چمران: بهمن ۱۳۹۸.
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/1398_extracting_collocation_irib_12550.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  </span></li>
+
+  <li>
+  شیما سیار،‌ یعقوب باقری، احمد یوسفان. «تجزیه و تحلیل احساسات متن با استفاده از نظریهٔ ساختار بیانی».  بیست و پنجمین کنفرانس بین المللی کامپیوتر انجمن کامپیوتر ایران . تهران: دی ۱۳۹۸
+  <br /><span>
+  <a href="/files/yoosofan_bibliography/conference/1398.CSICC2020_056.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>
+  </span></li>
+
+  <li>
   ابراهیم‌زاده،‌دانیال؛ ملااحمدی، محمد؛ یوسفان، احمد. «استخراج باهم‌آیی‌های دوتایی و سه‌تایی از پایگاه داده بزرگ بایگانی روزنامه همشهری». دومین کنفرانس ملی محاسبات توزیعی و پردازش داده‌های بزرگ. آذرشهر(آذربایجان شرقی): آبان ۱۳۹۵
   <br /><span>
   <a href="/files/yoosofan_bibliography/conference/13950825.collocation.Azarbayejan.shahid.madani.pdf" rel="nofollow" title="PDF" ><span class="yoosofan_research_actionbutton">PDF</span></a>

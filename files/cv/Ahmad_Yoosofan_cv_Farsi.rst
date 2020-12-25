@@ -33,7 +33,7 @@
 .. contents:: فهرست
    :depth: 2
 
-آخرین تاریخ به روز رسانی: ۱۵ دی ۱۳۹۷
+آخرین تاریخ به روز رسانی: ۵ دی ۱۳۹۹
 
 ===================================================================================================
 
@@ -146,6 +146,8 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 
 مقاله همایش
 ###################################################################################################
+#. احمد یوسفان،‌ دانیال ابراهیم‌زاده، مسعود عباسیان. «استخراج، بررسی و مقایسه باهم آیی کلمه‌ها از متن خبرهای وب‌گاه انگلیسی رادیوی صدا و سیما». سومین کنفرانس ملی کامپیوتر، فناوری اطلاعات و کاربردهای هوش مصنوعی. اهواز، دانشگاه شهید چمران: بهمن ۱۳۹۸.
+#. شیما سیار،‌ یعقوب باقری، احمد یوسفان. «تجزیه و تحلیل احساسات متن با استفاده از نظریهٔ ساختار بیانی».  بیست و پنجمین کنفرانس بین المللی کامپیوتر انجمن کامپیوتر ایران . تهران: دی ۱۳۹۸.
 #. ابراهیم‌زاده،‌ دانیال - ملااحمدی، محمد - یوسفان، احمد. «استخراج باهم‌آیی‌های دوتایی و سه‌تایی از پایگاه داده بزرگ بایگانی روزنامه همشهری». دومین کنفرانس ملی محاسبات توزیعی و پردازش داده‌های بزرگ. آذرشهر(آذربایجان شرقی): آبان ۱۳۹۵.
 #. رواخواه، ایمان - یوسفان، احمد. «حذف نوفه تصاویر آسمانی برای تشخیص بهتر شب اول ماه». اولین همایش ملی کامپیوتر، فناوری اطلاعات و ارتباطات اسلامی ایران. تهران: مهر ۱۳۹۴
 #. یوسفان، احمد. «بررسی برخی از نشانه‌های تمرکز گرایی در فناوری اطلاعات ایران». اولین همایش ملی کامپیوتر، فناوری اطلاعات و ارتباطات اسلامی ایران. تهران: مهر ۱۳۹۴.
@@ -173,6 +175,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 ###################################################################################################
 .. class:: ltr
 
+    #. Falah Obaid, Amin Babadi, Ahmad Yoosofan. "Hand Gesture Recognition in Video Sequences Using Deep Convolutional and Recurrent Neural Networks". Applied Computer Systems, Vol.25 No.1 2020. https://doi.org/10.2478/acss-2020-0007 , http://yoosofan.github.io/files/yoosofan_bibliography/journal/Hand_Gesture_Recognition_in_Video_Sequences_Using_Deep_Convolutional_and_Recurrent_Neural_Networks__Applied Computer_Systems__Vol25No1__2020.pdf .
     #. Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security, Vol.14 No.11 2016. `Jornal Issue(14-no-11-nov-2016) <https://sites.google.com/site/ijcsis/vol-14-no-11-nov-2016>`_  , `PDF 139511 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf>`_  ,  `Academia 30936299 <https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran>`_ , `IJCSIS Journal <https://sites.google.com/site/ijcsis/Home>`_ .
     #. Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015. `<http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640>`_ , 
     #. یوسفان, احمد؛ الهام یوسفیان. "خوشه‌بندی استان‌های ایران بر پایة معیارهای شکاف دیجیتال به کمک روش K-MEANS." مجله محاسبات نرم ۱ (۱۳۹۱): ۳۲–۴۵. `صفحهٔ مقاله  CPIBDMUKA2012 <http://scj.kashanu.ac.ir/article-1-21-fa.html>`_ ، `PDF CPIBDMUKA2012 <http://yoosofan.github.io//files/yoosofan_bibliography/journal/139104.Centralisation.scj.1_1_p32.pdf>`_ 
@@ -327,7 +330,10 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 #. خلاصه‌سازی خودکار متن تک‌سندی با کمک معیارهای امتیازدهی به جمله و بررسی اثر ترکیبی آنها توسط الگوریتم بهینه‌ساز گرگ‌های خاکستری. علی اصغر فاتحی. ۱۳۹۶.
 #. ابهام‌زدایی واژه‌های مبهم با استفاده از لیست تصمیم به کمک باهم‌آیی کلمات در متن‌های روزنامه همشهری. محمدرضا رهنما فلاورجانی. ۱۳۹۶.
 #. بررسی و محاسبه ضرایب باهم‌آیی کلمات فارسی در مجموعه روزنامه‌های همشهری و شرق ۷۷ تا ۸۵. حسین ملک محمدی شاهی‌وردی. ۱۳۹۶.
-#. «پیاده سازی نرم افزار استخراج خودکار نشانی‌ها و متن‌‌ها از وب‌گاه های گوناگون با کلمات ورودی کاربر و مشابه های آن به کمک جستجوگر گوگل». علی طباطبایی 9321170015. دی‌ماه ۱۳۹۸.
+#. «پیاده سازی نرم افزار استخراج خودکار نشانی‌ها و متن‌‌ها از وب‌گاه های گوناگون با کلمات ورودی کاربر و مشابه های آن به کمک جستجوگر گوگل». علی طباطبایی. دی‌ماه ۱۳۹۸.
+#. «سامانه مدیریت امور دارایی اداره برق کاشان». محمد ایزدی. دی‌ماه ۱۳۹۸.
+#. «سامانه مدیریت امور دارایی اداره برق کاشان». وحید سعادت‌نژاد. شهریور ۱۳۹۹
+#. «سامانه مدیریت امور دارایی اداره برق کاشان». رضا مظاهری کاشانی. شهریور ۱۳۹۹
 
 فهرست پروژه‌های کارشناسی ارشد
 ***************************************************************************************************
@@ -340,6 +346,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 
 #. استاد راهنما در پایان‌نامه‌های
     #. پایان‌نامه «Hand Gesture Recognition using Deep Convolutional and Recurrent Neural Networks». فلاح عبید. استاد مشاور: دکتر امین بابادی.
+    #. "Text Summarization by Evolutionary Strategy with Python". سحر العنزی.
 
 ===================================================================================================
 
@@ -390,8 +397,6 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 ***************************************************************************************************
 
 آشنایی و مطالعهٔ برخی از کتاب‌های گوناگون و دنبال کردن برخی از بحث‌های روز در زمینه‌های جامعه‌شناسی، روانشناسی، فلسفی و سیاسی.
-
-دیدگاه سیاسی: اقتدارگریزی (آنارشیسم)
 
 جایزهٔ بهترین بازیگر کودک نخستین (گمان کنم) دورهٔ تئاتر کشوری فجر (یا همانند) در تبریز سال ۱۳۶۰ در نمایشنامهٔ «در سوگ دولتو».
 

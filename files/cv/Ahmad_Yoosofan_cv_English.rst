@@ -45,7 +45,7 @@ Ahmad Yoosofan
 
    <br /><br /><br /><br />
 
-Last update of this document: Januray 5, 2019.
+Last update of this document: December 25, 2020.
 
 ===================================================================================================
 
@@ -129,6 +129,7 @@ Book
 
 Journal Papers
 ###################################################################################################
+#. Falah Obaid, Amin Babadi, Ahmad Yoosofan. "Hand Gesture Recognition in Video Sequences Using Deep Convolutional and Recurrent Neural Networks". Applied Computer Systems, Vol.25 No.1 2020. https://doi.org/10.2478/acss-2020-0007 , http://yoosofan.github.io/files/yoosofan_bibliography/journal/Hand_Gesture_Recognition_in_Video_Sequences_Using_Deep_Convolutional_and_Recurrent_Neural_Networks__Applied Computer_Systems__Vol25No1__2020.pdf .
 #. Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security, Vol.14 No.11 2016. `Jornal Issue(14-no-11-nov-2016) <https://sites.google.com/site/ijcsis/vol-14-no-11-nov-2016>`_  , `PDF 139511 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf>`_  ,  `Academia 30936299 <https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran>`_ , `IJCSIS Journal <https://sites.google.com/site/ijcsis/Home>`_ .
 #. Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015. `<http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640>`_ , 
 #. Yoosofna, Ahmad; Elham yousefian. Clustering provinces in Iran Based on Digital Divide Metric Using the K-means Algorithm. Soft Computing journal. Vol.1 No.1 PP 32-45. 2013. `Page of CPIBDMUKA2013 <http://scj.kashanu.ac.ir/article-1-21-en.html>`_ , `PDF of CPIBDMUKA2012 <http://yoosofan.github.io//files/yoosofan_bibliography/journal/139104.Centralisation.scj.1_1_p32.pdf>`_ .
@@ -140,6 +141,8 @@ Journal Papers
 
 Conference Papers
 ###################################################################################################
+#. احمد یوسفان،‌ دانیال ابراهیم‌زاده، مسعود عباسیان. «استخراج، بررسی و مقایسه باهم آیی کلمه‌ها از متن خبرهای وب‌گاه انگلیسی رادیوی صدا و سیما». سومین کنفرانس ملی کامپیوتر، فناوری اطلاعات و کاربردهای هوش مصنوعی. اهواز، دانشگاه شهید چمران: بهمن ۱۳۹۸.
+#. شیما سیار،‌ یعقوب باقری، احمد یوسفان. «تجزیه و تحلیل احساسات متن با استفاده از نظریهٔ ساختار بیانی».  بیست و پنجمین کنفرانس بین المللی کامپیوتر انجمن کامپیوتر ایران . تهران: دی ۱۳۹۸
 #. ابراهیم‌زاده،‌دانیال؛ ملااحمدی، محمد؛ یوسفان، احمد. «استخراج باهم‌آیی‌های دوتایی و سه‌تایی از پایگاه داده بزرگ بایگانی روزنامه همشهری». دومین کنفرانس ملی محاسبات توزیعی و پردازش داده‌های بزرگ. آذرشهر(آذربایجان شرقی): آبان ۱۳۹۵.
 #. رواخواه، ایمان؛ یوسفان، احمد. «حذف نوفه تصاویر آسمانی برای تشخیص بهتر شب اول ماه». اولین همایش ملی کامپیوتر، فناوری اطلاعات و ارتباطات اسلامی ایران. تهران: مهر ۱۳۹۴
 #. یوسفان، احمد. «بررسی برخی از نشانه‌های تمرکز گرایی در فناوری اطلاعات ایران». اولین همایش ملی کامپیوتر، فناوری اطلاعات و ارتباطات اسلامی ایران. تهران: مهر ۱۳۹۴.
@@ -186,7 +189,7 @@ Supervisor/Advisor
 ###################################################################################################
 Supervisor of Final Projects of Bachelor Students
 ***************************************************
-Supervisor of 93 Bachelor Students Final Projects
+Supervisor of 95 Bachelor Students Final Projects
 
 Advisor of Ms students
 **************************
@@ -199,6 +202,7 @@ Advisor of Ms students
 Suervisory of Ms students
 **************************
 #. "Hand Gesture Recognition using Deep Convolutional and Recurrent Neural Networks" By Fallah Obaid. Supervisor: Ahmad Yoosofan. Co-Supervisor: Amin Babadi. 2018.
+#. "Text Summarization by Evolutionary Strategy with Python". سحر العنزی.
 
 ===================================================================================================
 
@@ -249,5 +253,4 @@ Miscellaneous
 ***************************************************************************************************
 Reading, listening and watching several kinds of books, magazines, documentaries in very different areas including society, religion, psychology, philosophy, history, politics.
 
-Political View: Anarchism 
 

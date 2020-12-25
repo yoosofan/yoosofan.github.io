@@ -7,6 +7,10 @@
 .. description: 
 .. type: text
 
+تقریبا همهٔ کلاس‌های برخطم را در کانال 
+`یوتیوبم
+<https://www.youtube.com/yoosofan>`_
+گذاشته‌ام.
 
 *  `مبانی برنامه‌نویسی <fp.html>`_
 *  `برنامه نویسی پیشرفته(++C) <cpp.html>`_
