@@ -7,8 +7,6 @@
 .. description: 
 .. type: text
 
-..  contents:: Table of Contents
-
 Privacy Oriented Search Engines
 ====================================
 * `presearch <https://presearch.org/signup?rid=1987440>`_
@@ -16,10 +14,12 @@ Privacy Oriented Search Engines
 * https://www.privado.com
 
 
-My old website
-========================
-*  `<http://ce.kashanu.ac.ir/yoosofan/>`_
-*  `<http://ce.kashanu.ac.ir/usofan/>`_
+.. :
+
+  My old website
+  ========================
+  *  `<http://ce.kashanu.ac.ir/yoosofan/>`_
+  *  `<http://ce.kashanu.ac.ir/usofan/>`_
 
 Persian(Farsi) in computer
 ==============================
@@ -71,3 +71,5 @@ Educational websites
 *  `<http://video.mit.edu/channel/opencourseware/>`_
 *  `<https://www.p2pu.org/en/courses/>`_
 *  `<http://ftacademy.org/courses>`_
+
+..  contents:: Table of Contents

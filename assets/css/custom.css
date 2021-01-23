@@ -1,5 +1,5 @@
 .yoosofan-change-ltr{direction: ltr;}
-@font-face { 
+@font-face {
     font-family: 'nazli';
     src: url('nazli.eot');
     src: url('nazli.eot?#iefix') format('embedded-opentype'),
@@ -16,6 +16,39 @@ body{ text-align: justify;}
 .yoosofan_research_actionbutton {font-family: verdana, sans-serif;font-size: 10px;font-weight:bold;
     text-decoration:none;  color: white;  background-color: #f87b00;
     border:1px solid;   border-color: #FC9 #630 #330 #F96;   padding:0px 3px 0px 3px; margin:0px;}
+
+.yoosofan-research-links-actionbutton li a {
+  font-family: verdana, sans-serif;
+  font-size: 10px;
+  font-weight:bold;
+  text-decoration:none;
+  color: white;
+  background-color: #f87b00;
+  border:1px solid;
+  border-color: #FC9 #630 #330 #F96;
+  padding:0px 3px 0px 3px;
+  margin:0px;
+}
+
+ol.yoosofan-farsi-research-direction li:nth-of-type(4) {direction: ltr;}
+ol.yoosofan-farsi-research-direction li:nth-of-type(5) {direction: ltr;}
+ol.yoosofan-farsi-research-direction li:nth-of-type(9) {direction: ltr;}
+ol.yoosofan-farsi-research-direction li:nth-of-type(13) {direction: ltr;}
+ol.yoosofan-farsi-research-direction li:nth-of-type(14) {direction: ltr;}
+ol.yoosofan-farsi-research-direction li:nth-of-type(21) {direction: ltr;}
+ol.yoosofan-farsi-research-direction li:nth-of-type(24) {direction: ltr;}
+ol.yoosofan-farsi-research-direction li:nth-of-type(27) {direction: ltr;}
+
+.yoosofan-english-research-direction li {direction: rtl;}
+
+ol.yoosofan-english-research-direction li:nth-of-type(4) {direction: ltr;}
+ol.yoosofan-english-research-direction li:nth-of-type(5) {direction: ltr;}
+ol.yoosofan-english-research-direction li:nth-of-type(9) {direction: ltr;}
+ol.yoosofan-english-research-direction li:nth-of-type(13) {direction: ltr;}
+ol.yoosofan-english-research-direction li:nth-of-type(14) {direction: ltr;}
+ol.yoosofan-english-research-direction li:nth-of-type(21) {direction: ltr;}
+ol.yoosofan-english-research-direction li:nth-of-type(24) {direction: ltr;}
+ol.yoosofan-english-research-direction li:nth-of-type(27) {direction: ltr;}
 
 /*
 #idc-container-parent #idc-container .idc-postnav-label,
