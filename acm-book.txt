@@ -24,11 +24,19 @@
 حساب paypal از امین بابادی
 `<http://paypal.me/AminBabadi>`_
 
-شماره‌های بیت‌کوین، ایتریوم و monero از احمد یوسفان
+نشانی
+`Ombre <https://tradeogre.com/exchange/LTC-OMB>`_
+از یوسفان
 
-*  1yQUAqDRftfKEH6opaN5hhPiyabmgbPsY
-*  0x25EF958A163fe8bee6a321BC6839Ea072119790B
-*  43hRo59AGvT1xueyaNyPgx56Co1BGmn4zgMUXzN5tc9vJCRMBnXcxkGgJpwedFNYpA41vGv5HepoN53JVhPcfaE6GrvBj7W
+cashM1Fwbw7EBrCoF3MVcBMxKi6nRN8HWYpbn1Evo43Y8Qy9wskY55PNW6JPmLt3HVRJjA2k3859kePaQTPfMEvf2QpAvCS2hG
+
+
+.. :
+
+  شماره‌های بیت‌کوین، ایتریوم و monero از احمد یوسفان
+  *  1yQUAqDRftfKEH6opaN5hhPiyabmgbPsY
+  *  0x25EF958A163fe8bee6a321BC6839Ea072119790B
+  *  43hRo59AGvT1xueyaNyPgx56Co1BGmn4zgMUXzN5tc9vJCRMBnXcxkGgJpwedFNYpA41vGv5HepoN53JVhPcfaE6GrvBj7W
 
 
 `دریافت کتاب
