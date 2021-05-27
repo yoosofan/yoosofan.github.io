@@ -2701,13 +2701,14 @@ function omit_d(out)
          {
             flagc=0;
             for(i=0;i<out.getcolumn();i++){
-               if(isNaN(out.getsingledata(q,i))&&isNaN(out.getsingledata(p,i)))
+               if(isNaN(out.getsingledata(q,i))&&isNaN(out.getsingledata(p,i))){
                   if(out.getsingledata(q,i).toLowerCase()==out.getsingledata(p,i).toLowerCase())
                      flagc++;
+               }
                else
                   if(out.getsingledata(q,i)==out.getsingledata(p,i))
                      flagc++;
-                  }
+            }
             if(flagc==out.getcolumn())
             {
                flagr=true;

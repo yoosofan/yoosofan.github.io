@@ -26,7 +26,7 @@
 */
 function spno_make()
 {
-	s_array[0][0]="S#";
+	s_array[0][0]="SN";
 	s_array[0][1]="SNAME";
 	s_array[0][2]="STATUS";
 	s_array[0][3]="CITY";
@@ -51,7 +51,7 @@ function spno_make()
 	s_array[5][2]="30";
 	s_array[5][3]="Athens";
 	
-	p_array[0][0]="P#";
+	p_array[0][0]="PN";
 	p_array[0][1]="PNAME";
 	p_array[0][2]="COLOR";
 	p_array[0][3]="WEIGHT";
@@ -87,7 +87,7 @@ function spno_make()
 	p_array[6][3]="19";
 	p_array[6][4]="London";
 
-	j_array[0][0]="J#";
+	j_array[0][0]="JN";
 	j_array[0][1]="JNAME";
 	j_array[0][2]="CITY";
 	j_array[1][0]="J1";
@@ -112,9 +112,9 @@ function spno_make()
 	j_array[7][1]="Tape";
 	j_array[7][2]="London";
 
-	spj_array[0][0]="S#";
-	spj_array[0][1]="P#";
-	spj_array[0][2]="J#";
+	spj_array[0][0]="SN";
+	spj_array[0][1]="PN";
+	spj_array[0][2]="JN";
 	spj_array[0][3]="QTY";
 	spj_array[1][0]="S1";
 	spj_array[1][1]="P1";
@@ -213,8 +213,8 @@ function spno_make()
 	spj_array[24][2]="J4";
 	spj_array[24][3]="500";
 
-	sp_array[0][0]="S#";
-	sp_array[0][1]="P#";
+	sp_array[0][0]="SN";
+	sp_array[0][1]="PN";
 	sp_array[0][2]="QTY";
 	sp_array[1][0]="S1";
 	sp_array[1][1]="P1";

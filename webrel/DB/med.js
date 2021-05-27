@@ -26,14 +26,14 @@
 */
 function med_make()
 {
-	dend_array[0][0]="S#"
+	dend_array[0][0]="SN"
 	dend_array[1][0]="S1"
 	dend_array[2][0]="S2"
 	dend_array[3][0]="S3"
 	dend_array[4][0]="S4"
 	dend_array[5][0]="S5"
 	
-	dor_array[0][0]="P#"
+	dor_array[0][0]="PN"
 	dor_array[1][0]="P1"
 	dor_array[2][0]="P2"
 	dor_array[3][0]="P3"
@@ -41,8 +41,8 @@ function med_make()
 	dor_array[5][0]="P5"
 	dor_array[6][0]="P6"
 	
-	med_array[0][0]="S#"
-	med_array[0][1]="P#"
+	med_array[0][0]="SN"
+	med_array[0][1]="PN"
 	med_array[1][0]="S1"
 	med_array[1][1]="P1"
 	med_array[2][0]="S1"

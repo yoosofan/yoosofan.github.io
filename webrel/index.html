@@ -1,6 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>DataBase_Relation Algebra, Ahmad yoosofan</title>
 <!--
      webrel - Version 1.0
     This file is part of webrel.
@@ -26,9 +29,7 @@
     along with webrel.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<head>
-<title>DataBase_Relation Algebra, Ahmad yoosofan</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+
 <script language="javascript">
 //_______________________Add_jsFiles_________________________________
 </script>
@@ -425,30 +426,35 @@ function cancel()
           <td width="10%"><input name="Loadbtn" type="button" id="Loadbtn2" value="Load" style="width: 100% " onClick="loading()"></td>
           <!-- <td width="5%">&nbsp;</td>  -->
           <td width="30%">
-			  <table>
-				  <tr>  <td width="40%">Ahmad Yoosofan, احمد یوسفان</td>      </tr>
-				  <tr>  <td width="40%">Sara Izadi, سارا ایزدی</td>      </tr>
-			  </table>
-			  
-		 </td>
-          <td  width="10%"><a href="help/help.html" target="_blank" > راهنمایی </a></td>
+            <a href="http://yoosofan.github.io/">Ahmad Yoosofan</a><br />
+				    Sara Izadi
+		  	 </td>
         </tr>
          
       </table>
         <label></label>           </td>
     </tr>
     <tr>
-      <td colspan="4"><textarea name="code" cols="255" rows="2" id="textarea" style="width: 80%;">Please enter your code here!</textarea></td>
+      <td colspan="2">
+        <textarea name="code" cols="255" rows="3" id="textarea" style="width: 95%; font-family: monospace; font-size: 1.4em;" autofocus="autofocus" placeholder="Enter you code here. like:\np{pname}; \nThen press Ctrl+Enter or Click on Run button" ></textarea>
+      </td>
+      <td colspan="2">
+<!--
+        <a href="help/help.html" target="_blank"> راهنمایی </a> <br />
+-->
+        <a href="https://git.launchpad.net/~yoosofan/webrel" target="_blank">Source Code</a> <br />
+        <a href="examples.html" target="_blank">Examples</a>
+      </td>
     </tr>
     <tr>
-      <td width="50%"><input type="checkbox" name="checkbox" value="checkbox">
+      <td><input type="checkbox" name="checkbox" value="checkbox">
         Debug</td>
-      <td width="7%"><input name="showbtn" type="button" id="showbtn" value="Show & Drop" style="width: 100% " onClick="showing()"></td>
-      <td width="7%"><input name="resetbtn" type="button" id="resetbtn" value="Reset" style="width: 80% " onClick="reset_code()"></td>
-      <td width="7%"><input name="runbtn" type="button" id="runbtn" style="width:80%" value="Run" width="20%" onclick="execute()"></td>
+      <td width="10%"><input name="showbtn" type="button" id="showbtn" value="Show & Drop" style="width: 100% " onClick="showing()"></td>
+      <td width="10%"><input name="resetbtn" type="button" id="resetbtn" value="Reset" style="width: 80% " onClick="reset_code()"></td>
+      <td width="10%"><input name="runbtn" type="button" id="runbtn" style="width:80%" value="Run" width="20%" onclick="execute()"></td>
     </tr>
     <tr>
-      <td colspan="4"><img src="img/result.gif" width="100%" height="100%" style="width:100% "></td>
+      <td colspan="4" style="text-align:center; background-color:#ADA8A8; width: 100%; height:100%;">Result</td>
     </tr>
     <tr>
       <td colspan="4"><table width="100%"  border="1">
@@ -462,7 +468,7 @@ function cancel()
       </td>
     </tr>
     <tr>
-      <td colspan="4"><img src="img/show_drop.gif" width="100%" height="100%"></td>
+      <td colspan="4" style="text-align:center; background-color:#ADA8A8; width: 100%; height:100%;">Show &amp; Drop</td>
     </tr>
     <tr>
       <td colspan="4"><table width="100%"  border="1">
@@ -488,6 +494,15 @@ function cancel()
 </form>
 <script language="javascript">
 init_tables();
+var textAreas = document.getElementsByTagName('textarea');
+textAreas[0].onkeyup = function (e) {
+  var evt = window.event || e;   
+    if ((event.keyCode == 10 || event.keyCode == 13) && event.ctrlKey)
+      execute();
+}
+Array.prototype.forEach.call(textAreas, function(elem) {
+    elem.placeholder = elem.placeholder.replace(/\\n/g, '\n');
+});
 </script>
 </body>
 </html>

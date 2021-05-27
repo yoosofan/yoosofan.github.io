@@ -315,7 +315,7 @@ while(last<=str.length)
          ungetchar();
          cn=0;
          type="divequ";
-         make_token();
+         make_token(2);
          set_first_last();
       break;
       case 35:
@@ -351,6 +351,8 @@ while(last<=str.length)
       case 39:
          if(ch=="=")
             cn=40;
+         else if(ch == ">")
+            cn = 34;
          else
          {
             ungetchar();
@@ -539,14 +541,19 @@ function ungetchar()
    last--;
 }
 //***********************************************
-function make_token()
+function make_token(tokenTypeNumber2)
 {
-   var temp=str.slice(first,last);
-   if(!type.localeCompare("id"))
-         temp=temp.toLowerCase();
-   t.setdata(counter,temp);
-   t.settype(counter,type);
-   counter++;
+  tokenTypeNumber2 = tokenTypeNumber2 || 1;
+  var temp;
+  if( tokenTypeNumber2 == 2)
+    temp = "/=";
+  else
+    temp=str.slice(first,last);
+  if(!type.localeCompare("id"))
+    temp=temp.toLowerCase();
+  t.setdata(counter,temp);
+  t.settype(counter,type);
+  counter++;
 }
 //***********************************************
 function set_first_last()

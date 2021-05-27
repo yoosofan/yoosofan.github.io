@@ -25,17 +25,9 @@ The following files:
 
       help/images/COPYING
       help/images/head.png
-      help/images/input_commands.gif
-      help/images/input_commands.xcf
+      help/images/input_commands.png
       help/images/README
       help/images/top.gif
-      help/images/top.xcf
-
-      img/COPYING
-      img/logo1.jpg
-      img/README
-      img/result.gif
-      img/show_drop.gif
 
       src/coloredtable.js
       src/COPYING
