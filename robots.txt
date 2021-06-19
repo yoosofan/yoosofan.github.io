@@ -1,4 +1,4 @@
-Sitemap: http://yoosofan.github.io/sitemapindex.xml
+Sitemap: https://yoosofan.github.io/sitemapindex.xml
 
 User-Agent: *
 Host: yoosofan.github.io

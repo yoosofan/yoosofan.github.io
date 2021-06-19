@@ -61,7 +61,7 @@ Personal Data
     "Address(office)", "Room 351, Sater-Ketabchi Building, University of Kashan, Kashan, Isfahan, Iran  , Postal Code: 8731753153"
     "Map", `Address(office) <https://www.openstreetmap.org/#map=19/34.01023/51.36523>`_
     "Office Phone Number", "0098-315-5913468"
-    "website(s)", `<http://yoosofan.kashanu.ac.ir>`_ and `<http://yoosofan.github.io>`_
+    "website(s)", `<http://yoosofan.kashanu.ac.ir>`_ and `<https://yoosofan.github.io>`_
     "Telegram ID", `<https://t.me/yoosofan>`_" and `<https://t.me/ahmad_yoosofan>`_
 
 Most of My Email Addresses starts with "yoosofan", follows by AT (`@`) and follows by one of the following mail servers: 
@@ -78,7 +78,7 @@ Research Interest
 
 Education
 ###################################################################################################
-* MSc: Computer Engineering (Artificial Intelligence) from September 22, 2000 till September 22, 2003. `MS College Place <https://www.openstreetmap.org/way/218852074>`_ , `MS college Place by Name <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . My MS Thesis: "A Farsi Text Information Retrieval System Based on Latent Semantic Indexing". Supervisors: Dr.Mansor Zolghadri and Dr.Hasan Eghbali. Advisor: Dr.Jalal Rahimian. `PDF of my thesis <http://yoosofan.github.io/files/MSc_Thesis/ahmad.yoosofan.msThesis.pdf>`_
+* MSc: Computer Engineering (Artificial Intelligence) from September 22, 2000 till September 22, 2003. `MS College Place <https://www.openstreetmap.org/way/218852074>`_ , `MS college Place by Name <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . My MS Thesis: "A Farsi Text Information Retrieval System Based on Latent Semantic Indexing". Supervisors: Dr.Mansor Zolghadri and Dr.Hasan Eghbali. Advisor: Dr.Jalal Rahimian. `PDF of my thesis <https://yoosofan.github.io/files/MSc_Thesis/ahmad.yoosofan.msThesis.pdf>`_
 * BSc: Computer Engineering (Hardware) from September 23, 1994 till September 22, 1999.  `MS College Place <https://www.openstreetmap.org/way/218852074>`_ , `MS college Place by Name <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . My BS project: "Rexx interpreter implementation on DOS". Supervisor: Dr.Ahmad Towhidi. https://github.com/yoosofan/REXX 
 * High School: Montazeri. NajafAbad, Esfahan, Iran from September 23, 1990 till July 6, 1994. `High School <https://www.openstreetmap.org/#map=19/32.64463/51.35578>`_
 
@@ -87,7 +87,7 @@ Education
 Some Created Applications
 ###################################################################################################
 
-* `<http://yoosofan.kashanu.ac.ir/webrel/index.htm>`_
+* `<https://yoosofan.github.io/webrel/index.html>`_
 * `<https://github.com/yoosofan>`_
 * Production Control Software for `Nouri (Borzouyeh) Petrochemical Company <https://www.bpciran.com/portal/>`_ – Pars special economy zone – Assalouyeh- Bushehr Province. `Map Nouri <https://www.openstreetmap.org/#map=15/27.5526/52.5568>`_ , `Map Nouri By Name <https://www.openstreetmap.org/way/317494336>`_
 
@@ -123,16 +123,16 @@ Projects With Other Companies
 Book
 ###################################################################################################
 #. ActiveX. Ahmad Yoosofan, Mohsen Biglary. 2009.
-#. Introduction to Programming Contests. Ahmad Yoosofan, Mohsen Biglary, Faezeh Mirzaie, Amin Babadi. 2016. `<ACM Book page http://yoosofan.github.io/en/acm-book.html>`_
+#. Introduction to Programming Contests. Ahmad Yoosofan, Mohsen Biglary, Faezeh Mirzaie, Amin Babadi. 2016. `<ACM Book page https://yoosofan.github.io/en/acm-book.html>`_
 
 ===================================================================================================
 
 Journal Papers
 ###################################################################################################
-#. Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security, Vol.14 No.11 2016. `Jornal Issue(14-no-11-nov-2016) <https://sites.google.com/site/ijcsis/vol-14-no-11-nov-2016>`_  , `PDF 139511 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf>`_  ,  `Academia 30936299 <https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran>`_ , `IJCSIS Journal <https://sites.google.com/site/ijcsis/Home>`_ .
+#. Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security, Vol.14 No.11 2016. `Jornal Issue(14-no-11-nov-2016) <https://sites.google.com/site/ijcsis/vol-14-no-11-nov-2016>`_  , `PDF 139511 <https://yoosofan.github.io/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf>`_  ,  `Academia 30936299 <https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran>`_ , `IJCSIS Journal <https://sites.google.com/site/ijcsis/Home>`_ .
 #. Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015. `<http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640>`_ , 
-#. Yoosofna, Ahmad; Elham yousefian. Clustering provinces in Iran Based on Digital Divide Metric Using the K-means Algorithm. Soft Computing journal. Vol.1 No.1 PP 32-45. 2013. `Page of CPIBDMUKA2013 <http://scj.kashanu.ac.ir/article-1-21-en.html>`_ , `PDF of CPIBDMUKA2012 <http://yoosofan.github.io//files/yoosofan_bibliography/journal/139104.Centralisation.scj.1_1_p32.pdf>`_ .
-#. Yoosofan, Ahmad; Namazi-Fard, Mostafa; "Automatic Graph Construction of Periodic Open Tubulene((5,6,7)3) and computation of its Wiener, PI, and Szeged indices". IJMC (Iranian Journal of Mathematical Chemistry). Vol 3, No 1. February 2012. `Page of NJIMC2012 <http://ijmc.kashanu.ac.ir/article_5221_853.html>`_ , `PDF of NJIMC2012 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139011.Nano_Graph.ijmc.3_1_Yoosofan_81_94.pdf>`_ , `RIS of NJIMC2012 <http://yoosofan.kashanu.ac.ir/files/yoosofan_bibliography/journal/ijmc/ijmc2012.ris>`_ , `BibTeX of NJIMC2012 <http://yoosofan.kashanu.ac.ir/files/yoosofan_bibliography/journal/ijmc/ijmc2012.bib>`_ .
+#. Yoosofna, Ahmad; Elham yousefian. Clustering provinces in Iran Based on Digital Divide Metric Using the K-means Algorithm. Soft Computing journal. Vol.1 No.1 PP 32-45. 2013. `Page of CPIBDMUKA2013 <http://scj.kashanu.ac.ir/article-1-21-en.html>`_ , `PDF of CPIBDMUKA2012 <https://yoosofan.github.io//files/yoosofan_bibliography/journal/139104.Centralisation.scj.1_1_p32.pdf>`_ .
+#. Yoosofan, Ahmad; Namazi-Fard, Mostafa; "Automatic Graph Construction of Periodic Open Tubulene((5,6,7)3) and computation of its Wiener, PI, and Szeged indices". IJMC (Iranian Journal of Mathematical Chemistry). Vol 3, No 1. February 2012. `Page of NJIMC2012 <http://ijmc.kashanu.ac.ir/article_5221_853.html>`_ , `PDF of NJIMC2012 <https://yoosofan.github.io/files/yoosofan_bibliography/journal/139011.Nano_Graph.ijmc.3_1_Yoosofan_81_94.pdf>`_ , `RIS of NJIMC2012 <https://yoosofan.github.io/files/yoosofan_bibliography/journal/ijmc/ijmc2012.ris>`_ , `BibTeX of NJIMC2012 <https://yoosofan.github.io/files/yoosofan_bibliography/journal/ijmc/ijmc2012.bib>`_ .
 #. Yoosofan, Ahmad, Ali Rahimi, Mohammad Rastgoo, and Mohammad mahdi Mojiri. "Automatic Stemming of Some Arabic Words Used in Persian Through Morphological Analysis Without a Dictionary." World Applied Sciences Journal 8, no. 9 (2010): 1078-1085.
 #. Yoosofan, ahmad, and alireza Ashrafi. “Automatic generation of adjacency matrix of single-wall carbon nanohorn.” OPTOELECTRONICS AND ADVANCED MATERIALS – RAPID COMMUNICATIONS 4, no. 6 (June 2010): 900-901.
 

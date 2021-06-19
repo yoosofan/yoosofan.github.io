@@ -73,7 +73,7 @@
 وارد سامانهٔ آموزش شد و این  پرونده تغییر نکرد همین پرونده آخرین نسخه خواهد شد. البته فشردن کلید ترکیبی Ctrl+R یا کلید F5 در مرورگر نیز انجام شود.)
 
 `پیوند به آخرین نسخهٔ در حال تغییر
-<http://yoosofan.kashanu.ac.ir/yooscripts/php/sendTimeTable.php>`_
+<https://yoosofan.github.io/yooscripts/php/sendTimeTable.php>`_
 
 `نسخهٔ هفتم
 <https://github.com/yoosofan/yoosofan.github.io/raw/ac3f792af2584524491df00eafb98b8a9a743439/files/semester/time_table_941.odt>`_

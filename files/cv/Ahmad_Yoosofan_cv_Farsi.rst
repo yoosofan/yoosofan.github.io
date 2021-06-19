@@ -50,7 +50,7 @@
     "نشانی", دانشگاه کاشان. استان اصفهان، کاشان، کیلومتر ۶ بلوار قطب راوندی، کد پستی:۸۷۳۱۷۵۳۱۵۳.
     "دفتر", ساختمانِ ساتر (ساختمان جدید مهندسی) ، طبقهٔ دوم، راهروی شرقی، شمارهٔ اتاق ۳۵۱. `نشانی دانشکده <https://www.openstreetmap.org/#map=19/34.01023/51.36523>`_
     "تلفن", "۰۳۱۵۵۹۱۳۴۶۸"
-    "وب‌گاه", " `<http://yoosofan.kashanu.ac.ir>`_ و `<http://yoosofan.github.io>`_ "
+    "وب‌گاه", " `<http://yoosofan.kashanu.ac.ir>`_ و `<https://yoosofan.github.io>`_ "
     "تلگرام", "`<https://t.me/yoosofan>`_"
 
 رایانامه‌هایم(Email) با yoosofan آغاز می‌شوند و پس از @ نام یکی از وب‌گاه‌های زیر می‌آید
@@ -67,7 +67,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 
 تحصیل
 ###################################################################################################
-* کارشناسی ارشد: مهندسی کامپیوتر (هوش مصنوعی)، دانشگاه شیراز ، از ۱۳۷۹ تا ۱۳۸۲. `نشانی تحصیل ارشد <https://www.openstreetmap.org/way/218852074>`_ , `محل تحصیل ارشد با نام <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . عنوان پایان نامه: یک سیستم بازیابی اطلاعات متنی برای زبان فارسی بر پایه نمایه گذاری معانی پنهان، استاد راهنما: دکتر منصور ذوالقدری و دکتر اقبالی. `PDF of my thesis <http://yoosofan.github.io/files/MSc_Thesis/ahmad.yoosofan.msThesis.pdf>`_
+* کارشناسی ارشد: مهندسی کامپیوتر (هوش مصنوعی)، دانشگاه شیراز ، از ۱۳۷۹ تا ۱۳۸۲. `نشانی تحصیل ارشد <https://www.openstreetmap.org/way/218852074>`_ , `محل تحصیل ارشد با نام <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_ . عنوان پایان نامه: یک سیستم بازیابی اطلاعات متنی برای زبان فارسی بر پایه نمایه گذاری معانی پنهان، استاد راهنما: دکتر منصور ذوالقدری و دکتر اقبالی. `PDF of my thesis <https://yoosofan.github.io/files/MSc_Thesis/ahmad.yoosofan.msThesis.pdf>`_
 * کارشناسی: مهندسی کامپیوتر(سخت افزار)، دانشگاه شیراز، ۱۳۷۳ تا ۱۳۷۸. `نشانی تحصیل کارشناسی <https://www.openstreetmap.org/way/218852074>`_ , `نشانی تحصیل کارشناسی با نام <https://www.openstreetmap.org/#map=19/29.62785/52.51835>`_   پروژه کارشناسی: پیاده سازی مفسر زبان  Rexx در سیستم عامل DOS ، استاد راهنما: دکتر توحیدی. https://github.com/yoosofan/REXX 
 * دبیرستان منتظری، نجف‌آباد، اصفهان ۱۳۶۹ تا ۱۳۷۳. `نشانی دبیرستان <https://www.openstreetmap.org/#map=19/32.64463/51.35578>`_
 
@@ -76,7 +76,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 برخی از ابزارهای تولید شده
 ###################################################################################################
 
-* `<http://yoosofan.kashanu.ac.ir/webrel/index.htm>`_
+* `<https://yoosofan.github.io/webrel/index.html>`_
 * تعدادی از پروژه‌های متن‌باز `<https://github.com/yoosofan>`_
 * نرم‌افزار کنترل تولید `شرکت پتروشیمی نوری <https://www.bpciran.com/portal/>`_. `نشانی پتروشیمی نوری <https://www.openstreetmap.org/#map=15/27.5526/52.5568>`_ , `نشانی پتروشیمی نوری با نام <https://www.openstreetmap.org/way/317494336>`_
 
@@ -140,7 +140,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 کتاب
 ###################################################################################################
 #. آموزش ساخت ابزارهای اکتیوایکس: مرجع کامل ساخت ابزارهای اکتیوایکس در ویژوال بیسیک. احمد یوسفان، محسن بیگلری.نجف آباد ، احمد یوسفان ، ۱۳۸۸.
-#. `مقدمه‌ای بر مسابقات برنامه‌نویسی. احمد یوسفان ، محسن بیگلری ، فائزه میرزائی ، امین بابادی. کاشان: شاسوسا، ‏‫۱۳۹۵. <http://yoosofan.kashanu.ac.ir/acm-book.html>`_
+#. `مقدمه‌ای بر مسابقات برنامه‌نویسی. احمد یوسفان ، محسن بیگلری ، فائزه میرزائی ، امین بابادی. کاشان: شاسوسا، ‏‫۱۳۹۵. <https://yoosofan.github.io/acm-book.html>`_
 
 ===================================================================================================
 
@@ -175,11 +175,11 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 ###################################################################################################
 .. class:: ltr
 
-    #. Falah Obaid, Amin Babadi, Ahmad Yoosofan. "Hand Gesture Recognition in Video Sequences Using Deep Convolutional and Recurrent Neural Networks". Applied Computer Systems, Vol.25 No.1 2020. https://doi.org/10.2478/acss-2020-0007 , http://yoosofan.github.io/files/yoosofan_bibliography/journal/Hand_Gesture_Recognition_in_Video_Sequences_Using_Deep_Convolutional_and_Recurrent_Neural_Networks__Applied Computer_Systems__Vol25No1__2020.pdf .
-    #. Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security, Vol.14 No.11 2016. `Jornal Issue(14-no-11-nov-2016) <https://sites.google.com/site/ijcsis/vol-14-no-11-nov-2016>`_  , `PDF 139511 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf>`_  ,  `Academia 30936299 <https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran>`_ , `IJCSIS Journal <https://sites.google.com/site/ijcsis/Home>`_ .
+    #. Falah Obaid, Amin Babadi, Ahmad Yoosofan. "Hand Gesture Recognition in Video Sequences Using Deep Convolutional and Recurrent Neural Networks". Applied Computer Systems, Vol.25 No.1 2020. https://doi.org/10.2478/acss-2020-0007 , https://yoosofan.github.io/files/yoosofan_bibliography/journal/Hand_Gesture_Recognition_in_Video_Sequences_Using_Deep_Convolutional_and_Recurrent_Neural_Networks__Applied Computer_Systems__Vol25No1__2020.pdf .
+    #. Yoosofan, Ahmad; Mozdian Fard, Mohammad Reza. "Factors intensifying centralisation of information technology in Iran". International Journal of Computer Science and Information Security, Vol.14 No.11 2016. `Jornal Issue(14-no-11-nov-2016) <https://sites.google.com/site/ijcsis/vol-14-no-11-nov-2016>`_  , `PDF 139511 <https://yoosofan.github.io/files/yoosofan_bibliography/journal/139511.Factors_Intensifying_Centralisation_of_Iran.pdf>`_  ,  `Academia 30936299 <https://www.academia.edu/30936299/Factors_Intensifying_Centralisation_of_Information_Technology_in_Iran>`_ , `IJCSIS Journal <https://sites.google.com/site/ijcsis/Home>`_ .
     #. Yoosofan, Ahmad; Ghovanlooy Ghajar, Fatemeh; Ayat, Sima; Hamidi, Somayeh; Mahini, Farshad. "Identifying Association Rules among Drugs in Prescription of a Single Drugstore Using Apriori Method". Intelligent Information Management(IIM), Vol.7 No.5 2015. `<http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=59640>`_ , 
-    #. یوسفان, احمد؛ الهام یوسفیان. "خوشه‌بندی استان‌های ایران بر پایة معیارهای شکاف دیجیتال به کمک روش K-MEANS." مجله محاسبات نرم ۱ (۱۳۹۱): ۳۲–۴۵. `صفحهٔ مقاله  CPIBDMUKA2012 <http://scj.kashanu.ac.ir/article-1-21-fa.html>`_ ، `PDF CPIBDMUKA2012 <http://yoosofan.github.io//files/yoosofan_bibliography/journal/139104.Centralisation.scj.1_1_p32.pdf>`_ 
-    #. Yoosofan, Ahmad; Namazi-Fard, Mostafa; "Automatic Graph Construction of Periodic Open Tubulene((5,6,7)3) and computation of its Wiener, PI, and Szeged indices". IJMC (Iranian Journal of Mathematical Chemistry). Vol 3, No 1. February 2012. `صفحه NJIMC2012 <http://ijmc.kashanu.ac.ir/article_5221_853.html>`_ , `PDF NJIMC2012 <http://yoosofan.github.io/files/yoosofan_bibliography/journal/139011.Nano_Graph.ijmc.3_1_Yoosofan_81_94.pdf>`_ .
+    #. یوسفان, احمد؛ الهام یوسفیان. "خوشه‌بندی استان‌های ایران بر پایة معیارهای شکاف دیجیتال به کمک روش K-MEANS." مجله محاسبات نرم ۱ (۱۳۹۱): ۳۲–۴۵. `صفحهٔ مقاله  CPIBDMUKA2012 <http://scj.kashanu.ac.ir/article-1-21-fa.html>`_ ، `PDF CPIBDMUKA2012 <https://yoosofan.github.io//files/yoosofan_bibliography/journal/139104.Centralisation.scj.1_1_p32.pdf>`_ 
+    #. Yoosofan, Ahmad; Namazi-Fard, Mostafa; "Automatic Graph Construction of Periodic Open Tubulene((5,6,7)3) and computation of its Wiener, PI, and Szeged indices". IJMC (Iranian Journal of Mathematical Chemistry). Vol 3, No 1. February 2012. `صفحه NJIMC2012 <http://ijmc.kashanu.ac.ir/article_5221_853.html>`_ , `PDF NJIMC2012 <https://yoosofan.github.io/files/yoosofan_bibliography/journal/139011.Nano_Graph.ijmc.3_1_Yoosofan_81_94.pdf>`_ .
     #. Yoosofan, Ahmad, Ali Rahimi, Mohammad Rastgoo, and Mohammad mahdi Mojiri. "Automatic Stemming of Some Arabic Words Used in Persian Through Morphological Analysis Without a Dictionary." World Applied Sciences Journal 8, no. 9 (2010): 1078-1085.
     #. Yoosofan, ahmad, and alireza Ashrafi. “Automatic generation of adjacency matrix of single-wall carbon nanohorn.” OPTOELECTRONICS AND ADVANCED MATERIALS – RAPID COMMUNICATIONS 4, no. 6 (June 2010): 900-901.
 
