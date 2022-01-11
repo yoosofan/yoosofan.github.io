@@ -9,11 +9,12 @@
 
 Almost all videos of my online classes are in `my youtube <https://www.youtube.com/yoosofan>`_
 
-*  `Fundumental of Programming <fp.html>`_
-*  `Advanced Programming(C++) <cpp.html>`_
-*  `Operating Systems <os.html>`_
-*  `Compilers <compiler.html>`_
-*  `Database <db.html>`_
+* `Fundumental of Programming <fp.html>`_
+* `Advanced Programming(C++) <cpp.html>`_
+* `Operating Systems <os.html>`_
+* `Compilers <compiler.html>`_
+* `Database <db.html>`_
+* Research Methodology and Presentation
 
 Old courses
 --------------
