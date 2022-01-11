@@ -111,6 +111,8 @@ Links
     * `<https://www.cpp.thiyagaraaj.com>`_
 * `<http://www.ntu.edu.sg/home/ehchua/programming/index.html#Cpp>`_
 * `<https://github.com/AnthonyCalandra/modern-cpp-features>`_
+* http://eel.is/c++draft/
+* https://www.fluentcpp.com/
 
 Samples
 ===================================================================================================

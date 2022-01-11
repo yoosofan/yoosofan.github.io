@@ -102,21 +102,23 @@ Integrated Development Environments (IDEs)
 ===================================================================================================
 .. class:: yoosofan-change-ltr
 
-    * `<http://www.cplusplus.com>`_
-    * `<http://cppreference.com>`_
-    * `<http://www.tutorialspoint.com/cplusplus/>`_
-    * https://www.learncpp.com
-    * https://www.studytonight.com/cpp/
-    * `<http://stackoverflow.com/questions/tagged/c%2b%2b>`_
-    * `<http://coliru.stacked-crooked.com/>`_
-    * `<https://github.com/fffaraz/awesome-cpp>`_
-    * `<http://devdocs.io/cpp/>`_
-    * `<https://isocpp.org/>`_
-    * `<https://www.includehelp.com/cpp-tutorial/>`_
-    * `<https://www.geeksforgeeks.org/c-plus-plus/>`_
-    * `<https://www.cpp.thiyagaraaj.com>`_
-    * `<http://www.ntu.edu.sg/home/ehchua/programming/index.html#Cpp>`_
-    * `<https://github.com/AnthonyCalandra/modern-cpp-features>`_
+* `<http://www.cplusplus.com>`_
+* `<http://cppreference.com>`_
+* `<http://www.tutorialspoint.com/cplusplus/>`_
+* https://www.learncpp.com
+* https://www.studytonight.com/cpp/
+* `<http://stackoverflow.com/questions/tagged/c%2b%2b>`_
+* `<http://coliru.stacked-crooked.com/>`_
+* `<https://github.com/fffaraz/awesome-cpp>`_
+* `<http://devdocs.io/cpp/>`_
+* `<https://isocpp.org/>`_
+* `<https://www.includehelp.com/cpp-tutorial/>`_
+* `<https://www.geeksforgeeks.org/c-plus-plus/>`_
+* `<https://www.cpp.thiyagaraaj.com>`_
+* `<http://www.ntu.edu.sg/home/ehchua/programming/index.html#Cpp>`_
+* `<https://github.com/AnthonyCalandra/modern-cpp-features>`_
+* http://eel.is/c++draft/
+* https://www.fluentcpp.com/
 
 نمونه‌ها
 ===================================================================================================

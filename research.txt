@@ -10,7 +10,7 @@
 
 برخی از ابزارهای تولید شده
 ======================================================================
-*  `WebRel </webrel/index.html>`_  (`<http://sourceforge.net/projects/webrel/>`_)
+*  `WebRel </webrel/index.html>`_  (`<https://git.launchpad.net/~yoosofan/webrel>`_)
 * `پروژه‌های متن‌باز <https://github.com/yoosofan/>`_
 
 سابقهٔ پروژه‌های عملی و پژوهشی

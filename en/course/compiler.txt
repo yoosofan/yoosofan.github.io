@@ -10,9 +10,9 @@
 Book
 =====
 
-*  `Compilers: Principles, Techniques, and Tools (2nd Edition). Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman. Addison Wesley, (August 2006) <http://dragonbook.stanford.edu/>`_
-
-
+* `Compilers: Principles, Techniques, and Tools (2nd Edition). Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman. Addison Wesley, (August 2006) <http://dragonbook.stanford.edu/>`_
+* `Introduction to Compilers and Language Design <https://www3.nd.edu/~dthain/compilerbook/>`_ `Code Examples <https://github.com/dthain/compilerbook-examples>`_
+* `Basics of Compiler Design <hjemmesider.diku.dk/~torbenm/Basics/>`_
 
 
 Regular Expression
