@@ -42,9 +42,9 @@
 `RST </files/cv/Ahmad_Yoosofan_cv_Farsi.rst>`_
 
 `برنامهٔ کاری و حضور در دفتر 
-<https://mailt.kashanu.ac.ir:8443/home/yoosofan@kashanu.ac.ir/Calendar.html>`_
+<https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html>`_
 یا به صورت
-`ics <https://mailt.kashanu.ac.ir:8443/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_
+`ics <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_
 
 .. :
 
