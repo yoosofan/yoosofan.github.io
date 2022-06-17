@@ -15,7 +15,17 @@
     * `Introduction to Compilers and Language Design <https://www3.nd.edu/~dthain/compilerbook/>`_ `Code Examples <https://github.com/dthain/compilerbook-examples>`_
     * `Basics of Compiler Design <hjemmesider.diku.dk/~torbenm/Basics/>`_
 
+-------------
 
+دیگر منابع
+--------------------------------
+#. https://web.stanford.edu/class/cs143/
+#. https://web.cs.hacettepe.edu.tr/~ilyas/Courses/BIL744/
+#. https://www.csd.uwo.ca/~mmorenom/CS447/Lectures/Syntax.html/node8.html
+#. https://www.researchgate.net/publication/2367776_An_Introduction_to_Compilers?enrichId=rgreq-3d6589b36b650b1be61ea0ce1b1b7805-XXX&enrichSource=Y292ZXJQYWdlOzIzNjc3NzY7QVM6OTg4Mjk0MzcyNDMzOTVAMTQwMDU3NDE4MjE5Ng%3D%3D&el=1_x_2&_esc=publicationCoverPdf
+#. https://www.tutorialspoint.com/compiler_design/compiler_design_syntax_analysis.htm
+
+----
 
 `برنامه‌های نمونه به زبان lex
 </files/course/compiler/lex_sample.zip>`_

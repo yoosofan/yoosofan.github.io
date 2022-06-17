@@ -10,7 +10,7 @@
 
 Some created tools
 ======================================================================
-* `WebRel </webrel/index.html>`_ (`<https://git.launchpad.net/~yoosofan/webrel>`_)
+* `WebRel </webrel/index.html>`_ (`Source code <https://git.launchpad.net/~yoosofan/webrel>`_)
 * `github <https://github.com/yoosofan/>`_
 
 Publication

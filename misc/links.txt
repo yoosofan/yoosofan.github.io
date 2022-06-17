@@ -10,8 +10,9 @@
 موتورهای جستجو مناسب برای حریم خصوصی
 ==========================================================
 * `presearch <https://presearch.org/signup?rid=1987440>`_
-* https://duckduckgo.com/
+* https://duckduckgo.com
 * https://www.privado.com
+* https://www.qwant.com
 
 .. :
 

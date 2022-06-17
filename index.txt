@@ -27,7 +27,7 @@
   <a href="http://mail.com"> mail.com </a> ،
   <a href="http://gmail.com"> gmail.com </a>،
   <a href="http://gmx.com"> gmx.com </a>،
-  <a href="http://myfastmail.com"> myfastmail.com </a>,
+  <a href="https://ref.fm/u2243603"> myfastmail.com </a>,
   <a href="http://ymail.com"> ymail.com </a><br />
   <a href="https://t.me/yoosofan/"> نشانی تلگرام</a><br />
   <a href="https://t.me/crypto_in_farsi/"> کانالم دربارهٔ رمزپول‌ها </a>
