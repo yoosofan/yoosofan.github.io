@@ -2,13 +2,14 @@
 رزومه احمد یوسفان
 ###################################################################################################
 
+
 .. meta::
    :http-equiv=Content-Language: fa
    :description lang=en: Resume
 
 .. comment
 
-    rst2html.py Ahmad_Yoosofan_cv_Farsi.rst Ahmad_Yoosofan_cv_Farsi.html --stylesheet=../../../../../../../other/setting/office/restructuredtext/farsi.css,html4css1.css
+    rst2html.py yoosofan_cv.rst yoosofan_cv.html --stylesheet=../../../../../../../other/setting/office/restructuredtext/farsi.css,html4css1.css
     https://faculty.kashanu.ac.ir/admin/teachersInfo/manage/view?id=524
     https://faculty.kashanu.ac.ir/fa
 
@@ -22,9 +23,6 @@
     https://stackoverflow.com/questions/23359083/how-to-convert-webpage-into-pdf-by-using-python
     https://pypi.org/project/pdfkit/
     https://www.geeksforgeeks.org/python-convert-html-pdf/
-    
-.. contents:: فهرست
-   :depth: 2
 
 
 مشخصات فردی
