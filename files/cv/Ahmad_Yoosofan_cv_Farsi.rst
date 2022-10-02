@@ -335,7 +335,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
    :header: "حرفه‌ای", "متوسط", "مقدماتی"
    :class: ltr
 
-    "C", "PHP", "proglog"
+    "C", "PHP", "prolog"
     "C++", "XML", "Miranda"
     "Python", "LaTeX, xelatex و XePersian",
     "HTML5", "MATLAB و Octave", "Lisp"
