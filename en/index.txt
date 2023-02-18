@@ -30,12 +30,8 @@
   <img src="/galleries/images/ahmad_yoosofan_grey2.jpg" />
   </td></tr></table>
 
-**I don't teach in this semester(1401-1)**
-
-.. :
-
-    `Office Hour <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_ 
-    or `ics  <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_	
+`Office Hour <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_ 
+or `ics  <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_	
 
 Resume(Curriculum Vitae)
 `PDF </files/cv/Ahmad_Yoosofan_cv_English.pdf>`_ ,

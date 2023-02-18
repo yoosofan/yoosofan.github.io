@@ -41,20 +41,12 @@
 `HTML </files/cv/Ahmad_Yoosofan_cv_Farsi.html>`_ ,
 `RST </files/cv/Ahmad_Yoosofan_cv_Farsi.rst>`_
 
-**در این نیمسال (۱۴۰۱-۱) تدریس نمی‌کنم.**
+`برنامهٔ کاری و حضور در دفتر 
+<https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html>`_
+یا به صورت
+`ics <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_
 
-.. :
-
-    `برنامهٔ کاری و حضور در دفتر 
-    <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html>`_
-    یا به صورت
-    `ics <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_
-
-    در ساعت‌های «حضور» می‌توانید به دفتر بیایید یا زنگ بزنید و برای ساعت‌های «با هماهنگی» و دیگر زمان‌ها از سه روز پیش با رایانامه(email) وقت بگیرید. بسیاری از پرسش‌ها را می‌توانید به کمک نامه بپرسید.
-
-    `مقدمه‌ای بر مسابقات برنامه‌نویسی. احمد یوسفان ، محسن بیگلری ، فائزه میرزائی ، امین بابادی. کاشان: شاسوسا، ‏‫۱۳۹۵. </acm-book.html>`_
-
-    `WebRel </webrel/index.html>`_
+در ساعت‌های «حضور» می‌توانید به دفتر بیایید یا زنگ بزنید و برای ساعت‌های «با هماهنگی» و دیگر زمان‌ها از سه روز پیش با رایانامه(email) وقت بگیرید. بسیاری از پرسش‌ها را می‌توانید به کمک نامه بپرسید.
 
 
 جلسه‌های درس‌های اغلب کلاس‌های مجازی‌ام را در نیمسال‌های گذشته در
