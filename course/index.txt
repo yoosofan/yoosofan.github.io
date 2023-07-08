@@ -7,6 +7,9 @@
 .. description: 
 .. type: text
 
+اغلب  اسلایدهایم را در مخزن زیر نیز گذاشته‌ام
+https://github.com/yoosofan/slide
+
 تقریبا همهٔ کلاس‌های برخطم را در کانال 
 `یوتیوبم
 <https://www.youtube.com/yoosofan>`_

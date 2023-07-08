@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+Repository of my slides https://github.com/yoosofan/slide
+
 Almost all videos of my online classes are in `my youtube <https://www.youtube.com/yoosofan>`_
 
 * `Fundumental of Programming <fp.html>`_
