@@ -127,12 +127,12 @@ Beginning Visual C# 2010 /Karli">
 <p>First, Download and install <a class="reference external" href="http://mono-project.com/">mono</a> . This is an open source and free implementation
 of .Net for several platforms.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
-<pre class="code sh"><a id="rest_code_dddc8926595e49958d2594d2daace8fa-1" name="rest_code_dddc8926595e49958d2594d2daace8fa-1" href="csharp.html#rest_code_dddc8926595e49958d2594d2daace8fa-1"></a>$ gmcs  test.cs
-<a id="rest_code_dddc8926595e49958d2594d2daace8fa-2" name="rest_code_dddc8926595e49958d2594d2daace8fa-2" href="csharp.html#rest_code_dddc8926595e49958d2594d2daace8fa-2"></a>mono  test.exe
+<pre class="code sh"><a id="rest_code_f4b16658638548c489569150e9e1ebd5-1" name="rest_code_f4b16658638548c489569150e9e1ebd5-1" href="csharp.html#rest_code_f4b16658638548c489569150e9e1ebd5-1"></a>$ gmcs  test.cs
+<a id="rest_code_f4b16658638548c489569150e9e1ebd5-2" name="rest_code_f4b16658638548c489569150e9e1ebd5-2" href="csharp.html#rest_code_f4b16658638548c489569150e9e1ebd5-2"></a>mono  test.exe
 </pre>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شمارهٔ خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
-<pre class="code sh"><a id="rest_code_ccd4977ea8424dabb6a8684cf39284ef-1" name="rest_code_ccd4977ea8424dabb6a8684cf39284ef-1" href="csharp.html#rest_code_ccd4977ea8424dabb6a8684cf39284ef-1"></a>gmcs -debug  test.cs
-<a id="rest_code_ccd4977ea8424dabb6a8684cf39284ef-2" name="rest_code_ccd4977ea8424dabb6a8684cf39284ef-2" href="csharp.html#rest_code_ccd4977ea8424dabb6a8684cf39284ef-2"></a>mono  --debug test.exe
+<pre class="code sh"><a id="rest_code_ab4b15bf1c9641578900ff6c444b9acc-1" name="rest_code_ab4b15bf1c9641578900ff6c444b9acc-1" href="csharp.html#rest_code_ab4b15bf1c9641578900ff6c444b9acc-1"></a>gmcs -debug  test.cs
+<a id="rest_code_ab4b15bf1c9641578900ff6c444b9acc-2" name="rest_code_ab4b15bf1c9641578900ff6c444b9acc-2" href="csharp.html#rest_code_ab4b15bf1c9641578900ff6c444b9acc-2"></a>mono  --debug test.exe
 </pre>
 <p><a class="reference external" href="../../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>

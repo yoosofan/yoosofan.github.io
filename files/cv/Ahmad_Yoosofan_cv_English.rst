@@ -19,7 +19,7 @@ Ahmad Yoosofan
 
 .. comment
 
-    rst2html.py Ahmad_Yoosofan_cv_English.rst Ahmad_Yoosofan_cv_English.html
+    rst2html Ahmad_Yoosofan_cv_English.rst Ahmad_Yoosofan_cv_English.html
     https://faculty.kashanu.ac.ir/admin/teachersInfo/manage/view?id=524
     https://faculty.kashanu.ac.ir/fa
     
@@ -123,7 +123,7 @@ Projects With Other Companies
 Book
 ###################################################################################################
 #. ActiveX. Ahmad Yoosofan, Mohsen Biglary. 2009.
-#. Introduction to Programming Contests. Ahmad Yoosofan, Mohsen Biglary, Faezeh Mirzaie, Amin Babadi. 2016. `<ACM Book page> https://yoosofan.github.io/en/acm-book.html>`_
+#. Introduction to Programming Contests. Ahmad Yoosofan, Mohsen Biglary, Faezeh Mirzaie, Amin Babadi. 2016. `ACM Book page <https://yoosofan.github.io/en/acm-book.html>`_
 
 ===================================================================================================
 
@@ -210,7 +210,7 @@ Skills
 ###################################################################################################
 Language
 ***************************************************************************************************
-Farsi (Persian, Native), English(Fulent), Arabic
+Farsi (Persian, Native), English(Fulent), Arabic(intermediate), Esperanto(beginner)
 
 Programming Language
 ***************************************************************************************************

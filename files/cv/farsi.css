@@ -1,0 +1,33 @@
+/* Use these two if the main document direction is RTL */
+body { direction: rtl; text-align:justify;    font-family:'Nazli', Geneva, sans-serif; font-size: 1.1em;}
+div.sidebar { float: left !important; }
+
+/* The next 3 rules are very useful in documents containing pieces
+of code in english */
+/* Use this if you all your literal blocks (::) are LTR */
+pre {direction: ltr; unicode-bidi: embed; }
+/* Use this if you all your inline literals (``) are LTR */
+tt {direction: ltr; unicode-bidi: embed; }
+/* Use this if you all your interpretted text (`) is LTR */
+cite {direction: ltr; unicode-bidi: embed; }
+
+/* Allow manual direction override by class directive and roles */
+.rtl { direction: rtl; }
+.ltr { direction: ltr; }
+.center {text-align: center;}
+/*.center {display: block; text-align: center;    margin-left: auto; margin-right: auto;}*/
+.toc-backref {     font-size: 1em;}
+.section h1{    font-size: 1.3em;}
+.section h2{    font-size: 1.3em;}
+ol {padding:8px; margin: 8px;}
+ol > li {padding:0; margin: 0; list-style-type: persian;}
+.forgroundcolorred {color: red;}
+
+.tableheaderwithgraybackground th {
+    /*border: 1px solid black;*/
+    font-weight: bold;
+    background-color: #BFBFBF;
+}
+.table-without-border-class, .table-without-border-class *{
+    border: none;
+}

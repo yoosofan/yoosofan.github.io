@@ -8,7 +8,7 @@
 
 .. comment
 
-    rst2html.py Ahmad_Yoosofan_cv_Farsi.rst Ahmad_Yoosofan_cv_Farsi.html --stylesheet=../../../../../../../other/setting/office/restructuredtext/farsi.css,html4css1.css
+    rst2html Ahmad_Yoosofan_cv_Farsi.rst Ahmad_Yoosofan_cv_Farsi.html --stylesheet=farsi.css,html4css1.css
     https://faculty.kashanu.ac.ir/admin/teachersInfo/manage/view?id=524
     https://faculty.kashanu.ac.ir/fa
 
@@ -327,7 +327,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 ###################################################################################################
 زبان
 ***************************************************************************************************
-فارسی (زبان مادری)، انگلیسی(مسلط)، عربی(کمی)
+فارسی (زبان مادری)، انگلیسی(مسلط)، عربی(متوسط)، اسپرانتو(ابتدایی)
 
 زبان برنامه نویسی
 ***************************************************************************************************
