@@ -46,7 +46,8 @@
 .. class:: yoosofan-change-ltr
 
   *  `PLY (Python based) <http://www.dabeaz.com/ply/>`_
-  *  `JS/CC <http://jscc.phorward-software.com/>`_  
+  *  `JS/CC <http://jscc.brobston.com/>`_ , `github <https://github.com/abrobston/jscc>`_  
+      * old website: http://jscc.phorward-software.com/>
   *  `jison (javascript based) <http://zaach.github.io/jison/>`_
   *  `antlr (java based) <http://www.antlr.org>`_
   *  `Quex (c/c++) <http://quex.sourceforge.net/>`_

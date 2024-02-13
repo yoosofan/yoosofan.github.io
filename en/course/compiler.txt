@@ -44,7 +44,8 @@ Tools
 ======
 
   *  `PLY (Python based) <http://www.dabeaz.com/ply/>`_
-  *  `JS/CC <http://jscc.brobston.com>`_ ,  https://github.com/abrobston/jscc
+  *  `JS/CC <http://jscc.brobston.com/>`_ , `github <https://github.com/abrobston/jscc>`_  
+      * old website: http://jscc.phorward-software.com/>
   *  `jison (javascript based) <http://zaach.github.io/jison/>`_
   *  `antlr (java based) <http://www.antlr.org>`_
   *  `Quex (c/c++) <http://quex.sourceforge.net/>`_  
@@ -83,6 +84,8 @@ Jison
 JSCC
 =====
 
+`JS/CC <http://jscc.brobston.com/>`_ , `github <https://github.com/abrobston/jscc>`_  
+
 `jscc compiler tool <http://jscc.phorward-software.com/>`_
 
 `simple calculator </files/course/compiler/jscc/simple_extended_calculator.txt>`_
@@ -90,4 +93,3 @@ JSCC
 `simple programming language </files/course/compiler/jscc/simplified_program.txt>`_
 
 `input of simple programming language </files/course/compiler/jscc/sample_input_of_simplified_program.txt>`_
-

@@ -111,8 +111,7 @@ Begin">
         </div>
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <div class="section" id="c">
-<h2>فهرست کتاب‌های پیشنهادی برای #C</h2>
+    <section id="c"><h2>فهرست کتاب‌های پیشنهادی برای #C</h2>
 <ul class="yoosofan-change-ltr simple">
 <li><p><a class="reference external" href="http://www.herbschildt.com">C# 4.0: The Complete Reference/Herbert Schildt/McGraw-Hill Osborne Media; 1 edition (April 27, 2010)</a></p></li>
 <li><p>Essential C# 4.0 / Mark Michaelis. /  2010 Pearson Education</p></li>
@@ -122,33 +121,31 @@ Begin">
 <li><p>Accelerated C# 2010 / Trey Nash / Apress</p></li>
 <li><p>CLR via C#  Third Edition/ Jeffrey Richter / Microsoft Press</p></li>
 <li><p>ECMA-335 4th Edition  June 2006 Common Language Infrastructure (CLI) Partitions I to VI /</p></li>
-</ul>
-</div>
-<hr class="docutils">
-<div class="section" id="csharp">
-<h2>کار با CSharp در لینوکس</h2>
+</ul></section><hr class="docutils">
+<section id="csharp"><h2>کار با CSharp در لینوکس</h2>
 <p>نخست باید
 <a class="reference external" href="http://mono-project.com/">mono</a>
 را نصب کنید. mono یک پیاده سازی متن باز از CSharp است که بر روی چندین سیستم عامل امکان کامپایل و اجرای برنامه‌ای CSharp  را فراهم می‌کند.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
-<div class="yoosofan-change-ltr"><pre class="code sh"><a id="rest_code_f18839abf5bc497a9ef4296c5c227658-1" name="rest_code_f18839abf5bc497a9ef4296c5c227658-1" href="csharp.html#rest_code_f18839abf5bc497a9ef4296c5c227658-1"></a>$ gmcs  test.cs
-<a id="rest_code_f18839abf5bc497a9ef4296c5c227658-2" name="rest_code_f18839abf5bc497a9ef4296c5c227658-2" href="csharp.html#rest_code_f18839abf5bc497a9ef4296c5c227658-2"></a>mono  test.exe
+<div class="yoosofan-change-ltr">
+<div class="code"><pre class="code sh"><a id="rest_code_537f08f80c32412883e92513c0566bdb-1" name="rest_code_537f08f80c32412883e92513c0566bdb-1" href="csharp.html#rest_code_537f08f80c32412883e92513c0566bdb-1"></a>$<span class="w"> </span>gmcs<span class="w">  </span>test.cs
+<a id="rest_code_537f08f80c32412883e92513c0566bdb-2" name="rest_code_537f08f80c32412883e92513c0566bdb-2" href="csharp.html#rest_code_537f08f80c32412883e92513c0566bdb-2"></a>mono<span class="w">  </span>test.exe
 </pre></div>
+</div>
 <p><a class="reference external" href="../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شمارهٔ خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
-<div class="yoosofan-change-ltr"><pre class="code sh"><a id="rest_code_e36d73dbd85146d89b2434e96a3ad41d-1" name="rest_code_e36d73dbd85146d89b2434e96a3ad41d-1" href="csharp.html#rest_code_e36d73dbd85146d89b2434e96a3ad41d-1"></a>gmcs -debug  test.cs
-<a id="rest_code_e36d73dbd85146d89b2434e96a3ad41d-2" name="rest_code_e36d73dbd85146d89b2434e96a3ad41d-2" href="csharp.html#rest_code_e36d73dbd85146d89b2434e96a3ad41d-2"></a>mono  --debug test.exe
+<div class="yoosofan-change-ltr">
+<div class="code"><pre class="code sh"><a id="rest_code_2267fe4b858241dd9799c375327ad287-1" name="rest_code_2267fe4b858241dd9799c375327ad287-1" href="csharp.html#rest_code_2267fe4b858241dd9799c375327ad287-1"></a>gmcs<span class="w"> </span>-debug<span class="w">  </span>test.cs
+<a id="rest_code_2267fe4b858241dd9799c375327ad287-2" name="rest_code_2267fe4b858241dd9799c375327ad287-2" href="csharp.html#rest_code_2267fe4b858241dd9799c375327ad287-2"></a>mono<span class="w">  </span>--debug<span class="w"> </span>test.exe
 </pre></div>
+</div>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>
 محیط یکپارچهٔ اجرا برای کامپایل و اجرای این زبان فراهم می‌کند.</p>
-</div>
-<div class="section" id="id1">
-<h2>فهرست سایت‌های آموزشی همراه با برنامه‌های نمونه</h2>
+</section><section id="section-1"><h2>فهرست سایت‌های آموزشی همراه با برنامه‌های نمونه</h2>
 <ul class="yoosofan-change-ltr simple">
 <li><p><a class="reference external" href="http://www.csharp-station.com/Tutorial.aspx">http://www.csharp-station.com/Tutorial.aspx</a></p></li>
-</ul>
+</ul></section>
 </div>
-    </div>
     
 
 </article>
