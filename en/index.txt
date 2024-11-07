@@ -27,7 +27,7 @@
   <a href="http://ymail.com"> ymail.com </a><br />
   <a href="https://t.me/yoosofan/"> Telegram </a> 
   </td><td aling="center">
-  <img src="/galleries/images/ahmad_yoosofan_grey2.jpg" />
+  <img src="/galleries/images/yoosofan20241021.jpg" width="110px" height="120px" />
   </td></tr></table>
 
 `Office Hour <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_ 

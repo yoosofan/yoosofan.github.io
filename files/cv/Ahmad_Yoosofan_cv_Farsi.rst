@@ -8,6 +8,7 @@
 
 .. comment
 
+    rst2html Ahmad_Yoosofan_cv_Farsi.rst Ahmad_Yoosofan_cv_Farsi.html --stylesheet=farsi.css
     rst2html Ahmad_Yoosofan_cv_Farsi.rst Ahmad_Yoosofan_cv_Farsi.html --stylesheet=farsi.css,html4css1.css
     https://faculty.kashanu.ac.ir/admin/teachersInfo/manage/view?id=524
     https://faculty.kashanu.ac.ir/fa
@@ -22,9 +23,6 @@
     https://stackoverflow.com/questions/23359083/how-to-convert-webpage-into-pdf-by-using-python
     https://pypi.org/project/pdfkit/
     https://www.geeksforgeeks.org/python-convert-html-pdf/
-    
-.. contents:: فهرست
-   :depth: 2
 
 
 مشخصات فردی
@@ -41,7 +39,7 @@
             "مرتبه", "مربی"
            
 
-     - .. image:: ahmad_yoosofan.jpg
+     - .. image:: yoosofan20241021.jpg
            :align: center
            :width: 100px
 
@@ -366,4 +364,12 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
     "صفحهٔ گستره","OpenOffice/LibreOffce Calc","Excel, QuatroPro-Dos"
     "رمزپول","نصب و به کارگیری انواع کیف‌پول‌های رمزپول‌های Bitcoin, Monero, Ombre و همانند آن ", "نصب و راه‌اندازی استخراج کننده و استخر"
 
-آخرین تاریخ به روز رسانی: ۲۴ مرداد ۱۴۰۱
+
+    
+.. contents:: فهرست
+   :depth: 2
+
+آخرین تاریخ به روز رسانی: ۱۷ آبان ۱۴۰۳
+
+
+

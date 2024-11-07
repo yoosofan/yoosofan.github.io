@@ -13,7 +13,7 @@ Ahmad Yoosofan
 
    <br /><br /><br /><br /><br />
 
-.. image:: ahmad_yoosofan.jpg
+.. image:: yoosofan20241021.jpg
    :align: center
    :scale: 30%
 

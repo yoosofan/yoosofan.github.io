@@ -9,7 +9,7 @@
 
 .. comment
 
-    rst2html.py yoosofan_cv.rst yoosofan_cv.html --stylesheet=../../../../../../../other/setting/office/restructuredtext/farsi.css,html4css1.css
+    rst2html.py yoosofan_cv.rst yoosofan_cv.html --stylesheet=../../../rst/farsi.css,html4css1.css
     https://faculty.kashanu.ac.ir/admin/teachersInfo/manage/view?id=524
     https://faculty.kashanu.ac.ir/fa
 
@@ -39,7 +39,7 @@
             "مرتبه", "مربی"
            
 
-     - .. image:: ahmad_yoosofan.jpg
+     - .. image:: yoosofan20241021.jpg
            :align: center
            :width: 100px
 
