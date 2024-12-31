@@ -16,9 +16,15 @@
   <br />
   دانشگاه کاشان. استان اصفهان، کاشان، کیلومتر ۶ بلوار قطب راوندی، کد پستی:۸۷۳۱۷۵۳۱۵۳
   <br />
-  دفتر : ساختمانِ ساتر (ساختمان جدید مهندسی) ، طبقهٔ سوم، راهروی شرقی، شمارهٔ اتاق ۳۵۱.
+  دفتر : ساختمانِ ساتر (ساختمان جدید مهندسی) ، طبقهٔ میانی، راهروی شرقی، شمارهٔ اتاق ۲۲۷.
   <br />
-  تلفن دفتر : ۳۴۶۸ - ۵۵۹۱ - ۰۳۱
+  تلفن دفتر : ۳۴۸۹ - ۵۵۹۱ - ۰۳۱
+  <br />
+  با   
+  <a href="https://t.me/yoosofan/">
+  تلگرام
+  </a>
+  به من پیام دهید.
   <br />
   Email (رایانامه) :
   بیشتر رایانامه‌هایم با yoosofan آغاز می‌شوند و پس از @ نام یکی از وب‌گاه‌های زیر می‌آید
@@ -29,7 +35,6 @@
   <a href="http://gmx.com"> gmx.com </a>،
   <a href="https://ref.fm/u2243603"> myfastmail.com </a>,
   <a href="http://ymail.com"> ymail.com </a><br />
-  <a href="https://t.me/yoosofan/"> نشانی تلگرام</a><br />
   <a href="https://t.me/crypto_in_farsi/"> کانالم دربارهٔ رمزپول‌ها </a>
   </td><td align="center" >
   <img src="/galleries/images/yoosofan20241021.jpg" width="110px" height="120px" />
@@ -42,9 +47,16 @@
 `RST </files/cv/Ahmad_Yoosofan_cv_Farsi.rst>`_
 
 `برنامهٔ کاری و حضور در دفتر 
-<https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html>`_
+<https://github.com/yoosofan/office.hours>`_
 یا به صورت
-`ics <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_
+`PDF <https://github.com/yoosofan/office.hours/blob/main/readme.rst.pdf>`_
+
+.. :
+
+    <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html>`_
+    یا به صورت
+    `ics <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_
+
 
 در ساعت‌های «حضور» می‌توانید به دفتر بیایید یا زنگ بزنید و برای ساعت‌های «با هماهنگی» و دیگر زمان‌ها از سه روز پیش با رایانامه(email) وقت بگیرید. بسیاری از پرسش‌ها را می‌توانید به کمک نامه بپرسید.
 

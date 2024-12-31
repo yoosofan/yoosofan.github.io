@@ -18,6 +18,7 @@
   University of Kashan, Kashan, Isfahan, Iran  , Postal Code: 8731753153 <br />
   Phone : 0098-31-5591-3489 <br /> 
   Fax No: 0098-315-5912930 <br />
+  Send me a <a href="https://t.me/yoosofan/"> Telegram </a> message <br />
   Most of my email addresses starts with "yoosofan" and follow by @ and the name of these websites: <br />
   <a href="http://kashanu.ac.ir">kashanu.ac.ir</a>,
   <a href="http://mail.com"> mail.com </a>,
@@ -25,13 +26,17 @@
   <a href="http://gmx.com"> gmx.com </a>,
   <a href="https://ref.fm/u2243603"> myfastmail.com </a>,
   <a href="http://ymail.com"> ymail.com </a><br />
-  <a href="https://t.me/yoosofan/"> Telegram </a> 
   </td><td aling="center">
   <img src="/galleries/images/yoosofan20241021.jpg" width="110px" height="120px" />
   </td></tr></table>
 
-`Office Hour <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_ 
-or `ics  <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_	
+`Office Hour <https://github.com/yoosofan/office.hours>`_ or
+`PDF <https://github.com/yoosofan/office.hours/blob/main/readme.rst.pdf>`_
+
+.. :
+
+    <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.html?view=week>`_ 
+    or `ics  <https://mail.kashanu.ac.ir/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_	
 
 Resume(Curriculum Vitae)
 `PDF </files/cv/Ahmad_Yoosofan_cv_English.pdf>`_ ,
