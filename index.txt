@@ -49,7 +49,7 @@
 `برنامهٔ کاری و حضور در دفتر 
 <https://github.com/yoosofan/office.hours>`_
 یا به صورت
-`PDF <https://github.com/yoosofan/office.hours/blob/main/readme.rst.pdf>`_
+`PDF. <https://github.com/yoosofan/office.hours/blob/main/readme.rst.pdf>`_
 
 .. :
 

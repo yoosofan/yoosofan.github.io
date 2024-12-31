@@ -31,7 +31,7 @@
   </td></tr></table>
 
 `Office Hour <https://github.com/yoosofan/office.hours>`_ or
-`PDF <https://github.com/yoosofan/office.hours/blob/main/readme.rst.pdf>`_
+`PDF. <https://github.com/yoosofan/office.hours/blob/main/readme.rst.pdf>`_
 
 .. :
 
