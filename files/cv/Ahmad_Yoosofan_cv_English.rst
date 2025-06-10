@@ -210,7 +210,7 @@ Skills
 ###################################################################################################
 Language
 ***************************************************************************************************
-Farsi (Persian, Native), English(Fulent), Arabic(intermediate), Esperanto(beginner)
+Farsi (Persian, Native), English(Fluent), Arabic(intermediate), Esperanto(intermediate)
 
 Programming Language
 ***************************************************************************************************
