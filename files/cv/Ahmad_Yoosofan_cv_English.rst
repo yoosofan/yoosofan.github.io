@@ -1,9 +1,9 @@
-###################################################################################################
+################
 Curriculum Vitae
-###################################################################################################
-***************************************************************************************************
+################
+**************
 Ahmad Yoosofan
-***************************************************************************************************
+**************
 
 .. meta::
    :http-equiv=Content-Language: en
@@ -15,7 +15,7 @@ Ahmad Yoosofan
 
 .. image:: yoosofan20241021.jpg
    :align: center
-   :scale: 30%
+   :width: 200px
 
 .. comment
 
@@ -45,7 +45,7 @@ Ahmad Yoosofan
 
    <br /><br /><br /><br />
 
-Last update of this document: December 25, 2020.
+Last update of this document: August 18, 2025.
 
 ===================================================================================================
 
@@ -88,6 +88,9 @@ Some Created Applications
 ###################################################################################################
 
 * `<https://yoosofan.github.io/webrel/index.html>`_
+* https://github.com/yoosofan/bildumilo
+* https://github.com/yoosofan/slide
+* https://github.com/yoosofan/parsPL
 * `<https://github.com/yoosofan>`_
 * Production Control Software for `Nouri (Borzouyeh) Petrochemical Company <https://www.bpciran.com/portal/>`_ – Pars special economy zone – Assalouyeh- Bushehr Province. `Map Nouri <https://www.openstreetmap.org/#map=15/27.5526/52.5568>`_ , `Map Nouri By Name <https://www.openstreetmap.org/way/317494336>`_
 
@@ -252,5 +255,3 @@ Application
 Miscellaneous
 ***************************************************************************************************
 Reading, listening and watching several kinds of books, magazines, documentaries in very different areas including society, religion, psychology, philosophy, history, politics.
-
-

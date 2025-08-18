@@ -41,7 +41,7 @@
 
      - .. image:: yoosofan20241021.jpg
            :align: center
-           :width: 100px
+           :width: 150px
 
 .. csv-table::
    :widths: 8, 45
@@ -68,6 +68,9 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 برخی از ابزارهای تولید شده
 ###################################################################################################
 * `<https://yoosofan.github.io/webrel/index.html>`_
+* https://github.com/yoosofan/bildumilo
+* https://github.com/yoosofan/slide
+* https://github.com/yoosofan/parsPL
 * تعدادی از پروژه‌های متن‌باز `<https://github.com/yoosofan>`_
 * نرم‌افزار کنترل تولید `شرکت پتروشیمی نوری <https://www.bpciran.com/portal/>`_. `نشانی پتروشیمی نوری <https://www.openstreetmap.org/#map=15/27.5526/52.5568>`_ , `نشانی پتروشیمی نوری با نام <https://www.openstreetmap.org/way/317494336>`_
 
