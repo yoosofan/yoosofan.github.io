@@ -1,10 +1,10 @@
 .. title: سیستم عامل
 .. slug: os
 .. date: 2015-08-13 09:20:36 UTC+04:30
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 
@@ -17,6 +17,12 @@
 * `Modern Operating Systems, 4/E(2014), by  Andrew S. Tanenbaum and Herbert Bos <http://www.pearsonhighered.com/educator/product/Modern-Operating-Systems/9780133591620.page>`_
 * `Schaum's outline of operating systems(2002), by J Archer Harris <http://www.goodreads.com/book/show/664165.Schaum_s_Outline_of_Operating_Systems>`_
 * `Operating Systems: Three Easy Pieces(2018), by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau <https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters>`_
+* `The little book about OS development` <https://littleosbook.github.io/>`_
+
+.. :
+
+    https://github.com/remzi-arpacidusseau?tab=repositories
+    https://github.com/remzi-arpacidusseau/ostep-homework/?tab=readme-ov-file
 
 دیگر منابع
 =================
@@ -27,7 +33,7 @@
 * `Operating System Concepts <http://codex.cs.yale.edu/avi/os-book/OS9/index.html>`_
 * `<https://www.tutorialspoint.com/operating_system>`_
 
-`شبیه ساز الگوریتم‌های زمان‌بندی سیستم عامل به کمک 
+`شبیه ساز الگوریتم‌های زمان‌بندی سیستم عامل به کمک
 javascript
 </webosasim/scheduling.html>`_
 

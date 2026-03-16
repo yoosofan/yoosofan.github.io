@@ -7,6 +7,9 @@
 .. description:
 .. type: text
 
+فهرست اسلایدهای درس
+===================
+
 فهرست کتاب‌های پیشنهادی برای ++C
 ===================================================================================================
 .. class:: yoosofan-change-ltr
@@ -133,20 +136,20 @@ Integrated Development Environments (IDEs)
     using namespace std;
     struct ComplexCls{
        double re, img;
-       void input(void){
+       void input(){
           cout<<"Enter real part of complex number: ";
           cin>>re;
           cout<<"Enter imaginary part of complex number: ";
           cin>>img;
        }
-       void display(void){
+       void display(){
           cout<<re<<" + i "<<img<<endl;
        }
        void init(double real, double imaginary){
           re = real;
           img= imaginary;
        }
-       void Negation(void){
+       void Negation(){
           re = - re ;
           img= - img;
        }
@@ -165,7 +168,6 @@ Integrated Development Environments (IDEs)
        y.display();
        z=x.Add(y);
        z.display();
-       return 0;
     }
 
 
