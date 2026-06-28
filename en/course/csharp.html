@@ -123,12 +123,12 @@ Beginning Visual C# 2010 /Karli">
 <p>First, Download and install <a class="reference external" href="http://mono-project.com/">mono</a> . This is an open source and free implementation
 of .Net for several platforms.</p>
 <p>برای کامپایل و اجرا کردن  برنامه test.cs باید دستورهای زیر در یکی از پیشانه‌ها (کنسول‌ها ، ترمینال‌ها) مانند gnome-terminal یا xterm یا konsole در لینوکس اجرا شود. در ویندوز باید cmd را اجرا کرد و به پوشه‌ای که mono نصب است رفت و در آنجا دستورهای زیر را اجرا کرد. البته در ویندوز پس از نصب mono در start menu بخش programs پیوندی برای اجرای خط فرمان mono بدون نیاز به تغییر مسیر گذاشته شده است که با اجرای آن می‌توانید در هر مکانی دستورهای زیر را اجرا نمایید. مهم‌ترین تغییر آن فقط افزوده شدن مسیرهای mono به مسیرها پیش فرض ویندوز (path) در این محیط است.</p>
-<div class="code"><pre class="code sh"><a id="rest_code_f9b99d6e01bd43a7b15fa2c57844f3d1-1" name="rest_code_f9b99d6e01bd43a7b15fa2c57844f3d1-1" href="csharp.html#rest_code_f9b99d6e01bd43a7b15fa2c57844f3d1-1"></a>$<span class="w"> </span>gmcs<span class="w">  </span>test.cs
-<a id="rest_code_f9b99d6e01bd43a7b15fa2c57844f3d1-2" name="rest_code_f9b99d6e01bd43a7b15fa2c57844f3d1-2" href="csharp.html#rest_code_f9b99d6e01bd43a7b15fa2c57844f3d1-2"></a>mono<span class="w">  </span>test.exe
+<div class="code"><pre class="code sh"><a id="rest_code_17e2831de54c4e4b824864eceb9c7bb8-1" name="rest_code_17e2831de54c4e4b824864eceb9c7bb8-1" href="csharp.html#rest_code_17e2831de54c4e4b824864eceb9c7bb8-1"></a>$<span class="w"> </span>gmcs<span class="w">  </span>test.cs
+<a id="rest_code_17e2831de54c4e4b824864eceb9c7bb8-2" name="rest_code_17e2831de54c4e4b824864eceb9c7bb8-2" href="csharp.html#rest_code_17e2831de54c4e4b824864eceb9c7bb8-2"></a>mono<span class="w">  </span>test.exe
 </pre></div>
 <p>برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شمارهٔ خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.</p>
-<div class="code"><pre class="code sh"><a id="rest_code_f96cdda5213d4695ac996028f4b87d7d-1" name="rest_code_f96cdda5213d4695ac996028f4b87d7d-1" href="csharp.html#rest_code_f96cdda5213d4695ac996028f4b87d7d-1"></a>gmcs<span class="w"> </span>-debug<span class="w">  </span>test.cs
-<a id="rest_code_f96cdda5213d4695ac996028f4b87d7d-2" name="rest_code_f96cdda5213d4695ac996028f4b87d7d-2" href="csharp.html#rest_code_f96cdda5213d4695ac996028f4b87d7d-2"></a>mono<span class="w">  </span>--debug<span class="w"> </span>test.exe
+<div class="code"><pre class="code sh"><a id="rest_code_143799f3d5ae4286b59c41bfb5ebd1c9-1" name="rest_code_143799f3d5ae4286b59c41bfb5ebd1c9-1" href="csharp.html#rest_code_143799f3d5ae4286b59c41bfb5ebd1c9-1"></a>gmcs<span class="w"> </span>-debug<span class="w">  </span>test.cs
+<a id="rest_code_143799f3d5ae4286b59c41bfb5ebd1c9-2" name="rest_code_143799f3d5ae4286b59c41bfb5ebd1c9-2" href="csharp.html#rest_code_143799f3d5ae4286b59c41bfb5ebd1c9-2"></a>mono<span class="w">  </span>--debug<span class="w"> </span>test.exe
 </pre></div>
 <p><a class="reference external" href="../../files/course/csharp/my_mono_csharp_samples.zip">sample codes</a></p>
 <p><a class="reference external" href="http://monodevelop.com">monodevelp</a>
